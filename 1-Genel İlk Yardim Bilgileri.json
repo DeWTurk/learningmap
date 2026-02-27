@@ -1,0 +1,238 @@
+[
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Acil tedavi, hasta veya yaralılara kimler tarafından yapılan tıbbi müdahalelerdir?",
+  "İlaçsız": "Doktor ve sağlık personeli."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardım ile acil tedavi arasındaki temel fark, ilkyardımın hangi tür malzemelerle yapılmasıdır?",
+  "İlaçsız": "Mevcut (olay yerinde bulunabilen) araç ve gereçlerle."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın öncelikli amaçlarından biri olan iyileşmeyi _____.",
+  "İlaçsız": "Kolaylaştırmak."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın öncelikli amaçlarından biri, hasta veya yaralının durumunun _____ önlenmesidir.",
+  "İlaçsız": "Kötüleşmesinin."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayati tehlikenin ortadan kaldırılması ilkyardımın hangi düzeydeki amaçları arasındadır?",
+  "İlaçsız": "Öncelikli amaçları."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın temel uygulamalarını ifade eden KBK kısaltmasının açılımı nedir?",
+  "İlaçsız": "Koruma, Bildirme, Kurtarma."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın temel uygulamalarından olan 'Koruma' neyi kapsar?",
+  "İlaçsız": "Olay yerinin değerlendirilmesini ve güvenli bir çevre oluşturulmasını."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Türkiye'de ilkyardım gerektiren durumlarda kullanılan acil telefon numarası nedir?",
+  "İlaçsız": 112
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "112 aranırken, merkezin sorduğu sorulara nasıl cevap verilmelidir?",
+  "İlaçsız": "Net bir şekilde."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "112 hattındaki görevliyle iletişim ne zamana kadar sürdürülmelidir?",
+  "İlaçsız": "Görevli tüm bilgileri aldığını söyleyip telefonu kapatana kadar."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "112 aranırken kesin yer ve adres bilgisi verilirken neyin belirtilmesi kolaylık sağlar?",
+  "İlaçsız": "Caddenin veya çok bilinen bir yerin adı."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın temel uygulamalarından 'Kurtarma' (müdahale) nasıl bir hızla yapılmalıdır?",
+  "İlaçsız": "Hızlı ancak sakin bir şekilde."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı, müdahale sırasında öncelikle kimlerin durumunu değerlendirerek müdahale sırasını belirler?",
+  "İlaçsız": "Hasta ve yaralıların."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı, müdahale sırasında hasta\/yaralının korku ve _____ gidermelidir.",
+  "İlaçsız": "Endişelerini."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Kırıklara yönelik ilkyardım müdahalesi nerede yapılmalıdır?",
+  "İlaçsız": "Olduğu yerde (yerinde)."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayati bir tehlike olmadığı sürece ağır yaralı bir kişiye yapılması gereken temel kural nedir?",
+  "İlaçsız": "Asla yerinden kıpırdatılmamalıdır."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın ABC'sini değerlendirmeye başlamadan önce kontrol edilmesi gereken durum nedir?",
+  "İlaçsız": "Bilinç durumu."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın ABC'sindeki 'A' harfi hangi değerlendirmeyi ifade eder?",
+  "İlaçsız": "Hava yolu açıklığının değerlendirilmesi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın ABC'sindeki 'B' harfi hangi değerlendirmeyi ifade eder?",
+  "İlaçsız": "Solunumun değerlendirilmesi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Solunumun değerlendirilmesinde hangi yöntem kullanılır?",
+  "İlaçsız": "Bak-Dinle-Hisset."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımın ABC'sindeki 'C' harfi hangi değerlendirmeyi ifade eder?",
+  "İlaçsız": "Dolaşımın değerlendirilmesi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Dolaşım değerlendirmesi yapılırken nabız nereden kontrol edilir?",
+  "İlaçsız": "Şah damarından."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Şah damarından nabız kontrolü kaç saniye süreyle yapılmalıdır?",
+  "İlaçsız": "5 saniye."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı, olay yerinde müdahale yaparken öncelikle kimin can güvenliğini korumalıdır?",
+  "İlaçsız": "Kendi can güvenliğini."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İyi bir iletişim becerisine sahip olmak kimin temel özellikleri arasındadır?",
+  "İlaçsız": "İlkyardımcının."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zinciri toplam kaç halkadan oluşur?",
+  "İlaçsız": "4 halka."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zincirinin 1. halkası nedir?",
+  "İlaçsız": "Sağlık kuruluşuna haber verilmesi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zincirinin 2. halkası nedir?",
+  "İlaçsız": "Olay yerinde Temel Yaşam Desteği yapılması."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zincirinin hangi halkaları ilkyardımcının görevi değildir?",
+  "İlaçsız": "3. ve 4. halkalar (İleri yaşam desteği)."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zincirinin 3. halkası nedir?",
+  "İlaçsız": "Ambulans ekiplerince müdahaleler yapılması."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayat kurtarma zincirinin 4. halkası nedir?",
+  "İlaçsız": "Hastane acil servislerinde müdahale yapılması."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Vücudun hareket etmesini, desteklenmesini sağlayan ve koruyucu görev yapan sistem hangisidir?",
+  "İlaçsız": "Hareket sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Kemikler, eklemler ve kaslar hangi vücut sistemini oluşturur?",
+  "İlaçsız": "Hareket sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Vücut dokularına oksijen, besin ve hormon taşıyan sistem hangisidir?",
+  "İlaçsız": "Dolaşım sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Kalp, kan damarları ve kan hangi vücut sistemine aittir?",
+  "İlaçsız": "Dolaşım sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Bilinç, anlama ve düşünme gibi fonksiyonları sağlayan vücut sistemi hangisidir?",
+  "İlaçsız": "Sinir sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Beyin, beyincik, omurilik ve omurilik soğanı hangi sistemi oluşturur?",
+  "İlaçsız": "Sinir sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Solunum ve dolaşımı kontrol eden, hareketlerin uyumu ve dengesini sağlayan sistem hangisidir?",
+  "İlaçsız": "Sinir sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Vücuda gerekli gaz alışverişini yaparak hücrelerin oksijenlenmesini sağlayan sistem hangisidir?",
+  "İlaçsız": "Solunum sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Solunum yolları ve akciğerler hangi vücut sistemine aittir?",
+  "İlaçsız": "Solunum sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Kanı süzerek zararlı maddelerin atılmasını ve iç dengenin korunmasını sağlayan sistem hangisidir?",
+  "İlaçsız": "Boşaltım sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Böbrekler ve idrar kesesi hangi vücut sisteminin organlarıdır?",
+  "İlaçsız": "Boşaltım sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İdrar borusu ve idrar kanalları hangi vücut sistemine dahildir?",
+  "İlaçsız": "Boşaltım sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Ağızdan alınan besinlerin öğütülüp sindirilmesini ve kan dolaşımına dağıtılmasını sağlayan sistem hangisidir?",
+  "İlaçsız": "Sindirim sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Dil, dişler, yemek borusu ve mide hangi sisteme aittir?",
+  "İlaçsız": "Sindirim sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Safra kesesi, pankreas ve bağırsaklar hangi vücut sisteminin parçasıdır?",
+  "İlaçsız": "Sindirim sistemi."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı, hasta veya yaralının yarasını görmesine neden izin vermemelidir?",
+  "İlaçsız": "Korku ve endişesinin artmasını önlemek için."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcının müdahale sırasında hasta veya yaralıyı sıcak tutması neden önemlidir?",
+  "İlaçsız": "Durumunun ağırlaşmasını önlemek için."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı, çevredeki kişileri nasıl bir yaklaşımla yönlendirmelidir?",
+  "İlaçsız": "Organize ederek ve onlardan yararlanarak."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcının temel vücut yapısı ve işleyişini bilmesi müdahalelerinde ona ne sağlar?",
+  "İlaçsız": "Bilinçli olmasını kolaylaştırır."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "112 aranırken yaralıların hangi bilgisi verilmelidir?",
+  "İlaçsız": "Adları, sayısı ve durumları."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcı müdahale sırasında hasta\/yaralının moralini yükseltmek için ne yapmalıdır?",
+  "İlaçsız": "Korku ve endişelerini gidermelidir."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Hayatın kurtarılması amacıyla yapılan ilaçsız müdahalelere ne denir?",
+  "İlaçsız": "İlkyardım."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Müdahale (Kurtarma) aşamasında öncelikli müdahale edilecekler neye göre belirlenir?",
+  "İlaçsız": "ABC değerlendirmesine göre."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Dolaşım sisteminin vücut dokularından topladığı atıkları geriye toplama işlevine ne ad verilir?",
+  "İlaçsız": "Yeniden geriye toplama."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Acil durumda telefon iletişimleri Türkiye'de hangi numara üzerinden yürütülür?",
+  "İlaçsız": 112
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "İlkyardımcıda bulunması gereken, kısıtlı imkanları en iyi şekilde kullanma yeteneğine ne denir?",
+  "İlaçsız": "Eldeki olanakları değerlendirebilme."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Kimin, hangi numaradan aradığı bilgisi 112 aranırken neden önemlidir?",
+  "İlaçsız": "Geri dönüş yapılabilmesi ve teyit için."
+ },
+ {
+  "İlkyardım; herhangi bir kaza veya yaşamı tehlikeye düşüren durumda tıbbi yardım sağlanıncaya kadar yapılan _____ uygulamalardır.": "Vücut sistemleri arasında 'iç dengeyi koruma' görevi hangi sisteme aittir?",
+  "İlaçsız": "Boşaltım sistemi."
+ }
+]
