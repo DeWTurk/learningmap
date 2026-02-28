@@ -207,5 +207,16 @@
   "Explaination": 1,
   "Answer": "Her durumda hastaya ilaç verme konusunda pratik olmalıdır.",
   "Video": 1
+ },
+ {
+  "Question": "Hayat kurtarma zincirinin ilk halkası nedir?",
+  "A": "Ambulans ekiplerinin müdahalesi",
+  "B": "Olay yerinde temel yaşam desteği",
+  "C": "Sağlık kuruluşuna haber verilmesi (112)",
+  "D": "Hastanede acil servis müdahalesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sağlık kuruluşuna haber verilmesi (112)",
+  "Video": 1
  }
 ]
