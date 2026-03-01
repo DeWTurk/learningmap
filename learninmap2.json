@@ -1,0 +1,200 @@
+[
+ {
+  "Question": "İlkyardımda hasta/yaralının yaşam bulguları değerlendirilirken aşağıdakilerden hangisi bu kapsamda yer almaz?",
+  "A": "Kan grubu",
+  "B": "Solunum ve Dolaşım",
+  "C": "Vücut ısısı",
+  "D": "Bilinç durumu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kan grubu",
+  "Video": 1
+ },
+ {
+  "Question": "Sadece ağrılı uyaranlara cevap veren bir hasta/yaralının bilinç düzeyi aşağıdakilerden hangisidir?",
+  "A": "Bilinci yerinde",
+  "B": "3. Derece Bilinç Kaybı",
+  "C": "1. Derece Bilinç Kaybı",
+  "D": "2. Derece Bilinç Kaybı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "2. Derece Bilinç Kaybı",
+  "Video": 1
+ },
+ {
+  "Question": "Sağlıklı yetişkin bir kişide normal solunum sıklığı dakikada kaçtır?",
+  "A": "16-22",
+  "B": "18-24",
+  "C": "60-100",
+  "D": "12-20",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "12-20",
+  "Video": 1
+ },
+ {
+  "Question": "İlkyardımda vücut ısısı nereden ölçülmelidir ve normal değeri nedir?",
+  "A": "Koltuk altından / 36,5 °C",
+  "B": "Ağızdan / 37,5 °C",
+  "C": "Alından / 35,0 °C",
+  "D": "Kulaktan / 38,0 °C",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Koltuk altından / 36,5 °C",
+  "Video": 1
+ },
+ {
+  "Question": "İlk değerlendirmede havayolu açıklığı sağlanırken bilinci kapalı kişide ağız içi kontrolünün temel amacı nedir?",
+  "A": "Dilin geri kaçıp kaçmadığını görmek",
+  "B": "Dişlerin sağlamlığını kontrol etmek",
+  "C": "Yabancı cisim veya kusmuk varlığını tespit etmek",
+  "D": "Ağız kokusundan zehirlenmeyi anlamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yabancı cisim veya kusmuk varlığını tespit etmek",
+  "Video": 1
+ },
+ {
+  "Question": "İlk değerlendirme sonucunda bilinci kapalı ancak solunumu ve nabzı olan bir yaralıya hangi pozisyon verilmelidir?",
+  "A": "Sırt üstü yatış pozisyonu",
+  "B": "Yüz üstü yatış pozisyonu",
+  "C": "Koma pozisyonu",
+  "D": "Şok pozisyonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şok pozisyonu",
+  "Video": 1
+ },
+ {
+  "Question": "İkinci değerlendirme aşamasında 'Görüşerek Bilgi Edinme' kısmında ilkyardımcı ne yapmamalıdır?",
+  "A": "Alerji ve kullanılan ilaçları sormalı",
+  "B": "Yaralının paniğe kapılmasını önlemeli",
+  "C": "Kendini tanıtmalı",
+  "D": "Yaralıya yaralarını göstererek durumu anlatmalı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yaralıya yaralarını göstererek durumu anlatmalı",
+  "Video": 1
+ },
+ {
+  "Question": "İkinci değerlendirmede 'Boyun' muayenesi yapılırken hangi temel prensibe uyulmalıdır?",
+  "A": "Yaralının başı hızla sağa sola çevrilmelidir",
+  "B": "Sadece kanama varsa kontrol edilmelidir",
+  "C": "Aksi ispat edilene kadar boyun zedelenmesi ihtimali unutulmamalıdır",
+  "D": "Boyun her yöne hareket ettirilerek sertlik kontrol edilmelidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aksi ispat edilene kadar boyun zedelenmesi ihtimali unutulmamalıdır",
+  "Video": 1
+ },
+ {
+  "Question": "Olay yeri değerlendirmesinin temel amacı nedir?",
+  "A": "Kazaya karışanların suçluluk oranını belirlemek",
+  "B": "Tekrar kaza olma riskini önlemek ve yaralı sayısını belirlemek",
+  "C": "Araçtaki maddi hasarın boyutunu kaydetmek",
+  "D": "Yaralıların yakınlarına haber vermek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tekrar kaza olma riskini önlemek ve yaralı sayısını belirlemek",
+  "Video": 1
+ },
+ {
+  "Question": "Olay yerinde LPG'li bir araçta kaza söz konusu ise yapılması gereken ilk güvenlik önlemi nedir?",
+  "A": "Aracın bagajındaki tüpün vanasını kapatmak",
+  "B": "Aracın camlarını kırmak",
+  "C": "Tüpün üzerine su dökmek",
+  "D": "Tüpü araçtan uzağa taşımak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aracın bagajındaki tüpün vanasını kapatmak",
+  "Video": 1
+ },
+ {
+  "Question": "Olay yerinde gaz varlığı söz konusu ise hangisi yapılmamalıdır?",
+  "A": "Hasta/yaralı güvenli alana tahliye edilmeli",
+  "B": "Işıklı işaret cihazları veya el feneri açılmalı",
+  "C": "Ortam havalandırılmalı",
+  "D": "Kıvılcım çıkarabilecek cihazlar kullanılmamalı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Işıklı işaret cihazları veya el feneri açılmalı",
+  "Video": 1
+ },
+ {
+  "Question": "Vücutta nabız alınabilen noktalarla ilgili aşağıdakilerden hangisi yanlıştır?",
+  "A": "Ön-kol damarı: Bileğin iç yüzü, baş parmak hizasındadır",
+  "B": "Bacak damarı: Ayak sırtının merkezindedir",
+  "C": "Kol damarı: Kolun dış yüzü, dirsek arkasındadır",
+  "D": "Şah damarı: Adem elmasının her iki yanındadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kol damarı: Kolun dış yüzü, dirsek arkasındadır",
+  "Video": 1
+ },
+ {
+  "Question": "Solunum derinliği değerlendirilirken neye bakılır?",
+  "A": "Nefes alıp verme arasındaki sürenin eşitliğine",
+  "B": "Bir dakikadaki toplam nefes sayısına",
+  "C": "Nefes kokusunun keskinliğine",
+  "D": "Göğüs kafesinin her nefeste ne kadar hareket ettiğine",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Göğüs kafesinin her nefeste ne kadar hareket ettiğine",
+  "Video": 1
+ },
+ {
+  "Question": "İkinci değerlendirmede 'Baş' muayenesi yapılırken kulak veya burundan sıvı/kan gelmesi neyi işaret edebilir?",
+  "A": "Kafa tabanı kırığı veya ciddi kafa travmasını",
+  "B": "Basit bir soğuk algınlığını",
+  "C": "Yaralının sadece burnunun kanadığını",
+  "D": "Vücut ısısının çok yükseldiğini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kafa tabanı kırığı veya ciddi kafa travmasını",
+  "Video": 1
+ },
+ {
+  "Question": "Olay yerinde güvenliği sağlamak için üçgen reflektörler kaza noktasının neresine yerleştirilmelidir?",
+  "A": "Sadece aracın hemen arkasına",
+  "B": "Sadece yaralının başına",
+  "C": "Aracın tavanına",
+  "D": "Kaza noktasının önüne ve arkasına",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kaza noktasının önüne ve arkasına",
+  "Video": 1
+ },
+ {
+  "Question": "Olay yeri değerlendirilirken hasta/yaralı ile ilgili yapılması gerekenlerden hangisi yanlıştır?",
+  "A": "Yerinden oynatılmamalıdır",
+  "B": "Nazik ve hoşgörülü davranılmalıdır",
+  "C": "Sıcak tutulmalıdır",
+  "D": "Bilinci kapalı ise su verilmelidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bilinci kapalı ise su verilmelidir",
+  "Video": 1
+ },
+ {
+  "Question": "İlkyardımda bilinç durumu değerlendirilirken yetişkinlere nasıl soru sorulur?",
+  "A": "\"Nereniz ağrıyor?\"",
+  "B": "\"İyi misiniz?\"",
+  "C": "\"Adın ne?\"",
+  "D": "\"Beni duyuyor musun?\"",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "\"İyi misiniz?\"",
+  "Video": 1
+ },
+ {
+  "Question": "Kol ve bacakların muayenesinde aşağıdakilerden hangisi bir 'işlev kaybı' belirtisi olarak değerlendirilir?",
+  "A": "Morarma ve şişlik",
+  "B": "Sadece ağrı hissedilmesi",
+  "C": "Nabız noktalarından nabız alınması",
+  "D": "Kuvvet ve his kaybı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kuvvet ve his kaybı",
+  "Video": 1
+ }
+]
