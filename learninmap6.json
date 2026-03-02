@@ -1,0 +1,123 @@
+[
+  {
+    "Question": "Aşağıdakilerden hangisi yanığın ciddiyetini belirleyen faktörlerden biri değildir?",
+    "A": "Yanığa neden olan maddenin rengi",
+    "B": "Solunum yoluyla görülen zarar",
+    "C": "Kişinin yaşı ve önceden var olan hastalıkları",
+    "D": "Yanığın meydana geldiği bölge",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Yanığa neden olan maddenin rengi",
+    "Video": 1
+  },
+  {
+    "Question": "3. derece yanıklarda ağrı hissedilmemesinin temel nedeni nedir?",
+    "A": "Derinin kendini çok hızlı yenilemesi",
+    "B": "Yanık bölgesinde ödem oluşması",
+    "C": "Sinir uçlarının zarar görmüş olması",
+    "D": "Vücudun şoka girmesiyle bilincin kapanması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Sinir uçlarının zarar görmüş olması",
+    "Video": 1
+  },
+  {
+    "Question": "Isı ile oluşan yanıklarda, yanık bölge en az kaç dakika çeşme suyu altında tutulmalıdır?",
+    "A": "10 dakika",
+    "B": "20 dakika",
+    "C": "5 dakika",
+    "D": "60 dakika",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "20 dakika",
+    "Video": 1
+  },
+  {
+    "Question": "Elektrik yanıklarında uygulanacak ilk yardımda aşağıdakilerden hangisi kesinlikle YAPILMAMALIDIR?",
+    "A": "Hasar gören bölgenin üzerini temiz bir bezle örtmek",
+    "B": "Yanık bölgesine su ile müdahale etmek",
+    "C": "Hastanın ABC'sini değerlendirmek",
+    "D": "Elektrik akımını kesmek",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Yanık bölgesine su ile müdahale etmek",
+    "Video": 1
+  },
+  {
+    "Question": "Yanık bölgede oluşan su dolu kabarcıklar (bül) ile ilgili en doğru uygulama hangisidir?",
+    "A": "Enfeksiyonu önlemek için hemen patlatılmalıdır",
+    "B": "İçindeki sıvı şırınga ile boşaltılmalıdır",
+    "C": "Üzerine yanık merhemi sürülüp kapatılmalıdır",
+    "D": "Kesinlikle patlatılmamalıdır.",
+    "Image": 1,
+    "Explaination": "Kesinlikle patlatılmamalıdır. Bu kabarcıklar altındaki dokuyu dış etkilerden koruyan doğal bir bariyer görevi görür.",
+    "Answer": "Kesinlikle patlatılmamalıdır.",
+    "Video": 1
+  },
+  {
+    "Question": "Kimyasal yanıklarda bölgenin yıkanma süresi ve suyun tazyik durumu nasıl olmalıdır?",
+    "A": "10 dakika - Buzlu su",
+    "B": "En az 15-20 dakika - Tazyiksiz bol su",
+    "C": "30 dakika - Az miktarda durgun su",
+    "D": "5 dakika - Bol tazyikli su",
+    "Image": 1,
+    "Explaination": "En az 15-20 dakika Tazyiksiz bol su ile yıkanmalıdır. Kimyasal maddenin deriden tamamen uzaklaştırılması için uzun süreli ve nazik bir yıkama gereklidir.",
+    "Answer": "En az 15-20 dakika - Tazyiksiz bol su",
+    "Video": 1
+  },
+  {
+    "Question": "Üzeri alev almış bir kişi panik halinde koşmaya başlarsa ilk yapılması gereken nedir?",
+    "A": "Hızla kıyafetlerini çıkarmaya çalışmak",
+    "B": "Üzerine hemen tazyikli su sıkmak",
+    "C": "Yüzünü ıslak bir havlu ile örtmek",
+    "D": "Koşması engellenerek yere yatırılmalı ve yuvarlanması sağlanmalıdır",
+    "Image": 1,
+    "Explaination": "Koşmak alevlerin oksijenle beslenerek artmasına neden olur; yuvarlanma ise havayla teması keser.",
+    "Answer": "Koşması engellenerek yere yatırılmalı ve yuvarlanması sağlanmalıdır",
+    "Video": 1
+  },
+  {
+    "Question": "Yanık genişse ve sağlık kuruluşu uzaksa, bilinci açık hastaya sıvı kaybını önlemek için hazırlanan karışımın içeriği nedir?",
+    "A": "1 litre su - 1 çay kaşığı karbonat - 1 çay kaşığı tuz",
+    "B": "1 litre su - Yarım bardak süt - 1 çay kaşığı karbonat",
+    "C": "2 litre su - 1 çay kaşığı limon suyu - 1 çay kaşığı tuz",
+    "D": "1 litre su - 1 yemek kaşığı şeker - 1 tatlı kaşığı tuz",
+    "Image": 1,
+    "Explaination": "Bu karışım, vücudun kaybettiği elektrolitleri ve sıvıyı dengelemek için kullanılan ilk yardım formülüdür.",
+    "Answer": "1 litre su - 1 çay kaşığı karbonat - 1 çay kaşığı tuz",
+    "Video": 1
+  },
+  {
+    "Question": "Yanık vakalarında yüzük, bilezik ve saat gibi eşyaların çıkarılma sebebi nedir?",
+    "A": "Tıbbi müdahale sırasında bu eşyaların zarar görmesini engellemek",
+    "B": "Oluşabilecek ödem nedeniyle bölgedeki kan akımının engellenmesini önlemek",
+    "C": "Eşyaların yanık bölgesinde enfeksiyon yapmasını önlemek",
+    "D": "Bu eşyaların yüksek ısıyı muhafaza ederek yanığı derinleştirmesi",
+    "Image": 1,
+    "Explaination": "Yanık sonrası oluşan şişlik (ödem), takıların dokuyu sıkıştırarak dolaşımı bozmasına neden olabilir.",
+    "Answer": "Oluşabilecek ödem nedeniyle bölgedeki kan akımının engellenmesini önlemek",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi fiziksel yanık çeşitleri arasında yer almaz?",
+    "A": "Sürtünme ile oluşan yanıklar",
+    "B": "Donma sonucu oluşan yanıklar",
+    "C": "Asit ve alkali maddelerle oluşan yanıklar",
+    "D": "Elektrik akımı ile oluşan yanıklar",
+    "Image": 1,
+    "Explaination": "Bu tür yanıklar fiziksel değil, kimyasal yanıklar kategorisinde değerlendirilir.",
+    "Answer": "Asit ve alkali maddelerle oluşan yanıklar",
+    "Video": 1
+  },
+  {
+    "Question": "Yanık bölgede oluşan su dolu kabarcıklar (bül) ile ilgili en doğru uygulama hangisidir?",
+    "A": "Enfeksiyonu önlemek için hemen patlatılmalıdır",
+    "B": "İçindeki sıvı şırınga ile boşaltılmalıdır",
+    "C": "Üzerine yanık merhemi sürülüp kapatılmalıdır",
+    "D": "Kesinlikle patlatılmamalıdır.",
+    "Image": 1,
+    "Explaination": "Kesinlikle patlatılmamalıdır. Bu kabarcıklar altındaki dokuyu dış etkilerden koruyan doğal bir bariyer görevi görür.",
+    "Answer": "Kesinlikle patlatılmamalıdır.",
+    "Video": 1
+  }
+]
