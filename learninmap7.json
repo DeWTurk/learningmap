@@ -1,0 +1,222 @@
+[
+  {
+    "Question": "Aşağıdakilerden hangisi çıkıklarda yapılması gereken ilk yardım uygulamalarındandır?",
+    "A": "Çıkığın yerine oturtulmaya çalışılması",
+    "B": "Eklemin düzeltildikten sonra tespit edilmesi",
+    "C": "Çıkık olan bölgeye kuvvetli masaj yapılması",
+    "D": "Bölgenin nabzının, deri renginin ve ısısının kontrol edilmesi",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Bölgenin nabzının, deri renginin ve ısısının kontrol edilmesi",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerin hangisinde kırık olduğunda atelle tespit uygulaması yapılır?",
+    "A": "Kürek kemiği",
+    "B": "Ön kol kemiği",
+    "C": "Kaburga kemiği",
+    "D": "Köprücük kemiği",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Ön kol kemiği",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi kırık, çıkık ve burkulmaların tespiti sırasında dikkat edilmesi gereken hususlardandır?",
+    "A": "Yaralı bölgenin düzeltilmeye çalışılması",
+    "B": "Yara varsa üzerinin temiz bir bezle kapatılması",
+    "C": "Tespit yapılırken yaralı bölgenin hareket ettirilmesi",
+    "D": "Tespit edilecek bölgenin sadece sert malzeme ile kaplanması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Yara varsa üzerinin temiz bir bezle kapatılması",
+    "Video": 1
+  },
+  {
+    "Question": "I.Deri bütünlüğü bozulmuştur. II.Kanama ve enfeksiyon tehlikesi yoktur. Açık kırık ile ilgili olarak verilenler için aşağıdakilerden hangisi söylenebilir?",
+    "A": "I. doğru, II. yanlış",
+    "B": "I. yanlış, II. doğru",
+    "C": "Her ikisi de doğru",
+    "D": "Her ikisi de yanlış",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "I. doğru, II. yanlış",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi burkulmalarda yapılması gereken ilk yardım uygulamalarındandır?",
+    "A": "Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi",
+    "B": "Şişliği azaltmak için bölgenin vücut seviyesinden aşağıya indirilmesi",
+    "C": "Burkulan eklem yüzeyinin sürekli hareket ettirilmesi",
+    "D": "Boğucu sargı (turnike) uygulanması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi burkulma belirtilerinden biri değildir?",
+    "A": "Şişlik",
+    "B": "Kızarma",
+    "C": "İşlev kaybı",
+    "D": "Hareket ile azalan ağrı",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Hareket ile azalan ağrı",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi çıkığı olan kazazedeye yapılacak ilk yardım uygulamalarındandır?",
+    "A": "Çıkan eklemin yerine oturtulması",
+    "B": "Çıkık olan bölgede sadece ısı kontrolü yapılması",
+    "C": "Çıkan eklemin bulunduğu şekilde tespit edilmesi",
+    "D": "Ağızdan ağrı kesiciler vererek ağrısının azaltılması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Çıkan eklemin bulunduğu şekilde tespit edilmesi",
+    "Video": 1
+  },
+  {
+    "Question": "Kırığı olan ya da kırık şüphesi bulunan kazazedeye, aşağıdakilerden hangisinin yapılması doğru bir ilk yardım uygulamasıdır?",
+    "A": "Sorunlu bölgenin hareketsizleştirilmesinin sağlanması",
+    "B": "Kol ya da bacaktaki bozulmuş şeklin düzeltilmeye çalışılması",
+    "C": "Kırık kuşkulu bölge hareketsizleştirilmeden taşıma yapılması",
+    "D": "Kazazedenin oturmasına ya da sağa sola kımıldamasına izin verilmesi",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Sorunlu bölgenin hareketsizleştirilmesinin sağlanması",
+    "Video": 1
+  },
+  {
+    "Question": "Dıştan veya içten etki eden kuvvetlerle kemik dokusunda oluşan ayrılmaya veya bu sebeplerle kemiğin anatomik bütünlüğünün ve devamlılığının bozulmasına - - - - denir. Bu ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+    "A": "Kırık",
+    "B": "Çıkık",
+    "C": "Donma",
+    "D": "Burkulma",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Kırık",
+    "Video": 1
+  },
+  {
+    "Question": "I.Eklem yüzeylerinin anlık olarak ayrılmasıdır. II.Eklem yüzeylerinin kalıcı olarak ayrılmasıdır. III.Darbe sonucu kemiğin anatomik bütünlüğünün bozulmasıdır. Bulmaca her kutuya bir harf gelecek şekilde tamamlandığında, III numaralı alana aşağıdakilerden hangisi gelmelidir?",
+    "A": "Kırık",
+    "B": "Çıkık",
+    "C": "Yanık",
+    "D": "Donuk",
+    "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnTR3uzIVLdQfx603drh0qfKcN5Myn3duBLnGjLvWvZNOu_YI4kwmQe-8FhUhpzrtJnmgcUxoQxGSiWO-xlxfJ_nbHolfzxWT2TLZnIUqb098Y0qlxkVFyRlEk0rymYIoegCgkRZVW9fqfuuV1QNlhNnVVEI02XP7CquHze7m1qSQwxqgwCXX7AL4_oDN7/s1600/Trafik%20Levhalar%C4%B1%2825%29-min.jpg",
+    "Explaination": 1,
+    "Answer": "Kırık",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi burkulmanın tanımıdır?",
+    "A": "Eklem çevresinin şişmesi",
+    "B": "Eklemlerde görülen şekil bozukluğu",
+    "C": "Eklem yüzeylerinin anlık olarak ayrılması",
+    "D": "Eklem yüzeylerinin kalıcı olarak ayrılması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Eklem yüzeylerinin anlık olarak ayrılması",
+    "Video": 1
+  },
+  {
+    "Question": "Zorlama, çarpma, düşme veya çeşitli darbeler sonucu oluşan, eklem yüzeylerinin kalıcı olarak ayrılmasına sebep olan duruma ne ad verilir?",
+    "A": "Kırık",
+    "B": "Çıkık",
+    "C": "Donma",
+    "D": "Burkulma",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Çıkık",
+    "Video": 1
+  },
+  {
+    "Question": "Boyun kırıklarında, yanlış taşıma ve gereksiz hareketler yapılması aşağıdakilerden hangisine neden olur?",
+    "A": "Saç dökülmesine",
+    "B": "Omurilik zedelenmesine",
+    "C": "Bilinç seviyesinin artmasına",
+    "D": "Temel yaşam desteğinin sağlanmasına",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Omurilik zedelenmesine",
+    "Video": 1
+  },
+  {
+    "Question": "Hangi durumdaki kazazede kesinlikle sedye ile taşınmalıdır?",
+    "A": "Omurgasında kırık olan",
+    "B": "Kaburgasında kırık olan",
+    "C": "Birinci derece yanığı olan",
+    "D": "Kolunda yara ve kırık olan",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Omurgasında kırık olan",
+    "Video": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi kırığın tanımıdır?",
+    "A": "Eklem yüzeylerinin anlık olarak ayrılmasıdır.",
+    "B": "Eklem yüzeylerinin kalıcı olarak ayrılmasıdır.",
+    "C": "Kasların aşırı gerilmesi sonucu oluşan hasardır.",
+    "D": "Kemik bütünlüğünün bozulmasıdır.",
+    "Image": 1,
+    "Explaination": "Kırık, dış bir darbe sonucu veya kendiliğinden kemik yapısının sürekliliğini kaybetmesi durumudur.",
+    "Answer": "Kemik bütünlüğünün bozulmasıdır.",
+    "Video": 1
+  },
+  {
+    "Question": "Açık kırığı kapalı kırıktan ayıran en temel fark nedir?",
+    "A": "Kırık bölgesinde yoğun bir ödem oluşması.",
+    "B": "Kırığın sadece yaşlılarda görülmesi.",
+    "C": "Deri bütünlüğünün bozulmuş ve kemik uçlarının dışarı çıkabilmesi.",
+    "D": "Kemik bütünlüğünün bozulmuş olması.",
+    "Image": 1,
+    "Explaination": "Açık kırıklarda deri hasar görmüştür, bu da enfeksiyon ve kanama riskini artırır.",
+    "Answer": "Deri bütünlüğünün bozulmuş ve kemik uçlarının dışarı çıkabilmesi.",
+    "Video": 1
+  },
+  {
+    "Question": "Kol bölgesinde oluşan kırıklarda yüzük ve saat gibi eşyaların çıkarılmasının temel nedeni nedir?",
+    "A": "Oluşabilecek ödem nedeniyle doku hasarını önlemek.",
+    "B": "Röntgen çekimi sırasında görüntü kirliliğini önlemek.",
+    "C": "Eşyaların kaybolmasını engellemek.",
+    "D": "Tıbbi müdahale sırasında doktora kolaylık sağlamak.",
+    "Image": 1,
+    "Explaination": "Oluşabilecek ödem nedeniyle doku hasarını önlemek. Kırık sonrası gelişen şişlik (ödem), takıların kan akışını kesmesine ve doku kangrenine yol açabilir.",
+    "Answer": "Oluşabilecek ödem nedeniyle doku hasarını önlemek.",
+    "Video": 1
+  },
+  {
+    "Question": "Kırık şüphesi olan bir bölgeyi tespit ederken (sabitleyirken) dikkat edilmesi gereken en önemli kural nedir?",
+    "A": "Kırık bölgesini bir alt ve bir üst eklemi de içine alacak şekilde sabitlemek.",
+    "B": "Sadece kırık olan kemiği sarmak yeterlidir.",
+    "C": "Kemiği eski haline getirmek için sertçe çekmek.",
+    "D": "Tespit malzemesi olarak sadece yumuşak battaniyeler kullanmak.",
+    "Image": 1,
+    "Explaination": "Kırık kemiğin hareketini tamamen durdurmak için komşu eklemlerin de sabitlenmesi şarttır.",
+    "Answer": "Kırık bölgesini bir alt ve bir üst eklemi de içine alacak şekilde sabitlemek.",
+    "Video": 1
+  },
+  {
+    "Question": "Çıkıklarda ilk yardım uygulanırken hangisi kesinlikle yapılmamalıdır?",
+    "A": "Tıbbi yardım (112) istenmesi.",
+    "B": "Çıkığın yerine oturtulmaya çalışılması.",
+    "C": "Eklemin bulunduğu şekilde tespit edilmesi.",
+    "D": "Bölgenin nabız ve ısısının kontrol edilmesi.",
+    "Image": 1,
+    "Explaination": "Çıkığı yerine oturtmaya çalışmak eklem bağlarına, damarlara ve sinirlere kalıcı zarar verebilir.",
+    "Answer": "Çıkığın yerine oturtulmaya çalışılması.",
+    "Video": 1
+  },
+  {
+    "Question": "Burkulmalarda şişliği azaltmak için uygulanması gereken yöntemlerden biri hangisidir?",
+    "A": "Bölgeyi kalp seviyesinden aşağıda tutmak.",
+    "B": "Bölgeyi yukarı kaldırmak ve hareket ettirmemek.",
+    "C": "Bölgeye sıcak uygulama yapmak.",
+    "D": "Eklemi sürekli hareket ettirerek açılmasını sağlamak.",
+    "Image": 1,
+    "Explaination": "Elevasyon (yukarı kaldırma) venöz dönüşü artırarak ödem ve şişliğin azalmasına yardımcı olur.",
+    "Answer": "Bölgeyi yukarı kaldırmak ve hareket ettirmemek.",
+    "Video": 1
+  }
+]
