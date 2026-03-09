@@ -1,0 +1,189 @@
+[
+ {
+  "Question": "Aşağıdaki araçlardan hangisinde takograf bulundurulması zorunludur?",
+  "A": "Otomobil",
+  "B": "Traktör",
+  "C": "Motosiklet",
+  "D": "Otobüs",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Otobüs",
+  "Video": 1
+ },
+ {
+  "Question": "Ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin sürekli olarak 4,5 saatlik araç kullanma süresi sonunda, eğer istirahate çekilmiyorlar ise en az kaç dakika mola almaları mecburidir?",
+  "A": 15,
+  "B": "25",
+  "C": 35,
+  "D": 45,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 45,
+  "Video": 1
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde devamlı olarak kaç saatten fazla araç sürmeleri yasaktır?",
+  "A": 1.5,
+  "B": "2,5",
+  "C": "3,5",
+  "D": 4.5,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 4.5,
+  "Video": 1
+ },
+ {
+  "Question": "Kanlarındaki alkol miktarı kaç promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır?",
+  "A": "0,20",
+  "B": "0,30",
+  "C": "0,40",
+  "D": "0.50",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "0.50",
+  "Video": 1
+ },
+ {
+  "Question": "Kanlarındaki alkol miktarı - - - - promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır. Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+  "A": "0,20",
+  "B": "0,30",
+  "C": "0,40",
+  "D": "0.50",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "0.50",
+  "Video": 1
+ },
+ {
+  "Question": "I. İdari para cezası verilir. II. Kara yolunda araç sürmesine izin verilir. III. Sürücü belgesi 5 yıl süreyle geçici olarak geri alınır. Trafik kuruluşunca, uyuşturucu veya uyarıcı madde kullandığı tespit edilen sürücüye yukarıda verilenlerden hangileri uygulanır?",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "I ve III",
+  "D": "I , II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III",
+  "Video": 1
+ },
+ {
+  "Question": "Alkolün beyindeki karar verme ve frenleme yeteneğini bozması, özellikle vücudumuzdaki hangi sistem üzerinde etkili olduğunu gösterir?",
+  "A": "Hareket sistemi",
+  "B": "Sindirim sistemi",
+  "C": "Dolaşım sistemi",
+  "D": "Merkezi sinir sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Merkezi sinir sistemi",
+  "Video": 1
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan bir şoförün aşağıdaki araçlardan hangisini, 24 saatlik herhangi bir süre içinde, toplam olarak 9 ve devamlı olarak 4,5 saatten fazla sürmesi yasaktır?",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOOmLJtjLpyhgJchHYZ8R0AHTD78J0lbsCFQnZK3oW9A42Ld1syeB9awHfzGr8AW9IvFVEzjtpZ74Bh5ap6-5IYtT77jC-_MeHnawTUGAC1k4WDGdEmb1DDxZdKkg3uGXRjfwesU-gQqMoowkvyZzuGko-_eRvMUqaaIYgjdEqJsaCPFge7olA2QFUmIw0/s1600/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C)",
+  "Video": 1
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde toplam olarak kaç saatten fazla araç sürmeleri yasaktır?",
+  "A": 6,
+  "B": 7,
+  "C": 8,
+  "D": 9,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 9,
+  "Video": 1
+ },
+ {
+  "Question": "Türkiye'deki trafik kazalarının yaklaşık yüzde kaçı insan kaynaklı hatalardan meydana gelmektedir?",
+  "A": "98,2%",
+  "B": "95,0%",
+  "C": "75,0%",
+  "D": "50,5%",
+  "Image": 1,
+  "Explaination": "trafik kazalarının çok büyük bir çoğunluğu, yani 98,2%'si insan faktöründen kaynaklanmaktadır.",
+  "Answer": "98,2%",
+  "Video": 1
+ },
+ {
+  "Question": "Hususi araç kullanan sürücüler için yasal alkol sınırı kaç promil olarak belirlenmiştir?",
+  "A": "0,50 promil",
+  "B": "0,20 promil",
+  "C": "0,00 promil",
+  "D": "1,00 promil",
+  "Image": 1,
+  "Explaination": "Karayolları Trafik Kanunu'na göre hususi araç sürücüleri için üst sınır 0,50 promildir.",
+  "Answer": "0,50 promil",
+  "Video": 1
+ },
+ {
+  "Question": "Alkolün sürücü üzerindeki 'uyarıcı' etkisinin bir sonucu aşağıdakilerden hangisidir?",
+  "A": "Yorgunluk ve uyku hali",
+  "B": "Dikkat süresinin artması",
+  "C": "Korkunun azalması ve aşırı özgüven",
+  "D": "Tepki süresinin kısalması",
+  "Image": 1,
+  "Explaination": "Alkolün uyarıcı etkisi sürücüde sahte bir cesaret yaratarak riskli manevralar yapma isteğini artırır.",
+  "Answer": "Korkunun azalması ve aşırı özgüven",
+  "Video": 1
+ },
+ {
+  "Question": "Son 5 yıl içinde ikinci kez alkollü araç kullanırken yakalanan bir sürücünün belgesine ne kadar süreyle el konulur?",
+  "A": "1 yıl",
+  "B": "5 yıl",
+  "C": "2 yıl",
+  "D": "6 ay",
+  "Image": 1,
+  "Explaination": "Alkol kuralının ikinci kez ihlalinde sürücü belgesine 2 yıl süreyle el konulur ve sürücü eğitime tabi tutulur.",
+  "Answer": "2 yıl",
+  "Video": 1
+ },
+ {
+  "Question": "Ticari amaçla yük veya yolcu taşıyan sürücülerin 24 saatlik süre içinde toplamda en fazla kaç saat araç kullanmalarına izin verilir?",
+  "A": "4,5 saat",
+  "B": "11 saat",
+  "C": "12 saat",
+  "D": "9 saat",
+  "Image": 1,
+  "Explaination": "Ticari sürücüler, 24 saatlik bir periyot içerisinde aralıklı olarak toplamda en fazla 9 saat araç sürebilirler.",
+  "Answer": "9 saat",
+  "Video": 1
+ },
+ {
+  "Question": "Trafikte 'Çevre Faktörü' kapsamında değerlendirilen unsurlardan biri aşağıdakilerden hangisidir?",
+  "A": "Yol üzerindeki kar, sis ve yağmur gibi doğal olaylar",
+  "B": "Aracın yük ve yolcu taşıma kapasitesi",
+  "C": "Sürücünün sürüş tarzı ve yeteneği",
+  "D": "Denetim yapan trafik polisleri",
+  "Image": 1,
+  "Explaination": "Çevre faktörü kısaca yol ve yolu etkileyen hava/doğa koşullarını kapsayan bir unsurdur.",
+  "Answer": "Yol üzerindeki kar, sis ve yağmur gibi doğal olaylar",
+  "Video": 1
+ },
+ {
+  "Question": "Uyuşturucu veya uyarıcı madde kullanarak araç sürdüğü tespit edilen bir sürücüye uygulanacak yaptırım nedir?",
+  "A": "Sürücü belgesine 5 yıl süreyle el konulur ve TCK'ya göre işlem yapılır",
+  "B": "Sadece para cezası verilir ve araç bağlanır",
+  "C": "Sağlık raporu getirene kadar belgesine geçici olarak el konulur",
+  "D": "Sürücü belgesine 2 yıl süreyle el konulur ve eğitim verilir",
+  "Image": 1,
+  "Explaination": "Uyuşturucu madde kullanımı sürüş güvenliğini tamamen yok ettiği için en ağır yaptırımlardan biri uygulanır.",
+  "Answer": "Sürücü belgesine 5 yıl süreyle el konulur ve TCK'ya göre işlem yapılır",
+  "Video": 1
+ },
+ {
+  "Question": "Ticari araçlarda çalışma ve dinlenme sürelerini kontrol etmek amacıyla hangi cihazın kullanılması zorunludur?",
+  "A": "SRC Belgesi",
+  "B": "ABS Fren Sistemi",
+  "C": "Navigasyon",
+  "D": "Takograf",
+  "Image": 1,
+  "Explaination": "Takograf cihazı, sürüş sürelerini ve hızı kaydederek yasal sınırların aşılıp aşılmadığını denetler.",
+  "Answer": "Takograf",
+  "Video": 1
+ }
+]
