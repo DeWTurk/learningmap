@@ -1,0 +1,258 @@
+[
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerinin görülmesini engelleyecek şekilde bir şey atmak veya dökmek yasak mıdır?",
+  "Evet, yasaktır.": "Evet, yasaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Karayolu yapısı ve trafik işaretleri üzerine yazı yazarak veya çizerek bunları bozmanın hukuki durumu nedir?",
+  "Evet, yasaktır.": "Yasaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerinin yerini değiştirmek veya onları ortadan kaldırmak yasak mıdır?",
+  "Evet, yasaktır.": "Evet, yasaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Meydana gelen tehlike ve engeller kimler tarafından ortadan kaldırılır?",
+  "Evet, yasaktır.": "İlgili kuruluşlar ve zabıta tarafından."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yoldaki bozukluk ve eksikliklerin derhal giderilmesinden kim sorumludur?",
+  "Evet, yasaktır.": "Yolun yapım ve bakımından sorumlu kuruluşlar."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Karayolu yapısına veya işaretlerine verilen zararın masrafları kime ödetilir?",
+  "Evet, yasaktır.": "Sorumlulara ödetilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerine uymada birinci öncelik kime aittir?",
+  "Evet, yasaktır.": "Trafik görevlisinin işaretleri."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerine uymada ikinci öncelik sırası nedir?",
+  "Evet, yasaktır.": "Işıklı ve sesli trafik işaretleri."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerine uymada üçüncü öncelik sırası nedir?",
+  "Evet, yasaktır.": "Trafik işaret levhaları."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaretlerine uymada dördüncü ve son öncelik sırası nedir?",
+  "Evet, yasaktır.": "Yol çizgileri."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin ön ve arka cephesinde kalan araçlar ne yapmalıdır?",
+  "Evet, yasaktır.": "Durup beklemelidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin kol ve omuz istikametindeki araçlar ne yapmalıdır?",
+  "Evet, yasaktır.": "Geçmelidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin sağ veya sol kolunu yukarı kaldırması ne anlama gelir?",
+  "Evet, yasaktır.": "Bütün yönlere dur işareti."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi bir kolunu yukarı kaldırdığında geçmekte olan araçlar ne yapmalıdır?",
+  "Evet, yasaktır.": "Tamamen durmalıdır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi bir kolunu yukarı kaldırdığında beklemekte olan araçlar ne yapmalıdır?",
+  "Evet, yasaktır.": "Harekete hazırlanmalıdır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin duruş pozisyonuna göre hangi cephelerdeki yollar trafiğe kapalıdır?",
+  "Evet, yasaktır.": "Ön ve arka cephesinde olan yollar."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin sağ ve sol kol istikametindeki yolların trafik durumu nedir?",
+  "Evet, yasaktır.": "Trafiğe açıktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Görevli bir kolunu yukarı kaldırıp diğerini aşağı indirdiğinde, açık olan yolun durumu ne olur?",
+  "Evet, yasaktır.": "Yol trafiğe kapanacaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Görevli bir kolunu yukarı kaldırıp diğerini aşağı indirdiğinde, kapalı olan yolun durumu ne olur?",
+  "Evet, yasaktır.": "Yol trafiğe açılacaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi trafiği yavaşlatmak istediği yöne karşı nasıl durur?",
+  "Evet, yasaktır.": "Cephesi o yöne dönük durur."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafiği yavaşlatma işaretinde kol hangi açılar arasında sallanır?",
+  "Evet, yasaktır.": "$45^{\\circ}$ ile $90^{\\circ}$ arasında."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafiği yavaşlatma işaretinde kol omuzdan nereye kadar kaldırılır?",
+  "Evet, yasaktır.": "Yere paralel oluncaya kadar."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi trafiği hızlandırma işaretini kolunun hangi bölgesinden kırarak yapar?",
+  "Evet, yasaktır.": "Dirsekten."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafiği hızlandırma işaretinde elin hareket yönü nasıldır?",
+  "Evet, yasaktır.": "Başa doğru ileri geri hareket eder."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Sağ kol yukarıdayken sol el ile sağ tarafın gösterilmesi hangi durdurma işaretidir?",
+  "Evet, yasaktır.": "Sola durdurma işareti."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Sol kol yukarıdayken sağ el ile sol tarafın gösterilmesi hangi durdurma işaretidir?",
+  "Evet, yasaktır.": "Sağa durdurma işareti."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Düdüğün kısa kısa ve uzun süreli çalınması ne anlama gelir?",
+  "Evet, yasaktır.": "Hızlan."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Düdüğün uzun, güçlü ve kesintisiz çalınması ne anlama gelir?",
+  "Evet, yasaktır.": "Dur."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece geç işaretinde ışıklı çubuğun ucu hangi hizadan açılmaya başlanır?",
+  "Evet, yasaktır.": "Baş hizasından."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece geç işaretinde çubuğun ucu en son hangi konuma getirilir?",
+  "Evet, yasaktır.": "Yere paralel."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece dur işaretinde ışık çubuğu vücudun hangi yönüne doğru hareket ettirilir?",
+  "Evet, yasaktır.": "Sağından soluna doğru."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece dur işaretinde çubuk kaç derecelik bir açıyla hareket ettirilir?",
+  "Evet, yasaktır.": "$45^{\\circ}$."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece yön belirtme işaretinde gidilmesi gereken yön ne ile gösterilir?",
+  "Evet, yasaktır.": "Bir el ile yön gösterilirken diğeriyle işaret çubuğu hareket ettirilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gündüz yön belirtme işaretinde kolların duruşu nasıldır?",
+  "Evet, yasaktır.": "Bir el yere paralel açılır, diğeri göğüs hizasına getirilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi sol kolunu yana açtığında hangi taraftaki trafik sağa gidebilir?",
+  "Evet, yasaktır.": "Sol taraftaki trafik."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisi sağ kolunu yana açtığında hangi taraftaki trafik sola gidebilir?",
+  "Evet, yasaktır.": "Sağ taraftaki trafik."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Kırmızı ışığın temel anlamı nedir?",
+  "Evet, yasaktır.": "Yolun trafiğe kapalı olduğunu bildirir ve durup beklenir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yeşil ışığın temel anlamı nedir?",
+  "Evet, yasaktır.": "Yolun trafiğe açık olduğunu bildirir ve durmadan geçilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Kırmızı ışıkla birlikte yanan sarı ışık neyi bildirir?",
+  "Evet, yasaktır.": "Yolun trafiğe açılmak üzere olduğunu."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yeşil ışıktan sonra yanan sarı ışık neyi bildirir?",
+  "Evet, yasaktır.": "Yolun trafiğe kapanmak üzere olduğunu."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yeşil ışıktan sonra yanan sarı ışıkta yeterli mesafe varsa ne yapılmalıdır?",
+  "Evet, yasaktır.": "Emniyetli bir şekilde durup beklenir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yeşil ışıktan sonra yanan sarı ışıkta emniyetli bir şekilde durulamayacaksa ne yapılır?",
+  "Evet, yasaktır.": "Geçilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Fasılalı yanan kırmızı ışık hangi trafik levhası ile aynı anlamdadır?",
+  "Evet, yasaktır.": "Dur levhası."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Fasılalı yanan kırmızı ışıkta sürücünün yapması gereken temel hareket nedir?",
+  "Evet, yasaktır.": "Mutlak duruş yapmalı ve yolu kontrol ettikten sonra geçmelidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Fasılalı yanan sarı ışık ne anlama gelir?",
+  "Evet, yasaktır.": "Yol ver."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Fasılalı yanan sarı ışıkta sürücü nasıl davranmalıdır?",
+  "Evet, yasaktır.": "Yavaş ve dikkatli geçmelidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Işıklı oklar hangi sürücülere hitap eder?",
+  "Evet, yasaktır.": "Dönüş yapan sürücülere."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Sürücüler ışıklı oklarda ne zaman dönüş yapabilirler?",
+  "Evet, yasaktır.": "Yeşil ok ışığı yandığında."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Sesli ve yazılı ışıklı işaretlerin temel görevi nedir?",
+  "Evet, yasaktır.": "Araç trafiğine göre yaya trafiğini düzenlemek."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Kavşaklara yaklaşırken ışıkların durumuna göre yapılması gereken ilk eylem nedir?",
+  "Evet, yasaktır.": "Yavaşlamak."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik polisinin omuz istikametindeki araçların geçebilmesi için kolların konumu ne olmalıdır?",
+  "Evet, yasaktır.": "Yana açılmış veya vücut yanlarına indirilmiş olmalıdır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Kırmızı ışıkla birlikte sarı ışık yandığında sürücü neye hazırlanmalıdır?",
+  "Evet, yasaktır.": "Harekete."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik işaret levhaları yol çizgilerinden daha mı önceliklidir?",
+  "Evet, yasaktır.": "Evet, daha önceliklidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik polisinin hızlandırma işaretindeki kol açısı nasıldır?",
+  "Evet, yasaktır.": "Kısa bir açı ile hareket ettirilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece dur işareti yapılırken çubuk vücudun hangi tarafından başlar?",
+  "Evet, yasaktır.": "Vücudun sağından."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Gece yön belirtme hareketinde çubuk nasıl bir hareketle sallanır?",
+  "Evet, yasaktır.": "Geniş bir açıyla."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Karayolu yapısını ve trafik işaretlerini koruma yükümlülüğü kime aittir?",
+  "Evet, yasaktır.": "Tüm yol kullanıcılarına."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik görevlisinin düdük seslerinden hangisi dur emrini temsil eder?",
+  "Evet, yasaktır.": "Uzun, güçlü ve kesintisiz çalınan ses."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Karayolu üzerindeki trafik işaretlerini kasten bozan kişilere ne uygulanır?",
+  "Evet, yasaktır.": "Zarar karşılıkları ve masraflar ödetilir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Hangi ışık kombinasyonu yolun trafiğe açılmak üzere olduğunu gösterir?",
+  "Evet, yasaktır.": "Kırmızı ve sarı ışığın birlikte yanması."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Yeşil ok yanmadan dönüş yapmak yasak mıdır?",
+  "Evet, yasaktır.": "Evet, yasaktır."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Fasılalı sarı ışık yanıyorsa tam duruş yapmak zorunlu mudur?",
+  "Evet, yasaktır.": "Hayır, yavaş ve dikkatli geçmek yeterlidir."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Trafik polisi tüm yönlere dur dediğinde kolu hangi yöne kalkar?",
+  "Evet, yasaktır.": "Havaya (yukarı)."
+ },
+ {
+  "Karayolu yapısı üzerine trafiği güçleştirecek veya tehlikeye sokacak bir şey koymak yasak mıdır?": "Levha hiyerarşisinde 'Işıklı Trafik İşaretleri' kaçıncı sıradadır?",
+  "Evet, yasaktır.": "İkinci sıradadır."
+ }
+]
