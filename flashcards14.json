@@ -1,0 +1,198 @@
+[
+ {
+  "Trafik açısından hızın tanımı nedir?": "Aracın 1 saat boyunca 100 km süratte seyretmesi ne anlama gelir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Aracın 1 saat sonunda 100 km yol gideceğini ifade eder."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Güvenli bir sürüş için hız seçilirken aracın hangi teknik özellikleri dikkate alınmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Aracın yükü ve teknik özellikleri."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız seçimi yapılırken çevre şartlarından hangileri göz önünde bulundurulmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Yolun yapısı, görüş mesafesi, hava ve trafik durumu."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız arttıkça sürücünün görüş mesafesi nasıl değişir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hız arttıkça görüş mesafesi azalır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız artışının fren mesafesi üzerindeki etkisi nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hız arttıkça fren mesafesi artar."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hızın artması sürücünün çevre algısını nasıl etkiler?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Çevredeki tehlikelerin algılanabilmesini zorlaştırır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Şehirler arası karayollarında uygulanması gereken asgari hız sınırı kaçtır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "15 km\/saat."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Otoyollarda sürücülerin uyması gereken asgari hız sınırı nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "40 km\/saat."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Freni bozuk bir aracı çeken araçlar için belirlenen azami hız sınırı kaçtır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "15 km\/saat."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Geçme işlemi sırasında yasal hız sınırı yüzde kaç oranında aşılabilir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "%10."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Geçme sırasında hız sınırının %10 aşılması durumunda sürücüye ceza verilir mi?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hayır, bu durumda sürücülere ceza işlemi uygulanmaz."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Elektronik Denetleme Sistemi (EDS) hız tespitini nasıl yapar?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Güzergâh boyunca belirlenen ortalama hız üzerinden tespit yapar."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "2022 yılı verilerine göre hız sınırını %10’dan %30’a kadar aşmanın para cezası nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "427 TL."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırını %10 ile %30 arasında aşan bir sürücü kaç ceza puanı alır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "10 ceza puanı."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "2022 yılı verilerine göre hız sınırını %30’dan %50’ye kadar aşmanın para cezası nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "888 TL."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırını %30 ile %50 arasında aşan bir sürücüye kaç ceza puanı verilir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "15 ceza puanı."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "2022 yılı verilerine göre hız sınırını %50’den fazla aşmanın para cezası nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "1823 TL."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırını %50’den fazla aşan bir sürücü kaç ceza puanı alır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "15 ceza puanı."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırını %30’dan fazla aşma kuralını 1 yıl içinde 5 kez ihlal eden sürücünün belgesine ne olur?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Sürücü belgesi 1 yıl süreyle geri alınır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Geri alınan sürücü belgesini iade alabilmek için hangi tıbbi muayenelerden geçilmelidir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesi."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Sürücü belgesini geri alabilmek için para cezalarıyla ilgili şart nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Verilen trafik para cezalarının ödenmiş olması şarttır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Son ihlal tarihinden itibaren 5 yıl içinde belgesi ikinci kez geri alınan sürücünün belgesine ne yapılır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Sürücü belgesi iptal edilir."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Sürücü belgesi iptal edilen birinin tekrar belge alabilmesi için hangi eğitim kurumuna gitmesi gerekir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Yeniden bir sürücü kursuna kaydolması gerekmektedir."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Takip mesafesinin tanımı nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Önde giden araç ile aradaki güvenli ve yeterli mesafedir."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Kilometre cinsinden hızın en az yarısı kadar olan metre ölçüsü neyi ifade eder?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Takip mesafesini ifade eder."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "100 km\/saat hızla giden bir aracın güvenli takip mesafesi en az kaç metredir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "50 metre."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Takip mesafesi, takip eden aracın en az kaç saniyede kat edebileceği yol uzunluğu kadar olmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "2 saniye."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Takip mesafesini saniye cinsinden kontrol etmek için kullanılan pratik kuralın adı nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "88-89 kuralı."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "88-89 kuralı uygulanırken sayma işlemi bittiğinde araç nerede olmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hizalanan sabit cismi henüz geçmemiş olmalıdır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hızın artmasıyla takip mesafesi arasındaki ilişki nasıldır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hız arttıkça fren mesafesi uzayacağı için takip mesafesi de artırılmalıdır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Konvoy halinde giden araçlar aralarında ne kadar boşluk bırakmak zorundadır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Kendilerini geçmek isteyen araçların güvenle girebileceği kadar mesafe."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Konvoydaki araçlar arasındaki mesafe, hızlarına göre belirlenen hangi mesafeden az olamaz?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Takip mesafesinden az olamaz."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Tehlikeli madde taşıyan araçların yerleşim yerleri dışındaki takip mesafesi en az kaç metre olmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "50 metre."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Kar, sis ve yağmur gibi kötü hava şartlarında takip mesafesi ne kadar artırılmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "5-6 saniye."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Yan yana seyreden araçların şerit içindeki konumları nasıl olmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Kendi şeritlerini ortalamalıdırlar."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Araçların şerit çizgisi üzerinden seyretmesi trafik kurallarına göre uygun mudur?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hayır, araçlar şerit çizgisi üzerinden seyretmemelidir."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Kötü hava koşullarında motosiklet ve bisiklet sürücülerine nasıl yardımcı olunmalıdır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Hız azaltılmalı, yan yana mesafe ve takip mesafesi artırılmalıdır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Duran araçların yanından geçerken bırakılması gereken güvenli mesafenin temel sebebi nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Araç kapılarının aniden açılma ihtimaline karşı önlem almaktır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Durma mesafesini etkileyen sürücüye bağlı faktörler nelerdir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Sürücünün sağlık durumu, yorgunluğu ve hasta olması."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Yolun hangi geometrik özelliği durma mesafesini doğrudan etkiler?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Yolun eğimi veya rampa olması."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Yol yüzeyinin hangi durumları durma mesafesini uzatır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Yolun yağmurlu, karlı veya buzlu olması."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Aracın hangi teknik aksamları durma mesafesi üzerinde doğrudan etkilidir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Lastikler ve balataların durumu."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırlarını tespit etmek için yollara kurulan cihazlara ne ad verilir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Sabit veya gezici radar cihazları."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Takip mesafesi tespitinde kullanılan '88-89' sayımı toplamda kaç saniyeye tekabül eder?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "2 saniyeye."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız arttıkça kaza riskinin artmasının temel sebebi nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Tehlikeleri algılamanın zorlaşması ve fren mesafesinin uzamasıdır."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Sürücü belgesi iptal edilenlerin muayene sonrası hangi raporu almaları zorunludur?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Psiko-teknik raporu."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hız sınırının %30'dan fazla aşılması durumunda uygulanan ceza puanı kaçtır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "15 ceza puanı."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Hızın tanımında kullanılan 'km\/h' kısaltmasının açılımı nedir?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Kilometre \/ saat."
+ },
+ {
+  "Trafik açısından hızın tanımı nedir?": "Durma mesafesini etkileyen faktörlerden biri olan 'Aracın hızı' ile durma mesafesi arasında nasıl bir orantı vardır?",
+  "Aracın belirli bir zaman aralığında gidebileceği yol miktarıdır.": "Doğru orantı vardır; hız arttıkça durma mesafesi de artar."
+ }
+]
