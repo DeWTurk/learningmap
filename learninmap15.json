@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?\n",
+  "A": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+  "B": "İşaret verdiği anda manevraya başlamalı",
+  "C": "Manevraya başladıktan sonra işaret vermeli",
+  "D": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+  "Video": 1
+ },
+ {
+  "Question": "Bir kavşakta sağa dönecek olan sürücünün aşağıdakilerden hangisini yapması yanlıştır?\n",
+  "A": "Hızını azaltması",
+  "B": "Dönüş işareti vermesi",
+  "C": "Geniş bir kavisle dönmesi",
+  "D": "Sağ şeride veya işaretlerle dönüş izni verilen şeride girmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geniş bir kavisle dönmesi",
+  "Video": 1
+ },
+ {
+  "Question": "Şekildeki aracın sürücüsü, dönel kavşaktan geriye dönüş yapmak için hangi şeridi izlemelidir?\n",
+  "A": "İstediği şeridi",
+  "B": "1 numaralı şeridi",
+  "C": "2 numaralı şeridi",
+  "D": "3 numaralı şeridi",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFvNGV8VvCw3UXjephtDNmuyASPDAjcrBstnBXVNjUzcRaUFwA00VNm7T_bsHuFam4Vg_MjheGCTjYn_wecvjBEDUs6SHKDF1PW-BEeHGkpzCNyS2uqHXdM4Rs3rqwsVn6NPyBh12EgKU5PpOnoqGvY3J6-NH5Be03VyAENbf2QEVQRVyrD8Mf5mUt12rs/s1600/Trafik%20Levhalar%C4%B1%284%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı şeridi",
+  "Video": 1
+ },
+ {
+  "Question": "Sürüş güvenliğini hangisi olumsuz yönde etkiler?\n",
+  "A": "Viraja girmeden önce hızı artırmak",
+  "B": "Aracı kullanırken yola konsantre olmak",
+  "C": "Yüksek hızlarda ani manevra yapmaktan kaçınmak",
+  "D": "Her hızda, fren için ne kadar duruş mesafesi olduğunu hesaplamayı öğrenmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Viraja girmeden önce hızı artırmak",
+  "Video": 1
+ },
+ {
+  "Question": "Sürücünün aşağıdakilerden hangisini yapması kural ihlali sayılır?\n",
+  "A": "Üç şeritli ve iki yönlü yollarda sağ şeritten gitmesi",
+  "B": "Aracın cinsine ve hızına uygun olan şeridi kullanması",
+  "C": "Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi",
+  "D": "Şerit değiştirmeden önce, gireceği şeritte sürülen araçların güvenle geçişlerini beklemesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi",
+  "Video": 1
+ },
+ {
+  "Question": "Sola dönüş yapacak olan sürücülerin aşağıdakilerden hangisini yapması yanlıştır?\n",
+  "A": "Dar bir kavisle dönmesi",
+  "B": "Döneceği yönü önceden işaretle bildirmesi",
+  "C": "Dönüşünü tamamladıktan sonra hızına uygun şeride girmesi",
+  "D": "Kurallara uygun olarak karşıya geçen yayalara ilk geçiş hakkını vermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dar bir kavisle dönmesi",
+  "Video": 1
+ },
+ {
+  "Question": "Trafik uygun olsa bile şekildeki kavşakta, hangi numaralı araçların ok yönündeki hareketi kesinlikle yasaktır?\n",
+  "A": "Yalnız 1",
+  "B": "Yalnız 2",
+  "C": "Yalnız 3",
+  "D": "1, 2 ve 3",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6x0LJTOzqEYe1AywlWsDd_dr_sYWQmBdibGHaYdL3EHkZo10QCU2Oek4WOrL4fblVaVF8MVdmL2fhH5n4E83GxFLIY_px9Hn6RzXS25k9V0pLvRRnMZ76fWHSUaMMtJAstHi4GhtU4oJKuhERqvOwzd7ANngrvzO1r-heHj2KyyCEL8mgZdMS_YaRbok/s1600/Trafik%20Levhalar%C4%B1%285%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Yalnız 3",
+  "Video": 1
+ },
+ {
+  "Question": "Aksine bir işaret yoksa dönüş yaparak doğrultu değiştirecek olan araç sürücülerinin aşağıdakilerden hangisini yapması zorunludur?\n",
+  "A": "Hızını artırması",
+  "B": "Sağa geniş, sola dar kavisle dönmesi",
+  "C": "Dönmeye başladıktan sonra işaret vermesi",
+  "D": "Dönüş sırasında varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dönüş sırasında varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi",
+  "Video": 1
+ },
+ {
+  "Question": "Şekildeki gibi sola dönüş yapacak olan sürücü, aşağıdakilerden hangilerini yapmalıdır?\n\nI.Sola dönüş lambasını yakmalı\n\nII.Hızını azaltmalı\n\nIII.Dar bir kavisle dönmeli\n",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I, II ve III",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSAUXm6HKw3IFXxqb512cW_C4usbbU6yIkJIJalL6sgbFlDN4ZUKgwLZDpCRG7WsouLvXhqFWWKsbltu-JHDtZ_QQy6yh_xo0TIuFaHRANJk3mRmBYuzQYHdyYZTTuo2aNJip6Zo6TGztvXTnkomwWI9DkQvBZD6VMd4d0ek7J-FF4gJxTVCUSB2RSmgE/s1600/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "I ve II",
+  "Video": 1
+ },
+ {
+  "Question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?\n",
+  "A": "İşaret verdiği anda manevraya başlamalı",
+  "B": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+  "C": "Manevraya başladıktan sonra işaret vermeli",
+  "D": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
+  "Video": 1
+ },
+ {
+  "Question": "Karayolu üzerinde yapılan doğrultu değiştirme hareketlerine ne ad verilir ve bu kurallara uyulmaması durumunda sürücü nasıl değerlendirilir?",
+  "A": "Seyir; kusursuz sayılır.",
+  "B": "Manevra; asli kusurlu sayılır.",
+  "C": "Manevra; tali kusurlu sayılır.",
+  "D": "İntikal; asli kusurlu sayılır.",
+  "Image": 1,
+  "Explaination": "Araçların doğrultu değiştirme hareketleri manevra olarak tanımlanır ve bu kurallara uymayanlar asli kusurlu sayılır.",
+  "Answer": "Manevra; asli kusurlu sayılır.",
+  "Video": 1
+ },
+ {
+  "Question": "Sürücülerin manevra yaparken niyetlerini belirtmek için verdikleri işaretlerin süresiyle ilgili kural hangisidir?",
+  "A": "Sadece manevra bittikten sonra diğer sürücüleri bilgilendirmek için verilmelidir.",
+  "B": "Hız azaltılana kadar devam ettirilmelidir.",
+  "C": "Manevra süresince devam ettirilmeli ve manevra biter bitmez sona erdirilmelidir.",
+  "D": "Manevraya başlamadan önce verilip manevra başladığında bitirilmelidir.",
+  "Image": 1,
+  "Explaination": "Kurallar, niyetin önceden belirtilmesini, manevra boyunca sürmesini ve biter bitmez kapatılmasını emreder.",
+  "Answer": "Manevra süresince devam ettirilmeli ve manevra biter bitmez sona erdirilmelidir.",
+  "Video": 1
+ },
+ {
+  "Question": "Sağa dönüş yapmak isteyen bir sürücü, kavis genişliği bakımından aşağıdaki kurallardan hangisine uymak zorundadır?",
+  "A": "Dar bir kavisle dönmeye",
+  "B": "Kavis genişliğine sürücünün kendisinin karar vermesine",
+  "C": "Geniş bir kavisle dönmeye",
+  "D": "Hızını artırarak geniş kavisle dönmeye",
+  "Image": 1,
+  "Explaination": "Sağa dönüşlerde aracın sağ şeritte kalması ve trafiği aksatmaması için dar bir kavisle dönülmesi zorunluluktur.",
+  "Answer": "Dar bir kavisle dönmeye",
+  "Video": 1
+ },
+ {
+  "Question": "Sola dönüş manevrasında, çok şeritli yollarda kavşağı terk ederken hangi şeridin kullanılması uygundur?",
+  "A": "Her zaman en sağ şeritten",
+  "B": "Orta adaya en yakın şeritten",
+  "C": "Emniyet şeridinden",
+  "D": "En sağ şerit dışındaki uygun bir şeritten",
+  "Image": 1,
+  "Explaination": "Sola dönüşte, döneceği yol çok şeritli ise en sağ şerit dışındaki uygun bir şeritten kavşak terk edilmelidir.",
+  "Answer": "En sağ şerit dışındaki uygun bir şeritten",
+  "Video": 1
+ },
+ {
+  "Question": "Geri gitme ve geriye dönüş (U dönüşü) manevraları ile ilgili hangi ifade yasaklanan bir durumu belirtir?",
+  "A": "Dar yollarda geçiş kolaylığı sağlamak için geri gitmek",
+  "B": "Park manevrası sırasında geri gitmek",
+  "C": "Trafiği yoğun olan yollarda geriye dönmek",
+  "D": "Geniş yollarda manevra sırasında şerit değiştirmek",
+  "Image": 1,
+  "Explaination": "Trafiğin yoğun olduğu yollarda yapılan U dönüşleri, akışı ciddi şekilde tehlikeye attığı için yasaklanmıştır.",
+  "Answer": "Trafiği yoğun olan yollarda geriye dönmek",
+  "Video": 1
+ },
+ {
+  "Question": "Bir sürücünün önündeki aracı geçebilmesi (sollama) için uyması gereken temel şartlardan biri nedir?",
+  "A": "Sadece korna çalarak diğer sürücüyü uyarmak",
+  "B": "Önündeki aracın yavaşlamasını beklemek",
+  "C": "Kendisinden sonra gelen aracın kendisini geçmeye başlamamış olması",
+  "D": "Geçilecek aracın sağından hızlanarak geçmek",
+  "Image": 1,
+  "Explaination": "Eğer arkadaki araç sollama manevrasına başladıysa, öndeki aracın da manevraya başlaması tehlikeye yol açar.",
+  "Answer": "Kendisinden sonra gelen aracın kendisini geçmeye başlamamış olması",
+  "Video": 1
+ },
+ {
+  "Question": "Kırmızı ışık veya yetkililerin 'dur' işareti gibi zorunluluklar nedeniyle aracın durdurulması terimi aşağıdakilerden hangisidir?",
+  "A": "Park Etme",
+  "B": "Durma",
+  "C": "Konaklama",
+  "D": "Duraklama",
+  "Image": 1,
+  "Explaination": "Trafik zorunlulukları (ışık, görevli işareti vb.) nedeniyle aracın durdurulması 'durma' olarak tanımlanır.",
+  "Answer": "Durma",
+  "Video": 1
+ },
+ {
+  "Question": "Eğimli bir yolda park eden bir kamyon veya çekici sürücüsü, el frenini çekmenin yanı sıra hangi önlemi almak zorundadır?",
+  "A": "Geri vitese takıp beklemek",
+  "B": "Aracın kapılarını açık bırakmak",
+  "C": "Arka tekerleklerin önüne veya arkasına uygun takoz koymak",
+  "D": "Motoru rölantide çalıştırmak",
+  "Image": 1,
+  "Explaination": "Ağır vasıtalarda (kamyon, otobüs vb.) eğimli yollarda kaymayı önlemek için inişte ön, çıkışta arka tekerleklere takoz konulması mecburidir.",
+  "Answer": "Arka tekerleklerin önüne veya arkasına uygun takoz koymak",
+  "Video": 1
+ },
+ {
+  "Question": "Taşıt yolu üzerinde, yangın musluklarına her iki yönden kaç metrelik mesafe içinde park etmek yasaktır?",
+  "A": "10 metre",
+  "B": "15 metre",
+  "C": "5 metre",
+  "D": "20 metre",
+  "Image": 1,
+  "Explaination": "Yangın musluklarına her iki yönden 5 metre mesafe içinde park etmek yasaktır.",
+  "Answer": "5 metre",
+  "Video": 1
+ },
+ {
+  "Question": "Motosiklet sürücüleri ile ilgili ellerin kullanımı konusundaki zorunluluk nedir?",
+  "A": "Hız ne olursa olsun motosikletin kontrolü için çift el kullanımı esastır.",
+  "B": "Eşya taşırken tek ellerini kullanabilirler.",
+  "C": "Devamlı iki elleri ile taşıtlarını sürmeleri zorunludur.",
+  "D": "Sadece manevra yaparken iki ellerini kullanmalıdırlar.",
+  "Image": 1,
+  "Explaination": "Kurallara göre bisikletliler en az bir, motosikletliler ise sürüş boyunca devamlı iki ellerini kullanmak zorundadır.",
+  "Answer": "Devamlı iki elleri ile taşıtlarını sürmeleri zorunludur.",
+  "Video": 1
+ }
+]

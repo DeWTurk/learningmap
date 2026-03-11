@@ -1,0 +1,234 @@
+[
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Manevra sırasında verilen dönüş işaretlerinin ne zamana kadar devam ettirilmesi mecburidir?",
+  "Manevra": "Manevra bitene kadar"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Şerit değiştirmeden önce niyet belirtilmeden hemen önce hangi kontroller yapılmalıdır?",
+  "Manevra": "İç ve dış aynalar ile gerekirse omuz bakışıyla trafik kontrolü"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sağa dönüş yapacak olan sürücülerin manevrayı hangi genişlikteki kavisle yapmaları gerekir?",
+  "Manevra": "Dar bir kavisle"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sola dönecek olan sürücüler, iki şeritli ve iki yönlü yollarda hangi konuma yanaşmalıdır?",
+  "Manevra": "Sağ şeridin soluna"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sola dönüş manevrası, arkadan gelen araçları engellememek için nasıl bir kavisle yapılır?",
+  "Manevra": "Geniş bir kavisle"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sola dönüş sırasında karşı yönden gelen araçlara hangi durumda yol verilmelidir?",
+  "Manevra": "Emniyetle duramayacak kadar yaklaşmışlarsa"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sola dönen bir araç, gireceği yolun çok şeritli olması halinde kavşağı hangi şeritten terk etmelidir?",
+  "Manevra": "En sağ şerit dışındaki uygun bir şeritten"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Dönel kavşakta sola veya geriye dönecek araçlar hangi şeritten kavşağa girmelidir?",
+  "Manevra": "Orta adaya bitişik şeritten"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Bağlantı yollarında geri gitmekle ilgili kural nedir?",
+  "Manevra": "Yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Tek yönlü yollarda hangi amaçlar dışında geri gitmek yasaktır?",
+  "Manevra": "Duraklama veya park manevrası"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Kamyon ve otobüslerin geri manevrasında görüş alanı emniyetle sağlanamıyorsa ne yapılması mecburidir?",
+  "Manevra": "Gözcü bulundurulması"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Bir aracı geçmeye başlamadan önce arkadan gelen trafikle ilgili kontrol edilmesi gereken durum nedir?",
+  "Manevra": "Başka bir sürücünün geçmeye başlamamış olması"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Araç geçme (sollama) işlemi normal şartlarda aracın hangi tarafındaki şeritten yapılır?",
+  "Manevra": "Solundaki şeritten"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geçilen araç dikiz aynasından görülünceye kadar hangi şeritte ilerlenmelidir?",
+  "Manevra": "Geçiş (sol) şeridinde"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Hangi durumda bir aracın sağındaki şeritten geçilmesine izin verilir?",
+  "Manevra": "Araç sola dönüş işareti verip yavaşladığında veya beklediğinde"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geçilen araç sürücüsü, duyulur veya görülür geçiş işareti alınca hızıyla ilgili ne yapmalıdır?",
+  "Manevra": "Hızını artırmamalıdır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Kırmızı ışık veya yetkililerin dur işareti gibi trafik zorunlulukları nedeniyle aracın durdurulmasına ne denir?",
+  "Manevra": "Durma"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "İnsan indirme, bindirme veya yük boşaltma amacıyla aracın kısa süre durdurulmasına ne ad verilir?",
+  "Manevra": "Duraklama"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Aracın durma ve duraklama halleri dışında bırakılmasına ne denir?",
+  "Manevra": "Park etme"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Duraklama amacı uzun süre beklemeyi gerektiriyorsa motorla ilgili hangi önlem alınmalıdır?",
+  "Manevra": "Motor durdurulmalıdır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "İniş eğimli bir yolda park eden araç hangi vitese takılmalıdır?",
+  "Manevra": "Geri vitese"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yokuş (çıkış) eğimli bir yolda park eden araç hangi vitese takılmalıdır?",
+  "Manevra": "Birinci vitese"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Eğimli yollarda park ederken aracın ön tekerlekleri ne tarafa çevrilmelidir?",
+  "Manevra": "Sağa"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Eğimli yoldaki kamyon ve otobüslerin hangi tekerleklerine takoz konulması mecburidir?",
+  "Manevra": "Her iki arka tekerleğine"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Raylı sistem bulunan yollar hariç, taşıt yolunun hangi şeridinde duraklamak yasaktır?",
+  "Manevra": "Sol şeritte"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yerleşim birimleri içinde kavşaklara kaç metre mesafede duraklamak yasaktır?",
+  "Manevra": "5 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yerleşim birimleri dışında kavşak ve köprülere kaç metre mesafede duraklamak yasaktır?",
+  "Manevra": "100 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yerleşim birimi içinde trafik işaret levhalarına yaklaşım yönünde kaç metre mesafede duraklanamaz?",
+  "Manevra": "15 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Belirlenmiş yangın musluklarına her iki yönden kaç metre mesafe içinde park etmek yasaktır?",
+  "Manevra": "5 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Kamu hizmeti yapan yolcu taşıtlarının durak levhalarına her iki yönden kaç metre mesafe içinde park yasaktır?",
+  "Manevra": "15 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geçiş üstünlüğü olan araçların giriş-çıkış yerlerini belirten levhalara kaç metre mesafede park yasaktır?",
+  "Manevra": "15 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Fabrika, okul veya hastane gibi tesislerin giriş-çıkış kapılarına her iki yönden kaç metre mesafede park yasaktır?",
+  "Manevra": "5 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Park için yer ayrılmamış alt ve üst geçitler ile köprüler üzerinde veya bunlara kaç metre mesafede park yasaktır?",
+  "Manevra": "10 metre"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Aksine bir işaret yoksa, araç sürücüleri yolcularını aracın hangi tarafından indirmek zorundadır?",
+  "Manevra": "Sağ taraftan"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Araçların sol kapılarından yolcu indirilip bindirilmesiyle ilgili kural nedir?",
+  "Manevra": "Yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Park edilmiş ve trafik düzenini etkileyen sahibi belirsiz araçların kaldırılmasından kim sorumludur?",
+  "Manevra": "Trafik zabıtası (veya genel zabıta)"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yasak yere park nedeniyle çekilen bir araç, sahibine hangi şartla teslim edilir?",
+  "Manevra": "Yapılan masraflar ödendikten sonra"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yerleşim birimleri dışında zorunlu haller dışında duraklamanın ceza puanı kaçtır?",
+  "Manevra": "20 ceza puanı"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Yaya ve okul geçitlerinde duraklamanın ceza puanı kaçtır?",
+  "Manevra": "10 ceza puanı"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Engelli araçları için ayrılmış park yerlerine park etmenin ceza puanı kaçtır?",
+  "Manevra": "10 ceza puanı"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Köprüler üzerinde veya 10 metre mesafesinde park etmenin ceza puanı kaçtır?",
+  "Manevra": "15 ceza puanı"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Ayrı bir bisiklet yolu varken bisikletlerin taşıt yolunda sürülmesiyle ilgili kural nedir?",
+  "Manevra": "Yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Bisiklet ve motorlu bisikletlerin taşıt yolunun bir şeridinde en fazla kaç tanesi yan yana sürülebilir?",
+  "Manevra": "En fazla iki"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Motosiklet sürenlerin sürüş sırasında kaç ellerini kullanmaları zorunludur?",
+  "Manevra": "İki ellerini"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Özel imal edilmiş üç tekerlekli motosikletlerle ilgili taşıma kısıtlaması nedir?",
+  "Manevra": "Sadece yük taşınabilir, yolcu taşınamaz"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Sola dönüşten sonra girilen yolda, trafiği tehlikeye düşürmeden en kısa sürede hangi şeride geçilmelidir?",
+  "Manevra": "Sağ şeride"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geriye dönüş (U dönüşü) manevraları trafiği yoğun yollarda nasıl uygulanır?",
+  "Manevra": "Yapılması yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Tramvay hatlarının müsait olmadığı durumlarda tramvayın hangi yanından geçilmesi yasaktır?",
+  "Manevra": "Sol yanından"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geçiş üstünlüğü bulunan bir aracın işareti alınınca sürücüler ne yapmak zorundadır?",
+  "Manevra": "Yer açmak, gerekiyorsa durmak"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Duraklama sırasında banketlerden hangi amaçla yararlanılması önerilir?",
+  "Manevra": "Bulunulan şeritte en az yer işgal etmek için"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Üç veya daha fazla şeritli yollarda, aksine bir işaret yoksa hangi şerit dışındaki şeritlere park etmek yasaktır?",
+  "Manevra": "En sağ şerit"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Aracın terk edilmesi halinde kapılarla ilgili hangi güvenlik önlemi alınmalıdır?",
+  "Manevra": "Kilitlenmelidir"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Bir aracı geçerken sürücü niyetini hangi ışıkla belirtmelidir?",
+  "Manevra": "Sol dönüş lambası"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Geceleri bir aracı geçerken uyarı amacıyla hangi farlar art arda yakılır?",
+  "Manevra": "Kısa ve uzun huzmeli farlar"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Bisiklet sürerken gidonun en az kaç elle tutulması zorunludur?",
+  "Manevra": "En az bir el"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Manevra sırasında niyetin belirtilmesiyle manevraya başlanması arasındaki zamanlama nasıl olmalıdır?",
+  "Manevra": "İşaret verildiği anda aniden şerit değiştirmek yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Taşıt yolu üzerinde duraklayan veya park edilen araçların yol tarafındaki yanında duraklamak yasak mıdır?",
+  "Manevra": "Evet, yasaktır"
+ },
+ {
+  "Karayolu üzerinde araçların yaptıkları doğrultu değiştirme hareketlerine ne ad verilir?": "Park etmenin trafik işareti ile yasaklandığı yerlerde park etmenin ceza puanı kaçtır?",
+  "Manevra": "10 ceza puanı"
+ }
+]
