@@ -33,17 +33,6 @@
   "Video": 1
  },
  {
-  "Question": "Sürüş güvenliğini hangisi olumsuz yönde etkiler?\n",
-  "A": "Viraja girmeden önce hızı artırmak",
-  "B": "Aracı kullanırken yola konsantre olmak",
-  "C": "Yüksek hızlarda ani manevra yapmaktan kaçınmak",
-  "D": "Her hızda, fren için ne kadar duruş mesafesi olduğunu hesaplamayı öğrenmek",
-  "Image": 1,
-  "Explaination": 1,
-  "Answer": "Viraja girmeden önce hızı artırmak",
-  "Video": 1
- },
- {
   "Question": "Sürücünün aşağıdakilerden hangisini yapması kural ihlali sayılır?\n",
   "A": "Üç şeritli ve iki yönlü yollarda sağ şeritten gitmesi",
   "B": "Aracın cinsine ve hızına uygun olan şeridi kullanması",
@@ -96,17 +85,6 @@
   "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNSAUXm6HKw3IFXxqb512cW_C4usbbU6yIkJIJalL6sgbFlDN4ZUKgwLZDpCRG7WsouLvXhqFWWKsbltu-JHDtZ_QQy6yh_xo0TIuFaHRANJk3mRmBYuzQYHdyYZTTuo2aNJip6Zo6TGztvXTnkomwWI9DkQvBZD6VMd4d0ek7J-FF4gJxTVCUSB2RSmgE/s1600/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
   "Explaination": 1,
   "Answer": "I ve II",
-  "Video": 1
- },
- {
-  "Question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?\n",
-  "A": "İşaret verdiği anda manevraya başlamalı",
-  "B": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
-  "C": "Manevraya başladıktan sonra işaret vermeli",
-  "D": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
-  "Image": 1,
-  "Explaination": 1,
-  "Answer": "Ön, arka ve yanlardaki trafiği kontrol etmeli",
   "Video": 1
  },
  {
@@ -209,14 +187,113 @@
   "Video": 1
  },
  {
-  "Question": "Motosiklet sürücüleri ile ilgili ellerin kullanımı konusundaki zorunluluk nedir?",
-  "A": "Hız ne olursa olsun motosikletin kontrolü için çift el kullanımı esastır.",
-  "B": "Eşya taşırken tek ellerini kullanabilirler.",
-  "C": "Devamlı iki elleri ile taşıtlarını sürmeleri zorunludur.",
-  "D": "Sadece manevra yaparken iki ellerini kullanmalıdırlar.",
-  "Image": 1,
-  "Explaination": "Kurallara göre bisikletliler en az bir, motosikletliler ise sürüş boyunca devamlı iki ellerini kullanmak zorundadır.",
-  "Answer": "Devamlı iki elleri ile taşıtlarını sürmeleri zorunludur.",
-  "Video": 1
- }
+    "Question": "Aşağıdakilerden hangisi park etmede alınacak tedbirlerden biri değildir?",
+    "A": "El freni ile tespit edilmesi",
+    "B": "Eğimli yollarda ön tekerleğin sağa çevrilmesi",
+    "C": "Eğimli yollarda otobüslerin her iki arka tekerleklerine takoz konulması",
+    "D": "Aracın terk edilmesi hâlinde camlarının açık bırakılması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Aracın terk edilmesi hâlinde camlarının açık bırakılması",
+    "Video": 1
+   },
+   {
+    "Question": "Park edilen araç için aşağıdakilerden hangisinin yapılmasına gerek yoktur?",
+    "A": "El freninin çekilmesine",
+    "B": "Motorunun durdurulmasına",
+    "C": "Acil uyarı ışıklarının yakılmasına",
+    "D": "Yol eğimli ise uygun vitese takılmasına",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Acil uyarı ışıklarının yakılmasına",
+    "Video": 1
+   },
+   {
+    "Question": "Şekildeki “park etme bilgi işaretine” göre hangi numaralı araçlar yanlış park etmiştir?",
+    "A": "Yalnız 3",
+    "B": "1 ve 2",
+    "C": "1 ve 3",
+    "D": "2 ve 3",
+    "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj-mGsATy5VX_t7UjxnmlIphIdrOzFB5_TkUefSftTUABNrhp56kqwgf8dIz2uBTiqnpw61GGq7B5DGDf3kgR_-r5dpkeXVm9Ns-Nouhh00_0pdN5a8TRS_J50IpQV4rgbwP-Meaj3pUJ7_GMBdui185JtUf-N-VNMkXcgv_94LEcGeG8UPBDI1cAZCjxW6\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
+    "Explaination": 1,
+    "Answer": "Yalnız 3",
+    "Video": 1
+   },
+   {
+    "Question": "Araç sürücülerinin duraklanan veya park edilen yerden çıkarken;\n\nI.Işıkla veya kolla çıkış işareti vermeleri,\n\nII.Araçlarını ve araçların etrafını kontrol etmeleri,\n\nIII. Yoldan geçen araçları ikaz ederek durdurmaları,\n\nIV. Görüş alanları dışında kalan yerler varsa gözcü bulundurmaları mecburidir.\n\nVerilen bilgilerden hangileri doğrudur?",
+    "A": "I ve III.",
+    "B": "I, II ve IV.",
+    "C": "II, III ve IV.",
+    "D": "I, II, III ve IV.",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "I, II ve IV.",
+    "Video": 1
+   },
+   {
+    "Question": "\"- Trafik işaretiyle yasaklanmış olan yerlerde\n\n- Belirlenmiş yangın musluklarına her iki yönden 5 metre mesafe içinde\n\n- Yerleşim yeri içinde kavşaklara ve bağlantı yollarına 5 metre mesafe içinde\n\nBelirtilen yerlerde aşağıdakilerden hangisi yasaktır?",
+    "A": "Durmak",
+    "B": "Duraklamak",
+    "C": "Hızı azaltmak",
+    "D": "Vites değiştirmek",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Duraklamak",
+    "Video": 1
+   },
+   {
+    "Question": "Aşağıdaki yerlerden hangisinde duraklama yapılması yasak değildir?",
+    "A": "Sol şeritte",
+    "B": "Dönemeçlerde",
+    "C": "Yaya ve okul geçitlerinde",
+    "D": "Duraklara 30 metre mesafede",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Duraklara 30 metre mesafede",
+    "Video": 1
+   },
+   {
+    "Question": "Aşağıdakilerden hangisi araçlar için durmaya örnektir?",
+    "A": "Park etmek",
+    "B": "Kırmızı ışıkta beklemek",
+    "C": "Yolcu indirmek ve bindirmek",
+    "D": "Yük boşaltmak için beklemek",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Kırmızı ışıkta beklemek",
+    "Video": 1
+   },
+   {
+    "Question": "Aşağıdakilerden hangisi, duraklanan veya park edilen yerden çıkan araç sürücüsünün uyması gereken kurallardan biri değildir?",
+    "A": "Işıkla veya kolla çıkış işareti vermesi",
+    "B": "Aracını ve aracının etrafını kontrol etmesi",
+    "C": "Yoldan geçen araç sürücülerini ikaz edip yavaşlatması",
+    "D": "Sakıncalı bir durum olmadığında manevraya başlaması",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "Yoldan geçen araç sürücülerini ikaz edip yavaşlatması",
+    "Video": 1
+   },
+   {
+    "Question": "I.Geçiş yollarının önü ve üzeri\n\nII. Kamu hizmeti yapan yolcu taşıtlarının durakları\n\nIII.Görüşün yeterli olmadığı tepe üstlerine yakın yerler ve dönemeçler\n\nYukarıdakilerden hangileri park etmenin yasak olduğu yerlerdendir?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "II ve III",
+    "D": "I, II ve III",
+    "Image": 1,
+    "Explaination": 1,
+    "Answer": "I, II ve III",
+    "Video": 1
+   },
+   {
+    "Question": "Şekildeki aracın sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre mesafe dışına aracını park edebilir?",
+    "A": 5,
+    "B": 10,
+    "C": 15,
+    "D": 20,
+    "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6zMG-gPK5IakPq4YJgqobFXs0GT3EdY7BtfLlreTfV48dLHJ1Qeqx1L-dM4EMxKATNvtCUvrl23VaDfWSc9Y0_wnQYDkI6p4aIL5MYHjGHda-fIXDwFdv9mv-ERixXklHhYP9kjIwf9a8EyFBi09kZDF9ArEBUc_tKR9ZKxfc1cCLoLOtzGPX8wHFl18B\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
+    "Explaination": 1,
+    "Answer": 15,
+    "Video": 1
+   }
 ]
