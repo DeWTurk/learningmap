@@ -1,0 +1,189 @@
+[
+ {
+  "Question": "2918 sayılı Karayolları Trafik Kanunu'na göre, sürücü kurslarını açma ve denetleme yetkisi hangi kuruma aittir?",
+  "A": "Ulaştırma ve Altyapı Bakanlığı",
+  "B": "İçişleri Bakanlığı",
+  "C": "Millî Eğitim Bakanlığı",
+  "D": "Sağlık Bakanlığı",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kanun gereği sürücü kurslarının açılması, denetlenmesi ve sınavlarının yapılması Millî Eğitim Bakanlığının temel görevleri arasındadır.",
+  "Answer": "Millî Eğitim Bakanlığı"
+ },
+ {
+  "Question": "Karayolunda ticari olarak tescil edilmiş bir motorlu taşıtı süren kişiye ne ad verilir?",
+  "A": "Sürücü",
+  "B": "Operatör",
+  "C": "Rehber",
+  "D": "Şoför",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Resmi tanıma göre aracın ticari amaçla kullanılması durumunda kişiye şoför denilmektedir.",
+  "Answer": "Şoför"
+ },
+ {
+  "Question": "Hayvan sürücülerinin trafiğe çıkabilmeleri için en az kaç yaşını bitirmiş olmaları gerekir?",
+  "A": "11",
+  "B": "15",
+  "C": "13",
+  "D": "18",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Karayolları Trafik Kanunu'na göre motorsuz taşıt ve hayvan sürücülerinin en az 13 yaşını doldurmuş olmaları zorunludur.",
+  "Answer": "13"
+ },
+ {
+  "Question": "B sınıfı sürücü belgelerinin geçerlilik süresi veriliş tarihinden itibaren kaç yıldır?",
+  "A": "10 yıl",
+  "B": "5 yıl",
+  "C": "20 yıl",
+  "D": "2 yıl",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Hafif araçlar ve motosiklet grupları için belirlenen standart yenileme periyodu 10 yıldır.",
+  "Answer": "10 yıl"
+ },
+ {
+  "Question": "Aşağıdaki sürücü belgesi sınıflarından hangisinin geçerlilik süresi 5 yıldır?",
+  "A": "A2",
+  "B": "B",
+  "C": "F",
+  "D": "CE",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kamyon ve tır gibi ağır vasıta sınıfları (C ve D grupları) güvenlik nedeniyle 5 yılda bir yenilenmelidir.",
+  "Answer": "CE"
+ },
+ {
+  "Question": "Sürücü adaylarında aranan eğitim şartı en az hangi düzeydedir?",
+  "A": "Lise",
+  "B": "Okuryazar olmak",
+  "C": "Ortaokul",
+  "D": "İlkokul",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Mevzuata göre sürücü belgesi alabilmek için adayların en az ilkokul düzeyinde eğitim almış olmaları gerekmektedir.",
+  "Answer": "İlkokul"
+ },
+ {
+  "Question": "İlk defa sürücü belgesi alan bir kişi kaç yıl boyunca 'aday sürücü' olarak kabul edilir?",
+  "A": "3 yıl",
+  "B": "5 yıl",
+  "C": "1 yıl",
+  "D": "2 yıl",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Yeni sürücülerin trafik kurallarına uyumunu denetlemek amacıyla belirlenen stajyerlik süresi 2 yıldır.",
+  "Answer": "2 yıl"
+ },
+ {
+  "Question": "Aday sürücülük süresi içinde kaç kez hız sınırı ihlali yapılması belgenin iptaline yol açar?",
+  "A": "Beş kez",
+  "B": "Üç kez",
+  "C": "Bir kez",
+  "D": "Yetmiş beş kez",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Hız sınırı, kırmızı ışık ve yaya önceliği gibi hayati kurallar 3 kez ihlal edildiğinde belge tamamen iptal edilir.",
+  "Answer": "Üç kez"
+ },
+ {
+  "Question": "Aday sürücülerin belgelerinin iptal olması için alkol miktarının en az kaç promil olması gerekir?",
+  "A": "0.20 promil",
+  "B": "1.00 promil",
+  "C": "0.50 promil",
+  "D": "0.10 promil",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Aday sürücülerin trafiğe alkollü çıkmasına neredeyse hiç tolerans gösterilmez ve 0.20 promil üstü iptal sebebidir.",
+  "Answer": "0.20 promil"
+ },
+ {
+  "Question": "Aday sürücülük süresince toplam kaç ceza puanının doldurulması belgenin iptaline neden olur?",
+  "A": "150 puan",
+  "B": "50 puan",
+  "C": "100 puan",
+  "D": "75 puan",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Aday sürücülerin iki yıllık süreçte toplam 75 ceza puanına ulaşmaları durumunda belgelerine el konulur ve iptal edilir.",
+  "Answer": "75 puan"
+ },
+ {
+  "Question": "Alkollü araç kullanımı nedeniyle sürücü belgesi iptal edilen bir adayın yeniden başvuru yapabilmesi için hangi raporu ibraz etmesi zorunludur?",
+  "A": "Adli tıp kurumu raporu",
+  "B": "Göz hastalıkları uzmanı raporu",
+  "C": "Genel cerrahi muayene raporu",
+  "D": "Psiko-teknik değerlendirme ve psikiyatri uzmanı raporu",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Alkol kaynaklı iptallerde kişinin sürüşe zihinsel ve fiziksel uygunluğunu kanıtlayan özel bir muayene süreci istenir.",
+  "Answer": "Psiko-teknik değerlendirme ve psikiyatri uzmanı raporu"
+ },
+ {
+  "Question": "Direksiyon sınavında başarılı olan adayın sertifikası e-devlet üzerinde onaylandıktan sonra hangi kuruma başvurması gerekir?",
+  "A": "Millî Eğitim Müdürlüğü",
+  "B": "Nüfus Müdürlüğü",
+  "C": "Vergi Dairesi",
+  "D": "Emniyet Genel Müdürlüğü",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Sertifikanın basılı sürücü belgesine dönüştürülmesi işlemleri artık Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından yürütülmektedir.",
+  "Answer": "Nüfus Müdürlüğü"
+ },
+ {
+  "Question": "Alkollü araç kullanmaktan dolayı ikinci defa geçici olarak sürücü belgesi alınanlara verilen 'SÜDGE' eğitimi ne kadar sürer?",
+  "A": "Tam 48 saat",
+  "B": "En az 24 saat",
+  "C": "1 hafta",
+  "D": "En az 10 saat",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "SÜDGE eğitimi, ikinci alkollü sürüş ihlalinde verilen zorunlu eğitim programının süresi en az 24 saattir.",
+  "Answer": "En az 24 saat"
+ },
+ {
+  "Question": "Uluslararası sürücü belgeleri ile ilgili hangisi doğrudur?",
+  "A": "Ömür boyu geçerlidir",
+  "B": "Herhangi bir kurs bitirme şartı aranmaz",
+  "C": "3 yıl süreyle geçerli olup İçişleri Bakanlığı yetkililerince verilir",
+  "D": "Sadece komşu ülkelerde geçerlidir",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İkili anlaşmalar gereği verilen bu belgeler genellikle 3 yıl geçerliliğe sahiptir ve yetkilendirilmiş kişilerce düzenlenir.",
+  "Answer": "3 yıl süreyle geçerli olup İçişleri Bakanlığı yetkililerince verilir"
+ },
+ {
+  "Question": "Sürücü belgesi almak isteyen bir kişi aşağıdaki kanunların hangisinden hüküm giymemiş olmalıdır?",
+  "A": "Türk Ceza Kanunu'nun 188, 190 ve 191. maddeleri",
+  "B": "İş Kanunu",
+  "C": "Medeni Kanun",
+  "D": "Fikir ve Sanat Eserleri Kanunu",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Uyuşturucu madde imal, ticaret ve kullanımıyla ilgili bu suçlar ehliyet almaya engel teşkil eden adli sicil kriterleridir.",
+  "Answer": "Türk Ceza Kanunu'nun 188, 190 ve 191. maddeleri"
+ },
+ {
+  "Question": "Direksiyon sınavından başarılı olan bir aday, asıl sürücü belgesi adresine gelene kadar hangi belge ile araç kullanabilir?",
+  "A": "Geçici sürücü belgesi",
+  "B": "Sağlık raporu fotokopisi",
+  "C": "Sürücü sertifikası",
+  "D": "Kurs kayıt belgesi",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Nüfus müdürlüğündeki başvuru sonrası adaya, asıl ehliyeti gelene kadar geçerli olan resmi bir geçici belge teslim edilir.",
+  "Answer": "Geçici sürücü belgesi"
+ },
+ {
+  "Question": "Sürücü belgesini yenilemek isteyenlerin biyometrik fotoğrafının son kaç ay içerisinde çekilmiş olması gerekir?",
+  "A": "24 ay",
+  "B": "1 ay",
+  "C": "6 ay",
+  "D": "12 ay",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kişinin güncel halini yansıtması amacıyla fotoğrafların son 6 ay içinde çekilmiş olması yasal bir zorunluluktur.",
+  "Answer": "6 ay"
+ }
+]
