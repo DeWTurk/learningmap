@@ -1,0 +1,156 @@
+[
+ {
+  "Question": "Şekildeki akaryakıt istasyonundan çıkmak isteyen 2 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "Korna çalıp 1 numaralı aracı durdurmalı\n",
+  "B": "1 numaralı aracın geçmesini beklemeli\n",
+  "C": "Hızlanarak yoluna devam etmeli\n",
+  "D": "Geçiş hakkını kendisi kullanmalı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhFTAiDcLIjXxBJcGPKY6sRn_N_gVqwo0a3Ohrsa4x5N_SlRQFOQKTjpAy9qYUWA7qWnwnvSMzyN9kYGsHiqxZgNszfyTM-2Fot7vC2WmLGrkZSfFFb364WdyZI2e-HsD6iGDAhgVN93hZRaT4fDcr-Of-_EJuIAUzm8RQJ9r5C6iYcJJwoFbCs2vvCCPJW\/s1600\/Trafik%20Levhalar%C4%B1%20%284%29-min.jpg",
+  "Video": 1,
+  "Explaination": 1,
+  "Answer": "1 numaralı aracın geçmesini beklemeli"
+ },
+ {
+  "Question": "Metne göre, bir trafik kazasının 'trafik kazası' olarak nitelendirilmesi için temel şart nedir?",
+  "A": "En az bir kişinin yaralanmış veya hayatını kaybetmiş olması zorunludur.",
+  "B": "Kazanın mutlaka şehir içi yerleşim yerlerinde meydana gelmesi gerekir.",
+  "C": "Sadece iki motorlu aracın birbiriyle çarpışması gerekir.",
+  "D": "Bir karayolu taşıtının başka bir taşıt, yaya, hayvan veya nesneye çarpmasıdır.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Bu tanım, karayolundaki ulaşım araçlarının dahil olduğu geniş bir etkileşim yelpazesini ifade eder.",
+  "Answer": "Bir karayolu taşıtının başka bir taşıt, yaya, hayvan veya nesneye çarpmasıdır."
+ },
+ {
+  "Question": "Bir trafik kazasına karışan sürücünün, trafik güvenliği için olay yerinde yapması gereken ilk eylem hangisidir?",
+  "A": "Olay yerindeki tüm delilleri hemen toplamak ve araçları kaldırmak.",
+  "B": "Ek bir tehlike yaratmayacak şekilde durmak ve ışıklı işaret/yansıtıcı cihaz koymak.",
+  "C": "Hemen diğer sürücünün sigorta poliçesini kontrol etmek.",
+  "D": "Aracı güvenli bir yere çekmeden önce polisi aramak.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İkincil kazaların önlenmesi için kaza mahallinin diğer sürücülerce fark edilmesi birincil önceliktir.",
+  "Answer": "Ek bir tehlike yaratmayacak şekilde durmak ve ışıklı işaret/yansıtıcı cihaz koymak."
+ },
+ {
+  "Question": "Sürücüsü başında bulunmayan bir mülke zarar veren sürücü, ilgilisini bulamazsa ne yapmalıdır?",
+  "A": "Olay yerini terk ederek sonraki gün yetkililere bildirmelidir.",
+  "B": "Zarar küçükse herhangi bir işlem yapmadan devam edebilir.",
+  "C": "Görünür bir yere yazılı bilgi bırakmalı ve en kısa sürede yetkililere haber vermelidir.",
+  "D": "Sadece sigorta şirketini arayarak dosya açtırması yeterlidir.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Mülk sahibinin haklarını korumak ve hukuki süreci başlatmak için bu iletişim yöntemi zorunludur.",
+  "Answer": "Görünür bir yere yazılı bilgi bırakmalı ve en kısa sürede yetkililere haber vermelidir."
+ },
+ {
+  "Question": "Hangi durumda sürücüler kendi aralarında 'Maddi Hasarlı Trafik Kazası Tespit Tutanağı' düzenleyerek olay yerinden ayrılabilirler?",
+  "A": "Taraflardan biri alkol şüphesi taşıyorsa ama kabul ediyorsa.",
+  "B": "Kazaya karışan taraflardan birinin sürücü belgesi olmasa dahi.",
+  "C": "Kazaya karışan araçlardan biri kamu kurumuna ait olduğunda.",
+  "D": "Sadece maddi hasar oluşması ve tüm sürücülerin anlaşma sağlaması durumunda.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Yaralanma olmayan ve tarafların mutabık kaldığı maddi hasarlı olaylarda kolluk kuvvetine gerek duyulmaz.",
+  "Answer": "Sadece maddi hasar oluşması ve tüm sürücülerin anlaşma sağlaması durumunda."
+ },
+ {
+  "Question": "Kaza yerinden geçen diğer sürücülerin yetkililerce istendiğinde yerine getirmesi gereken zorunluluk nedir?",
+  "A": "Yaralıları en yakın sağlık kuruluşuna götürmek.",
+  "B": "Kaza yapan sürücülerin yerine tutanak imzalamak.",
+  "C": "Kaza yapan araçların hasar tespitini yapmak.",
+  "D": "Trafik akışını yönetmek için kavşakta durmak.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Hayat kurtarma önceliği çerçevesinde, yetkililerin talebiyle yaralı nakli vatandaşlık görevidir.",
+  "Answer": "Yaralıları en yakın sağlık kuruluşuna götürmek."
+ },
+ {
+  "Question": "Aşağıdaki hallerden hangisi 'Asli Kusur' (esas kusur) sayılan durumlardan biri değildir?",
+  "A": "Arkadan çarpma.",
+  "B": "Kırmızı ışıkta geçmek.",
+  "C": "Geçme yasağı olan yerlerde araç geçmek.",
+  "D": "Teknik bir arıza nedeniyle oluşan zorunlu bir kural ihlali.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Başkalarını tehlikeye atmamak için mecburen yapılan ihlaller, metne göre asli kusur sayılmayabilir.",
+  "Answer": "Teknik bir arıza nedeniyle oluşan zorunlu bir kural ihlali."
+ },
+ {
+  "Question": "2021 yılı istatistiklerine göre, trafik kazalarında hayatını kaybedenlerin cinsiyet dağılımı nasıldır?",
+  "A": "Ölenlerin %75'i erkek, %25'i kadındır.",
+  "B": "Yaralanan kadınların oranı, ölen kadınların oranından daha düşüktür.",
+  "C": "Ölenlerin %25'i erkek, %75'i kadındır.",
+  "D": "Ölenlerin %50'si erkek, %50'si kadındır.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Veriler, kazalarda hayatını kaybedenlerin büyük çoğunluğunun erkek olduğunu ortaya koymaktadır.",
+  "Answer": "Ölenlerin %75'i erkek, %25'i kadındır."
+ },
+ {
+  "Question": "Tutanağın 10 numaralı alanında yapılan kroki çiziminde nelere özellikle dikkat edilmelidir?",
+  "A": "Yönlerin, cadde/sokak isimlerinin ve kaza anının doğru tasvir edilmesine.",
+  "B": "Sadece araçların renklerinin belirtilmesine.",
+  "C": "Sadece araç plakalarının kroki içine yazılmasına.",
+  "D": "Görgü tanıklarının kroki üzerinde imzalanmasına.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Mekansal bilgilerin doğruluğu, kusur oranının tespiti için hayati önem taşır.",
+  "Answer": "Yönlerin, cadde/sokak isimlerinin ve kaza anının doğru tasvir edilmesine."
+ },
+ {
+  "Question": "Kaza sonrası sigorta şirketine tutanak ile birlikte teslim edilmesi zorunlu olan belgeler arasında hangisi yoktur?",
+  "A": "Zorunlu trafik sigortası poliçe fotokopisi.",
+  "B": "Kaza yerinden çekilmiş fotoğraflar.",
+  "C": "Ehliyet ve ruhsat fotokopisi.",
+  "D": "Sürücülerin sağlık raporu fotokopileri.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Maddi hasarlı tutanaklarda tarafların yaralanmadığı varsayıldığı için rutin bir sağlık raporu istenmez.",
+  "Answer": "Sürücülerin sağlık raporu fotokopileri."
+ },
+ {
+  "Question": "Araç bakım, onarım ve otopark sahiplerinin, üzerlerinde suç belirtisi veya kaza izi bulunan araçlarla ilgili yükümlülüğü nedir?",
+  "A": "Aracı hemen tamir edip sahibine teslim etmek.",
+  "B": "Gecikmeden zabıtaya bildirmek ve kayıt defterine işlemek.",
+  "C": "Sadece aracın sahibinden yazılı bir beyan almak.",
+  "D": "Aracın fotoğraflarını çekip arşivlemek yeterlidir.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kayıt dışı kazaların ve suç teşkil eden olayların takibi için bu bildirim zorunludur.",
+  "Answer": "Gecikmeden zabıtaya bildirmek ve kayıt defterine işlemek."
+ },
+ {
+  "Question": "Metne göre, bir kaza anlaşma ile sonuçlanıp olay yerinden ayrıldıktan sonraki süreçle ilgili hangisi doğrudur?",
+  "A": "Tutanak imzalanmış olsa bile sigorta şirketi ödemeyi reddederse polis çağrılır.",
+  "B": "Sigorta poliçesi olmayan araçlar için de kendi aralarında tutanak geçerlidir.",
+  "C": "Hasarın karşılanacağını kabul etmiş sayılırlar ve tutanak değiştirilemez.",
+  "D": "Taraflar bir hafta içinde fikir değiştirip polis çağırabilir.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Anlaşma ile yerinden ayrılma, sorumluluğun taraflarca veya sigortalarınca üstlenildiğinin kabulüdür.",
+  "Answer": "Hasarın karşılanacağını kabul etmiş sayılırlar ve tutanak değiştirilemez."
+ },
+ {
+  "Question": "Yerleşim yerleri dışındaki akaryakıt istasyonlarının sağlıkla ilgili özel sorumluluğu nedir?",
+  "A": "Bir doktor ve hemşireyi sürekli istihdam etmek.",
+  "B": "Kendi ambulans servisini kurmak.",
+  "C": "Sadece kaza anında tıbbi yardım çağırmak.",
+  "D": "Standartlara uygun ve kullanılabilir sağlık malzemesi bulundurmak.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Ulaşımın kısıtlı olabileceği yerlerde acil müdahale malzemesinin varlığı kritik önem taşır.",
+  "Answer": "Standartlara uygun ve kullanılabilir sağlık malzemesi bulundurmak."
+ },
+ {
+  "Question": "Hangi durum kazaya karışan bir sürücünün 'asli kusurlu' sayılmasını engeller?",
+  "A": "Sürücünün ehliyetini o an yanında bulundurmaması.",
+  "B": "Muhtemel bir kazayı önlemek amacıyla mecburen kural ihlali yapılması.",
+  "C": "Sürücünün alkollü olması ancak yavaş sürmesi.",
+  "D": "Kaza anında hız sınırını sadece 5 km/s aşmış olması.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Can ve mal güvenliğini korumak için alınan tedbir amaçlı ihlaller istisnai bir durum yaratır.",
+  "Answer": "Muhtemel bir kazayı önlemek amacıyla mecburen kural ihlali yapılması."
+ }
+]
