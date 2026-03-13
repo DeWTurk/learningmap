@@ -1,0 +1,112 @@
+[
+ {
+  "Question": "Trafik polisinin veya zabıtasının bulunmadığı veya yeterli olmadığı yerlerde trafiği düzenleme ve trafik suçlarına el koyma yetkisi kime verilmiştir?",
+  "A": "Polis ve jandarma",
+  "B": "Karayolları Genel Müdürlüğü personeli",
+  "C": "Belediye zabıtası",
+  "D": "Sadece fahri trafik müfettişleri",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Trafik teşkilatının yetersiz olduğu yerlerde polis, polisin görev alanı dışında ise jandarma yetkilidir.",
+  "Answer": "Polis ve jandarma"
+ },
+ {
+  "Question": "Fahri trafik müfettişliği görevi aşağıdakilerden hangisi tarafından verilir?",
+  "A": "Belediye Başkanları",
+  "B": "Emniyet Genel Müdürü",
+  "C": "Sulh Ceza Hakimleri",
+  "D": "Valiler",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Karayolu Trafik Güvenliği Üst Kurulunca uygun görülen kişilere valilerce görev verileceği belirtilmiştir.",
+  "Answer": "Valiler"
+ },
+ {
+  "Question": "Aşağıdaki davranışlardan hangisi 'Tedbirsiz ve Saygısız Araç Sürmek' suçu kapsamında değerlendirilmez?",
+  "A": "Araçların muayenesini yaptırmamak",
+  "B": "Seyir halindeyken cep telefonu kullanmak",
+  "C": "Araçtan dışarıya bir şeyler atmak",
+  "D": "Su veya çamur sıçratmak",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Araç muayenesi teknik bir eksiklik olup, saygısız araç sürme tanımı içinde değil, genel denetim ve noksanlık kapsamında ele alınır.",
+  "Answer": "Araçların muayenesini yaptırmamak"
+ },
+ {
+  "Question": "Trafik suçunun işlendiği tarihten geriye doğru bir yıl içinde toplam 100 ceza puanını ilk defa dolduran sürücülere hangi işlem uygulanır?",
+  "A": "Sadece para cezası uygulanır, belgeye el konulmaz",
+  "B": "Sürücü belgeleri 2 ay geri alınır ve eğitime tabi tutulurlar",
+  "C": "Sürücü belgeleri 4 ay geri alınır ve psikiyatrik muayeneye sevk edilirler",
+  "D": "Sürücü belgeleri süresiz iptal edilir",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İlk 100 puan ihlalinde 2 ay süreyle el koyma ve eğitim şartı bulunmaktadır.",
+  "Answer": "Sürücü belgeleri 2 ay geri alınır ve eğitime tabi tutulurlar"
+ },
+ {
+  "Question": "Aynı yıl içinde ikinci kez 100 ceza puanını dolduran bir sürücünün belgesini geri alabilmesi için hangi ek şartı yerine getirmesi gerekir?",
+  "A": "Belirlenen para cezasının iki katını ödemek",
+  "B": "Psiko-teknik değerlendirme ve psikiyatri muayenesinden geçmek",
+  "C": "Yeniden sürücü kursuna kayıt olup sertifika almak",
+  "D": "Adli sicil kaydını temizletmek",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İkinci ihlalde sürücünün psikolojik olarak araç sürmeye uygunluğu profesyonel uzmanlarca denetlenmelidir.",
+  "Answer": "Psiko-teknik değerlendirme ve psikiyatri muayenesinden geçmek"
+ },
+ {
+  "Question": "Ölümle sonuçlanan trafik kazalarında asli kusurlu bulunan bir sürücünün belgesi ne kadar süreyle geri alınır?",
+  "A": "6 ay",
+  "B": "2 yıl",
+  "C": "1 yıl",
+  "D": "Belge süresiz olarak iptal edilir",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kanun, ölümlü kazalarda asli kusuru bulunan sürücülerin belgelerinin 1 yıl süreyle geri alınmasını öngörür.",
+  "Answer": "1 yıl"
+ },
+ {
+  "Question": "Trafik cezalarının tebliğ tarihinden itibaren ne kadar süre içinde ödenmesi durumunda %25 indirim uygulanır?",
+  "A": "15 gün",
+  "B": "1 ay",
+  "C": "2 ay",
+  "D": "1 hafta",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Tebliğden itibaren 1 ay içerisinde yapılan peşin ödemelerde dörtte bir oranında indirim sağlanır.",
+  "Answer": "1 ay"
+ },
+ {
+  "Question": "Cezalar süresinde ödenmediğinde, geciken her ay için uygulanacak faiz oranı yüzde kaçtır?",
+  "A": "10",
+  "B": "1",
+  "C": "5",
+  "D": "2",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Ödenmeyen cezalar için her ay %5 oranında faiz uygulanacağı belirtilmiştir.",
+  "Answer": "5"
+ },
+ {
+  "Question": "Trafik cezalarına itiraz etmek isteyen bir kişi, hangi kuruma ve ne kadar süre içinde başvurmalıdır?",
+  "A": "1 ay içinde Bölge İdare Mahkemesine",
+  "B": "15 gün içinde Sulh Ceza Hakimliklerine",
+  "C": "7 gün içinde Emniyet Müdürlüğüne",
+  "D": "Süre sınırı olmaksızın Vergi Dairesine",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İdari yaptırımlara karşı yargı yolu 15 gün içinde Sulh Ceza Hakimliği olarak belirlenmiştir.",
+  "Answer": "15 gün içinde Sulh Ceza Hakimliklerine"
+ },
+ {
+  "Question": "Sürücü belgesi geri alınan bir sürücü, alıkoyma süresi bittiğinde belgesini nasıl teslim alabilir?",
+  "A": "Trafik birimine veya Denetleme Şube Müdürlüğü'ne dilekçe ile başvurarak",
+  "B": "Sürenin dolmasıyla sistem üzerinden otomatik olarak aktifleşir",
+  "C": "Nüfus Müdürlüğü'ne giderek yeni kart çıkartarak",
+  "D": "Sadece e-devlet üzerinden başvuru yaparak",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Süre sonunda belgenin iadesi için ilgili trafik birimine yazılı başvuru yapılması zorunludur.",
+  "Answer": "Trafik birimine veya Denetleme Şube Müdürlüğü'ne dilekçe ile başvurarak"
+ }
+]
