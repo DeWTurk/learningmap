@@ -1,0 +1,145 @@
+[
+ {
+  "Question": "2918 sayılı Karayolları Trafik Kanunu'na göre, sürücü kurslarını açma ve denetleme yetkisi hangi kuruma aittir?",
+  "A": "Ulaştırma ve Altyapı Bakanlığı",
+  "B": "İçişleri Bakanlığı",
+  "C": "Millî Eğitim Bakanlığı",
+  "D": "Sağlık Bakanlığı",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Kanun gereği sürücü kurslarının açılması, denetlenmesi ve sınavlarının yapılması Millî Eğitim Bakanlığının temel görevleri arasındadır.",
+  "Answer": "Millî Eğitim Bakanlığı"
+ },
+ {
+  "Question": "Kaynak materyale göre, 'Taşıt' terimini 'Araç' teriminden ayıran temel özellik aşağıdakilerden hangisidir?",
+  "A": "Sadece yük taşımak için imal edilmesi",
+  "B": "Lastik tekerlekli traktörleri kapsaması",
+  "C": "Sadece motor gücüyle çalışması",
+  "D": "Ticari olarak tescil edilmiş olması",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Tanıma göre taşıtlar, karayolunda yük veya yolcu taşımaya yarayan ticari amaçla tescil edilmiş araçlardır.",
+  "Answer": "Ticari olarak tescil edilmiş olması"
+ },
+ {
+  "Question": "Sürücüsü dahil 9 oturma yeri olan ve yolcu taşımacılığında kullanılan bir araç uluslararası sınıflandırmaya göre hangi sınıfa girer?",
+  "A": "M2 Sınıfı",
+  "B": "M1 Sınıfı",
+  "C": "M3 Sınıfı",
+  "D": "N1 Sınıfı",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Sürücü dahil en fazla 9 oturma yeri olan yolcu taşıma araçları bu sınıfa dahil edilmiştir.",
+  "Answer": "M1 Sınıfı"
+ },
+ {
+  "Question": "Bir aracın 'Minibüs' olarak sınıflandırılabilmesi için sürücüsü dahil oturma yeri sayısı en fazla kaç olmalıdır?",
+  "A": "12",
+  "B": "25",
+  "C": "17",
+  "D": "9",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Sürücüsü dahil oturma yeri 17'yi aşmayan otobüslere minibüs denir.",
+  "Answer": "17"
+ },
+ {
+  "Question": "Kamyonet ve Kamyon arasındaki temel fark aşağıdakilerden hangisidir?",
+  "A": "Azami yüklü ağırlığının 3.500 kg sınırında olması",
+  "B": "Motor gücü (hp)",
+  "C": "Sadece panelvan olup olmaması",
+  "D": "Tekerlek sayısı",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "3.500 kg ve altı kamyonet, bu ağırlığın üzeri ise kamyon olarak kabul edilir.",
+  "Answer": "Azami yüklü ağırlığının 3.500 kg sınırında olması"
+ },
+ {
+  "Question": "Uluslararası sınıflandırmaya göre azami ağırlığı 12 tonu aşan bir yük taşıma aracı hangi sınıfa dahildir?",
+  "A": "O4 Sınıfı",
+  "B": "N1 Sınıfı",
+  "C": "N3 Sınıfı",
+  "D": "N2 Sınıfı",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "N sınıfı yük taşıma araçları arasında 12 tonun üzerindeki en ağır grup bu şekilde kodlanır.",
+  "Answer": "N3 Sınıfı"
+ },
+ {
+  "Question": "Römork ve yarı römorkları çekmek için imal edilmiş olan ve yük taşımayan araç hangisidir?",
+  "A": "Kamyon",
+  "B": "Troleybüs",
+  "C": "Çekici",
+  "D": "Panelvan",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Çekiciler yük taşımak için değil, sadece arkasındaki yük taşıyan araçları çekmek için tasarlanmıştır.",
+  "Answer": "Çekici"
+ },
+ {
+  "Question": "Azami yüklü ağırlığı 0,75 tonu aşmayan römorklar hangi isimle adlandırılır?",
+  "A": "Hafif Römork",
+  "B": "O2 Sınıfı Römork",
+  "C": "Yarı Römork",
+  "D": "Motorsuz Taşıt",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "0,75 ton (750 kg) sınırı altındaki römorklar hafif römork olarak tanımlanır.",
+  "Answer": "Hafif Römork"
+ },
+ {
+  "Question": "Sanayi kesiminde kullanılan iş makinelerinin tescil işlemleri hangi kuruluş tarafından yapılır?",
+  "A": "Trafik Tescil Kuruluşları",
+  "B": "Ziraat Odaları",
+  "C": "Belediyeler",
+  "D": "Üyesi oldukları Ticaret ve Sanayi Odaları",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Tarım dışı alanlarda (sanayi, bayındırlık vb.) kullanılan iş makineleri ilgili odalarda tescil edilir.",
+  "Answer": "Üyesi oldukları Ticaret ve Sanayi Odaları"
+ },
+ {
+  "Question": "Zorunlu Mali Sorumluluk Sigortası (Trafik Sigortası) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+  "A": "Sigorta yaptırılmayan araç trafikten men edilir.",
+  "B": "Araç sahibi değişse bile sigorta poliçesi geçerliliğini korur.",
+  "C": "Sigorta şirketi seçimi araç sahibinin tercihine bırakılmıştır.",
+  "D": "Sigorta süresi 12 aydır ve yenilenmesi zorunludur.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Araç sahibi değiştiği andan itibaren bu sigorta geçersiz sayılır.",
+  "Answer": "Araç sahibi değişse bile sigorta poliçesi geçerliliğini korur."
+ },
+ {
+  "Question": "Otobüsler için Trafik Sigortasına ek olarak hangi sigortanın yaptırılması zorunludur?",
+  "A": "Uluslararası Yeşil Kart sigortası",
+  "B": "Zorunlu koltuk ferdi kaza sigortası",
+  "C": "Hırsızlık ve yangın sigortası",
+  "D": "Kasko sigortası",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Yolcu taşımacılığı yapan otobüslerde yolcuların güvenliği için bu ek zorunluluk mevcuttur.",
+  "Answer": "Zorunlu koltuk ferdi kaza sigortası"
+ },
+ {
+  "Question": "Yeni tescil edilmiş hususi bir otomobilin ilk muayenesi kaçıncı yaşın sonunda yapılmalıdır?",
+  "A": "1",
+  "B": "4",
+  "C": "2",
+  "D": "3",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Otomobiller ve römorkları ilk tescilden sonra üç yaşında, daha sonra iki yılda bir muayene edilir.",
+  "Answer": "3"
+ },
+ {
+  "Question": "Uluslararası sınıflandırmaya göre O3 sınıfı bir römorkun ağırlık aralığı nedir?",
+  "A": "10 tonu aşan",
+  "B": "0,75 ton ile 3,5 ton arası",
+  "C": "0,75 tondan az",
+  "D": "3,5 tonu aşan ancak 10 tonu aşmayan",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "O sınıfı römorklarda üçüncü kademe 3,5 ile 10 ton arasındaki ağırlıkları temsil eder.",
+  "Answer": "3,5 tonu aşan ancak 10 tonu aşmayan"
+ }
+]
