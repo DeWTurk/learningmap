@@ -1,0 +1,167 @@
+[
+ {
+  "Question": "Çevre bilgisinde \"Çevre\" terimi hangi etkileşimi kapsar?",
+  "A": "Yalnızca insanların inşa ettiği yerleşim yerlerini.",
+  "B": "Hava, su ve toprağın oluşturduğu cansız ortamı.",
+  "C": "İnsanı etkileyen ve insanlardan etkilenen dış ortamı.",
+  "D": "Sadece doğada kendiliğinden yetişen canlı topluluklarını.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Çevre tanımı, insan ile dış ortam arasındaki karşılıklı etkileşimi temel alan bütüncül bir yaklaşımdır.",
+  "Answer": "İnsanı etkileyen ve insanlardan etkilenen dış ortamı."
+ },
+ {
+  "Question": "Temiz havada bulunan gazların oranları düşünüldüğünde, yaklaşık %78 oranında bulunan gaz hangisidir?",
+  "A": "Karbondioksit (CO2)",
+  "B": "Azot (N2)",
+  "C": "Oksijen (O2)",
+  "D": "Karbonmonoksit (CO)",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Atmosferin en büyük bileşeni olan azot gazı, temiz havada %78 oranında mevcuttur.",
+  "Answer": "Azot (N2)"
+ },
+ {
+  "Question": "Aşağıdaki hallerden hangisi trafik kazalarında doğrudan \"asli kusur\" sayılan durumlardan biri değildir?",
+  "A": "Arkadan çarpmak.",
+  "B": "Geçme yasağı olan yerlerde önceki aracı geçmek.",
+  "C": "Şehir içinde hız sınırını %10 oranında aşmak.",
+  "D": "Kırmızı ışıkta veya görevlinin dur işaretinde geçmek.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Hız sınırı ihlalleri ceza gerektirse de, listede belirtilen spesifik manevra ve öncelik hataları gibi doğrudan 'asli kusur' listesinde yer almaz.",
+  "Answer": "Şehir içinde hız sınırını %10 oranında aşmak."
+ },
+ {
+  "Question": "Bir sürücü, başka bir sürücünün kural dışı hareketi sonucunda can güvenliğini korumak için kural ihlali yaparsa hangi durum oluşur?",
+  "A": "Asli kusurlu sayılamaz.",
+  "B": "Trafikten ömür boyu men edilir.",
+  "C": "Yine de asli kusurlu sayılır ve ehliyetine el konur.",
+  "D": "Her iki sürücü de eşit oranda kusurlu kabul edilir.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Muhtemel bir kazayı önlemek ve güvenliği korumak amacıyla yapılan zorunlu hamleler asli kusur kapsamına girmez.",
+  "Answer": "Asli kusurlu sayılamaz."
+ },
+ {
+  "Question": "Taşıtlardaki ses cihazlarının (korna) kullanımı hangi bölgede özellikle yasaktır?",
+  "A": "Trafik kazası riskini azaltmak amacıyla yapılan uyarılarda.",
+  "B": "Dönemeç ve tepe üstü gibi görüşün kısıtlı olduğu yerlerde gelişi haber vermek için.",
+  "C": "Diğer yol kullanıcılarını geçme hallerinde uyarmak için.",
+  "D": "Kamunun rahat ve huzurunu bozacak şekilde, gereksiz ve ayarsız olarak.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Gereksiz korna çalmak gürültü kirliliğine neden olduğu için toplumsal huzur açısından yasaklanmıştır.",
+  "Answer": "Kamunun rahat ve huzurunu bozacak şekilde, gereksiz ve ayarsız olarak."
+ },
+ {
+  "Question": "Haritalarda bulunan \"alt kenar çizgisi\" haritaya bakan kişiye hangi yönü temsil eder?",
+  "A": "Batı",
+  "B": "Doğu",
+  "C": "Güney",
+  "D": "Kuzey",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Standart harita projeksiyonlarında alt kenar çizgisi güney yönünü göstermektedir.",
+  "Answer": "Güney"
+ },
+ {
+  "Question": "Gürültü kavramının fiziksel ve ruhsal etkileri düşünüldüğünde tanımı aşağıdakilerden hangisidir?",
+  "A": "Yalnızca sanayi bölgelerinde duyulan yüksek frekanslı ses dalgalarıdır.",
+  "B": "Sadece gece vakti duyulan tüm yapay seslerdir.",
+  "C": "Kişilerin huzurunu ve sağlığını bozacak seviyedeki istenmeyen seslerdir.",
+  "D": "Kulağa hoş gelen müzik seslerinin yüksek tonda çalınmasıdır.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Sesin 'istenmeyen' olması ve canlı sağlığı üzerindeki olumsuz etkisi gürültüyü karakterize eder.",
+  "Answer": "Kişilerin huzurunu ve sağlığını bozacak seviyedeki istenmeyen seslerdir."
+ },
+ {
+  "Question": "Toprağın rüzgar ve su gibi etkilerle taşınarak bir yerden bir yere gitmesine ne ad verilir?",
+  "A": "Erozyon",
+  "B": "Gürültü kirliliği",
+  "C": "Hava kirliliği",
+  "D": "Deprem",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Dış etkenlerle toprak katmanının aşınarak yer değiştirmesi olayına coğrafi olarak erozyon denir.",
+  "Answer": "Erozyon"
+ },
+ {
+  "Question": "Araçların rölantide veya duraklama sonrasında gereksiz yere çalışır durumda bekletilmesi öncelikle hangi kirliliğe neden olur?",
+  "A": "Işık Kirliliği",
+  "B": "Su Kirliliği",
+  "C": "Hava Kirliliği",
+  "D": "Toprak Kirliliği",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Boşta çalışan motor gereksiz yakıt tüketir ve atmosfere sürekli olarak karbon emisyonu salar.",
+  "Answer": "Hava Kirliliği"
+ },
+ {
+  "Question": "Şehirler arası yolculuğa çıkan bir sürücünün yanında Türkiye Karayolu Haritası bulundurması neye yardımcı olur?",
+  "A": "Yolculuk sırasında radyo istasyonlarını bulmaya.",
+  "B": "Daha az yakıtla ve daha kısa sürede hedefe ulaşmaya.",
+  "C": "Aracın motor arızalarını tespit etmeye.",
+  "D": "Hava durumunu tahmin etmeye.",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Harita üzerinden yapılan planlama, en uygun rotanın seçilmesini sağlayarak verimliliği artırır.",
+  "Answer": "Daha az yakıtla ve daha kısa sürede hedefe ulaşmaya."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi atıkların çevreye verdiği zararlardan biri değildir?",
+  "A": "Kötü koku yayması",
+  "B": "Çirkin görünüm arz etmesi",
+  "C": "Hastalık bulaştıran zararlıların üremesine sebep olması",
+  "D": "İşlenerek tekrar kullanılabilir hâle getirilmesi",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Geri dönüşüm atığın çevreye verdiği bir zarar değil, atığın işlenerek faydaya dönüştürülmesidir.",
+  "Answer": "İşlenerek tekrar kullanılabilir hâle getirilmesi"
+ },
+ {
+  "Question": "Trafikte heyecan ve zevk verici davranışları yapma eğiliminde olan bir sürücünün aşağıdaki davranışlardan hangisini gösterme olasılığı yüksektir?",
+  "A": "Hız sınırına uyma",
+  "B": "Yayaya yol verme",
+  "C": "Trafik levhalarını okuma",
+  "D": "Sürekli şerit değiştirerek araç kullanma",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Heyecan arayan sürücüler riskli ve agresif davranışlara yönelir; sürekli şerit değiştirmek bu tür tehlikeli alışkanlıklar arasındadır.",
+  "Answer": "Sürekli şerit değiştirerek araç kullanma"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi çevre kirliliğini önleyici tedbirlerden biri değildir?",
+  "A": "Kısa mesafeli yerlere yürüyerek gidilmesi",
+  "B": "İniş eğimli yollarda motorun durdurulması",
+  "C": "Trafiğin yoğun olmadığı taşıt yollarının seçilmesi",
+  "D": "Mümkün olduğunca toplu taşıma araçlarının kullanılması",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "İniş eğimli yollarda motoru durdurmak güvenlik açısından tehlikeli olup önerilen bir çevre tedbiri değildir; diğer seçenekler yakıt tasarrufu ve emisyon azaltımına yönelik doğru tedbirlerdir.",
+  "Answer": "İniş eğimli yollarda motorun durdurulması"
+ },
+ {
+  "Question": "Sivas'tan hareket eden bir araç, haritada görüldüğü gibi önce Konya'ya oradan da Uşak'a gitmiştir. Bu durumda araç hangi yönlerde hareket etmiş olur?",
+  "A": "Batı-Doğu",
+  "B": "Kuzey-Güney",
+  "C": "Güneybatı-Kuzeybatı",
+  "D": "Kuzeybatı-Güneydoğu",
+  "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsosbuVfjxoNR7KM4zhk0XgAco9VON-DQJA970l7XZPx3MbIUdngXRepShe28jGkXuaNcNZO571wGIXc6T8C_wjtHmhelZFlQqyGmtKHlWan8DXQpnWzwwNk7Lyp05YASAG2OI3EKR_CHFrx-6le2D2yw7D9J4ljnhpYA_pjD2m-pxPryCzYQ8noRg6Ajp/s1600/harita.jpg",
+  "Video": 1,
+  "Explaination": "Haritada Sivas'tan Konya'ya gidiş güneybatı yönünde, Konya'dan Uşak'a gidiş ise kuzeybatı yönündedir.",
+  "Answer": "Güneybatı-Kuzeybatı"
+ },
+ {
+  "Question": "Kara yollarında hareket halinde bulunan her araç çıkardığı gürültü, egzoz gazı, yağ ve yakıt sızıntısı ile çevreyi kirletici bir faktördür. Buna göre aşağıdakilerden hangisinin yapılması, araçların çevre üzerindeki olumsuz etkisini en aza indirir?",
+  "A": "Bakım sırasında çıkan eski parça ve malzemelerin çevreye bilinçsizce bırakılması",
+  "B": "Araç bakımlarının zamanında ve tam olarak yaptırılmasına özen gösterilmesi",
+  "C": "Uzun süreli duraklama ve park sırasında motorun çalışır hâlde tutulması",
+  "D": "Araca gereğinden fazla yük yüklenmesi",
+  "Image": 1,
+  "Video": 1,
+  "Explaination": "Zamanında ve eksiksiz yapılan bakım, egzoz emisyonunu, yağ ve yakıt sızıntılarını azaltarak aracın çevreye verdiği zararı en aza indirir.",
+  "Answer": "Araç bakımlarının zamanında ve tam olarak yaptırılmasına özen gösterilmesi"
+ }
+]
