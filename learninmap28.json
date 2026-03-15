@@ -1,0 +1,332 @@
+[
+ {
+  "Question": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?",
+  "A": "Yüksek devirde",
+  "B": "Zengin karışımla",
+  "C": "Yüksek performansla",
+  "D": "Düzensiz, tekleyerek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Düzensiz, tekleyerek"
+ },
+ {
+  "Question": "Araçlarda yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+  "A": "Termostat çıkartılmalı",
+  "B": "Eskimiş bujiler değiştirilmeli",
+  "C": "Lastiklerin hava basıncı indirilmeli",
+  "D": "Motor yüksek devirde çalıştırılmalı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Eskimiş bujiler değiştirilmeli"
+ },
+ {
+  "Question": "I.Yüksek devirde araç kullanılması\n\nII.Ani hızlanma ve yavaşlamalar yapılması\n\nIII.Araca uygun ebatta lastikler kullanılması\n\nIV.Araç bakımlarının zamanında yaptırılması\n\nYukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+  "A": "I ve II.",
+  "B": "I, III ve IV.",
+  "C": "II, III ve IV.",
+  "D": "I, II, III ve IV.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II."
+ },
+ {
+  "Question": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması araç yakıtının bitmek üzere olduğunu bildirir?",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEim7JqNwGkHTnPNJMluk70-Y_KwRhi48qXew4fiyuPqbMSxSlDyENAsxzCcB7kXDWXObGI2NiicTuPQnnIW73gKScPB3GYtb6kAK9g7ZxQM9NpW4eFtzNejxELLG7VtRU1FxFjdUIKp4QGn6C84PyuYYhC_tai2kP6XFIvhih2sUBollo6YTsxQsYZjU496\/s1600\/Trafik%20Levhalar%C4%B1%285%29.jpg",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasında sürücüden kaynaklanan kusurdur?",
+  "A": "Aşırı hız yapılması",
+  "B": "Frenlerin ayarsız olması",
+  "C": "Rölanti ayarının bozuk olması",
+  "D": "Lastiklerin havasının az olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aşırı hız yapılması"
+ },
+ {
+  "Question": "\"- Ani duruş ve hızlanmalardan kaçınılması\n\n- Tavsiye edilen tip ve ebatlarda araç lastiği kullanılması\n\n- Araçta yapılması gerekli bakım ve ayarların zamanında yapılması\n\nVerilenler sonucunda aşağıdakilerden hangisinin gerçekleşmesi beklenir?",
+  "A": "Çevre kirliliğinin artması",
+  "B": "Sürüş konforunun azalması",
+  "C": "Trafik yoğunluğunun artması",
+  "D": "Aracın daha az yakıt tüketmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aracın daha az yakıt tüketmesi"
+ },
+ {
+  "Question": "I.Ani hızlanmalar yapılması\n\nII.Araç lastiklerinin eskimesi\n\nIII.Hava filtresinin değiştirilmesi\n\nYukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+  "A": "Yalnız I",
+  "B": "I ve II.",
+  "C": "II ve III.",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasına neden olmaz?",
+  "A": "Klimanın açık olması",
+  "B": "Hava filtresinin değiştirilmesi",
+  "C": "Ani duruş ve kalkış yapılması",
+  "D": "Camlar açık şekilde seyahat edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava filtresinin değiştirilmesi"
+ },
+ {
+  "Question": "Egzoz emisyon ölçümünün yapılması, araçların çevreye verdiği zararlardan hangisini önlemeye yönelik bir uygulamadır?",
+  "A": "Görüntü kirliliğini",
+  "B": "Gürültü kirliliğini",
+  "C": "Hava kirliliğini",
+  "D": "Su kirliliğini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava kirliliğini"
+ },
+ {
+  "Question": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+  "A": "Fren balatasının",
+  "B": "Polen filtresinin",
+  "C": "Yakıt filtresinin",
+  "D": "Geri vites müşirinin",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt filtresinin"
+ },
+ {
+  "Question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?",
+  "A": "Motor yüksek devirde kullanılır.",
+  "B": "Eskiyen buji kabloları değiştirilir.",
+  "C": "Trafiğin yoğun olduğu yollar seçilir.",
+  "D": "Araç yokuş aşağı inerken vites boşa alınıp kontak kapatılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Eskiyen buji kabloları değiştirilir."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motorda yapılan ve yakıt tasarrufuna etki eden ayarlardan biri değildir?",
+  "A": "Far ayarı",
+  "B": "Buji ayarı",
+  "C": "Avans ayarı",
+  "D": "Rölanti ayarı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Far ayarı"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki gösterge, sürücüye neyi bildirir?",
+  "A": "Motor yağ basıncını",
+  "B": "Fren hidrolik seviyesini",
+  "C": "Depodaki yakıt miktarını",
+  "D": "Motor soğutma suyu sıcaklığını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEipLGqdYAy1bb6w5iU4CTfSSx1_KRhSt3AuYyD6CX2VkzKmu4Ke4fHBDF5_2lD20TA98BXM_gl6yGZILzmyYeYUxN74T7JAMIFLndUxB-kf5a-m-olk43I37t-RWl8zqiikcMmnosoihSQuUjgU-FxJUvpyQ8JvJQLoLS9UjYI1qKoDAD0fSjJg6zWnkYSm\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Depodaki yakıt miktarını"
+ },
+ {
+  "Question": "Hava filtresi kirli ise motor nasıl bir karışımla çalışır?",
+  "A": "Fakir",
+  "B": "Zengin",
+  "C": "Normal",
+  "D": "Az yakıtlı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Zengin"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor rölanti devrinin yüksek olmasına bağlı olarak meydana gelir?",
+  "A": "Yakıt tüketiminin artması",
+  "B": "Yakıt tüketiminin düşmesi",
+  "C": "Motorun sarsıntılı çalışması",
+  "D": "Motorda yağlamanın olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt tüketiminin artması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin yapılması araçta yakıt tasarrufu sağlar?",
+  "A": "Araç üstü tavan bagajı kullanılması",
+  "B": "Tam gazdan ve ani hızlanmalardan kaçınılması",
+  "C": "Araçta yapılması gerekli bakım ve ayarların ihmal edilmesi",
+  "D": "Tavsiye edilmeyen tip ve ebatlarda araç lastiği kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tam gazdan ve ani hızlanmalardan kaçınılması"
+ },
+ {
+  "Question": "Motor çalışır durumda iken, aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+  "A": "Araç yakıtının bitmek üzere olduğunu",
+  "B": "Araç kapılarından birinin açık kaldığını",
+  "C": "Motor yağının değiştirilmesi gerektiğini",
+  "D": "Ön ısıtma bujilerinin çalışmakta olduğunu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjAgkI9e7KtfIvVJfFcul2a2Ln5MK6goh5YN6ZJFavcawAwLGqpCLG1Gi5fb5Gqk-cJq_CGtZGfTx4NN_DwUg-JkQ9hlsbkOgYLT6-TkatcQaFU7LNCFO-jJiZUtN9GgH61XhR8ZvtSBgcwQd8cJLSYyMzZ-wZO5wWoUifRZEIpYeGwqd-kxANDg936wnRi\/s1600\/Trafik%20Levhalar%C4%B1%284%29.png",
+  "Explaination": 1,
+  "Answer": "Araç yakıtının bitmek üzere olduğunu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, dizel motorlarda depodaki yakıtın bitmesi sonucunda meydana gelir?",
+  "A": "Hava filtresinin kirlenmesi",
+  "B": "Yakıt deposunun delinmesi",
+  "C": "Yakıt sisteminin hava yapması",
+  "D": "Depo kapağı ve çevresinin kirlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt sisteminin hava yapması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt sarfiyatını artırır?",
+  "A": "Rölanti devrinin yüksek olması",
+  "B": "Fren hidroliğinin tamamlanması",
+  "C": "Soğutma suyuna antifriz katılması",
+  "D": "Lastik hava basınçlarının kontrol edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Rölanti devrinin yüksek olması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araçta fazla yakıt tüketimine sebep olur?",
+  "A": "Bujilerin yeni olması",
+  "B": "Yakıt borularının uzun olması",
+  "C": "Depodaki yakıt seviyesinin düşmesi",
+  "D": "Tavsiye edilmeyen araç lastiği kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tavsiye edilmeyen araç lastiği kullanılması"
+ },
+ {
+  "Question": "I-Araç üstü tavan bagajı kullanılması\n\nII-Tam gazdan ve ani hızlanmalardan kaçınılması\n\nIII-Tavsiye edilen tip ve ebatlarda araç lastiği kullanılması\n\nVerilenlerden hangilerinin yapılması araçta yakıt tasarrufu sağlar?",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "II ve III"
+ },
+ {
+  "Question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisinin yapılması doğrudur?",
+  "A": "Fazla süratten kaçınılması",
+  "B": "Ani duruş ve kalkış yapılması",
+  "C": "Sürekli sert ve ani fren yapılması",
+  "D": "Araç üstü tavan bagajı kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Fazla süratten kaçınılması"
+ },
+ {
+  "Question": "Araç lastiklerinin yetersiz şişirilmesi aşağıdakilerden hangisine neden olur?",
+  "A": "Radyatör peteklerinin tıkanmasına",
+  "B": "Şarj lambasının yanmasına",
+  "C": "Yakıt tüketiminin artmasına",
+  "D": "El freninin arızalanmasına",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt tüketiminin artmasına"
+ },
+ {
+  "Question": "Hava filtresinin kirli veya tıkalı olması motorun çalışmasını ve yakıt tüketimini nasıl etkiler?",
+  "A": "Motor daha yüksek performansla ve az yakıtla çalışır.",
+  "B": "Motorun gücü azalır ve yakıt sarfiyatı artar.",
+  "C": "Motorun daha soğuk çalışmasını sağlar.",
+  "D": "Sadece motorun sesini azaltır, tüketime etkisi olmaz.",
+  "Image": 1,
+  "Explaination": "Yetersiz hava girişi yanma verimini düşürerek motorun zengin karışımla çalışmasına ve performans kaybına yol açar.",
+  "Answer": "Motorun gücü azalır ve yakıt sarfiyatı artar."
+ },
+ {
+  "Question": "Dizel motorlarda emme zamanında silindirlere aşağıdakilerden hangisi emilir?",
+  "A": "Sadece mazot (motorin)",
+  "B": "Sadece hava",
+  "C": "Benzin-hava karışımı",
+  "D": "LPG ve hava karışımı",
+  "Image": 1,
+  "Explaination": "Dizel çevriminde emme zamanında silindire sadece temiz hava alınır ve bu hava sıkıştırma zamanında ısıtılır.",
+  "Answer": "Sadece hava"
+ },
+ {
+  "Question": "Karbüratörlü motorlarda, özellikle kışın soğuk havalarda motorun kolay çalışması için yakıtın fazla, havanın az girmesini sağlayan sistem hangisidir?",
+  "A": "Enjeksiyon pompası",
+  "B": "Jikle devresi",
+  "C": "Isıtma bujisi",
+  "D": "Yağ filtresi",
+  "Image": 1,
+  "Explaination": "Jikle, soğuk marş sırasında motorun ihtiyaç duyduğu zengin karışımı sağlamak için hava girişini kısıtlayıp yakıt oranını artırır.",
+  "Answer": "Jikle devresi"
+ },
+ {
+  "Question": "LPG'li motorlarla ilgili aşağıdakilerden hangisi dezavantaj olarak belirtilmiştir?",
+  "A": "Çevreyi kirletme oranının çok yüksek olması",
+  "B": "Yakıt maliyetinin benzinden çok daha yüksek olması",
+  "C": "Motor performansının bir miktar düşmesi",
+  "D": "Sadece dizel motorlarda kullanılabilmesi",
+  "Image": 1,
+  "Explaination": "LPG kullanımı çevreci olsa da, yakıtın kalori değeri ve yanma karakteri nedeniyle motor gücünde az da olsa kayıp yaşanabilir.",
+  "Answer": "Motor performansının bir miktar düşmesi"
+ },
+ {
+  "Question": "Sürücüye bağlı sebeplerden ötürü yakıt tüketiminin artmasını engellemek için hız sınırı ile ilgili hangi bilgiye dikkat edilmelidir?",
+  "A": "Araç ne kadar hızlı sürülürse yakıt tüketimi o kadar düşer.",
+  "B": "Sadece 120 km/h hızdan sonra tüketim artmaya başlar.",
+  "C": "Hızın yakıt tüketimi üzerinde hiçbir etkisi yoktur.",
+  "D": "90 km/h hızın üzerindeki her kilometrede yakıt tüketimi %1 artar.",
+  "Image": 1,
+  "Explaination": "Hız arttıkça artan rüzgar direnci ve motor devri, tüketimin her bir birim hız artışında doğrusal olmayan şekilde artmasına neden olur.",
+  "Answer": "90 km/h hızın üzerindeki her kilometrede yakıt tüketimi %1 artar."
+ },
+ {
+  "Question": "Dizel motorlu araçlarda marşa basmadan önce gösterge panelinde sönmesi beklenen, sadece bu araçlarda bulunan gösterge hangisidir?",
+  "A": "Şarj ikaz lambası",
+  "B": "Yağ basıncı ikaz lambası",
+  "C": "Yakıt göstergesi",
+  "D": "Kızdırma (Isıtma) bujisi göstergesi",
+  "Image": 1,
+  "Explaination": "Soğuk havalarda silindir içindeki havayı ısıtarak kolay çalışmayı sağlayan bu sistemin devrede olduğunu gösteren bir lamba bulunur.",
+  "Answer": "Kızdırma (Isıtma) bujisi göstergesi"
+ },
+ {
+  "Question": "Yakıt sisteminde rölanti ayarı yapılırken motorun hangi durumda olması doğru bir ayar için şarttır?",
+  "A": "Yakıt deposunun tamamen dolu olması",
+  "B": "Normal çalışma sıcaklığında olması",
+  "C": "Tamamen soğuk olması",
+  "D": "Yüksek devirde çalışıyor olması",
+  "Image": 1,
+  "Explaination": "Motor soğukken parçalar arası toleranslar ve yağ akışkanlığı farklı olduğu için sağlıklı rölanti devri ancak ısınmış motor üzerinde belirlenebilir.",
+  "Answer": "Normal çalışma sıcaklığında olması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi aracın fazla yakıt yakmasına neden olan \"araca bağlı\" bir sebeptir?",
+  "A": "Fren ayarlarının sıkı olması",
+  "B": "Karbüratörün bakımsız olması",
+  "C": "Hava filtresinin tıkanması",
+  "D": "Aşırı hız yapılması",
+  "Image": 1,
+  "Explaination": "Sıkı frenler tekerleklerin dönmesine direnç göstererek motorun aynı hızı korumak için daha fazla güç üretmesine ve yakıt tüketmesine neden olur.",
+  "Answer": "Fren ayarlarının sıkı olması"
+ },
+ {
+  "Question": "Yakıt filtresinin kirli veya tıkalı olması durumunda motorun çalışma şekli nasıl etkilenir?",
+  "A": "Egzozdan çıkan su miktarını artırır.",
+  "B": "Motorun çalışma sıcaklığı düşer.",
+  "C": "Düzensiz ve tekleyerek çalışır.",
+  "D": "Motor hiç çalışmaz ama yakıt tasarrufu sağlar.",
+  "Image": 1,
+  "Explaination": "Yakıt akışındaki kesintiler, silindirlere giden yakıt miktarının anlık olarak değişmesine ve dolayısıyla yanmanın istikrarsızlaşmasına yol açar.",
+  "Answer": "Düzensiz ve tekleyerek çalışır."
+ },
+ {
+  "Question": "Sürücü, aracında yakıt tasarrufu sağlamak istiyorsa lastikler konusunda neye dikkat etmelidir?",
+  "A": "Lastiklerin havasının tamamen indirilmesine",
+  "B": "Hava basınçlarının normal ayarda olmasına",
+  "C": "Tavsiye edilmeyen büyük boy lastiklerin kullanılmasına",
+  "D": "Lastiklerin sadece kışın kontrol edilmesine",
+  "Image": 1,
+  "Explaination": "Düşük hava basıncı lastiğin yere temas yüzeyini ve sürtünmeyi artırarak motoru daha fazla zorlar ve yakıt tüketimini artırır.",
+  "Answer": "Hava basınçlarının normal ayarda olmasına"
+ }
+]
