@@ -1,0 +1,242 @@
+[
+ {
+  "Question": "I.Akü şarjının azalması\n\nII.Fren balatalarının azalması\n\nIII.Motor yağının özelliğini kaybetmesi\n\nAracın çok uzun süre kullanılmadan bekletilmesi sonucunda yukarıdakilerden hangileri meydana gelebilir?",
+  "A": "Yalnız III",
+  "B": "I ve II.",
+  "C": "I ve III.",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III."
+ },
+ {
+  "Question": "Marş yapıldığında gösterge ışıkları yanıyor ancak marş motoru dönmüyorsa problem aşağıdakilerden hangisi olabilir?",
+  "A": "Yakıt bitmiştir.",
+  "B": "Batarya zayıflamıştır.",
+  "C": "Lastik basınçları düşüktür.",
+  "D": "Motor yağ seviyesi azalmıştır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Batarya zayıflamıştır."
+ },
+ {
+  "Question": "I.Şarj\n\nII.ABS\n\nIII.Yağ basıncı\n\nVerilen ikaz lambalarından hangilerinin araç gösterge panelinde yanması aracın derhal durdurulmasını ve kontağın kapatılmasını gerektirir?",
+  "A": "Yalnız III",
+  "B": "I ve II.",
+  "C": "I ve III.",
+  "D": "II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III."
+ },
+ {
+  "Question": "Araç motorunun çalışması için ilk hareketi veren sistem aşağıdakilerden hangisidir?",
+  "A": "Marş sistemi",
+  "B": "Yağlama sistemi",
+  "C": "Yakıt sistemi",
+  "D": "Ateşleme sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş sistemi"
+ },
+ {
+  "Question": "Araç park hâlindeyken park lambalarının açık bırakılması aşağıdakilerden hangisine neden olur?",
+  "A": "Jantın eğilmesine",
+  "B": "Akünün boşalmasına",
+  "C": "Fren balatalarının aşınmasına",
+  "D": "Lastik hava basıncının düşmesine",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalmasına"
+ },
+ {
+  "Question": "Motoru çalıştırırken uzun süreli marş yapılması aküye ve marş motoruna zarar verir.\n\nBuna göre, marş durumunda marş motoru dönmüyorsa sorun aşağıdakilerin hangisinden kaynaklanmış olabilir?",
+  "A": "Akünün boşalmasından",
+  "B": "Akünün tam şarjlı olmasından",
+  "C": "Hava filtresinin kirlenmesinden",
+  "D": "Akü kutup başlarının sıkı olmasından",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalmasından"
+ },
+ {
+  "Question": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir.\n\nYanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?",
+  "A": "Marş motorunda",
+  "B": "Soğutma fanında",
+  "C": "Motor devir göstergesinde",
+  "D": "Akü şarj ikaz ışığının ampülünde",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh5iJOpnbB5h3AouC0t1Bm-KO8C_tiZf2xcO4VZspOlOGvvDyaJG6783urhxMFvXMx8PbnqQtPHwxQiqG2LfaRXdMrYF8QgB4w45Znwk2JpGcvTWXcnqgdCb7QY-BYT_QF1fOxnfFd2NWBiPLeM7xJaPa0RgJcmRALHvfwUGScyEs6S0GLk3iWLRgpymp1x\/s1600\/Trafik%20Levhalar%C4%B1%282%29.png",
+  "Explaination": 1,
+  "Answer": "Akü şarj ikaz ışığının ampülünde"
+ },
+ {
+  "Question": "Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?",
+  "A": "Fren pedalının",
+  "B": "Far ampulünün",
+  "C": "Marş motorunun",
+  "D": "Silecek motorunun",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş motorunun"
+ },
+ {
+  "Question": "Motor çalışır durumda iken marş yapılırsa aşağıdakilerden hangisi meydana gelir?",
+  "A": "Motor daha iyi yağlama yapar.",
+  "B": "Motor daha yavaş döner.",
+  "C": "Marş dişlisi zarar görür.",
+  "D": "Motor daha hızlı döner.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş dişlisi zarar görür."
+ },
+ {
+  "Question": "Marş yapıldığında marş motoru yavaş dönüyorsa sebebi aşağıdakilerden hangisi olabilir?",
+  "A": "Far kablo bağlantılarının oksitlenmesi",
+  "B": "Akü şarj durumunun yeterli olmaması",
+  "C": "Hava filtresinin kirlenmesi",
+  "D": "Bujilerin eskimesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akü şarj durumunun yeterli olmaması"
+ },
+ {
+  "Question": "Marşa basılıp motor çalıştığında aşağıdakilerden hangisinin sönmesi gerekir?",
+  "A": "Park lambası",
+  "B": "Sinyal lambası",
+  "C": "Şarj lambası",
+  "D": "El fren lambası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şarj lambası"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?",
+  "A": "Arka sis lambası ikaz ışığı",
+  "B": "Hava yastığı ikaz ışığı",
+  "C": "Akü şarj ikaz ışığı",
+  "D": "ABS fren sistemi ikaz ışığı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh5iJOpnbB5h3AouC0t1Bm-KO8C_tiZf2xcO4VZspOlOGvvDyaJG6783urhxMFvXMx8PbnqQtPHwxQiqG2LfaRXdMrYF8QgB4w45Znwk2JpGcvTWXcnqgdCb7QY-BYT_QF1fOxnfFd2NWBiPLeM7xJaPa0RgJcmRALHvfwUGScyEs6S0GLk3iWLRgpymp1x\/s1600\/Trafik%20Levhalar%C4%B1%282%29.png",
+  "Explaination": 1,
+  "Answer": "Akü şarj ikaz ışığı"
+ },
+ {
+  "Question": "Aracın gösterge panelinde, şekilde görülen akü şarj ikaz ışığı yandığı hâlde araç sürülmeye devam edilirse aşağıdakilerden hangisinin olması beklenir?",
+  "A": "Yağın azalması",
+  "B": "Akünün boşalması",
+  "C": "Fren hidroliğinin bitmesi",
+  "D": "Marş motorunun arızalanması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhH0zn01IO3f2GCGqXG-oIUrNfqpQoVINvDqFgP8hhXqzT988SSvn-FG5Oib0-LX668iUSQdc-xTM4dgQWXyjxY-oqs7YMXv3-_xdrEWdIov-vaOZg64PBQRsC_tOQVOb6M8TWhqwAYja3YI5Q1eTO-WG7a8xmqHe2X99mGbWLm-Ask0aX3C-BQdGlqBJB2\/s1600\/Trafik%20Levhalar%C4%B1%283%29-min.png",
+  "Explaination": 1,
+  "Answer": "Akünün boşalması"
+ },
+ {
+  "Question": "Motoru çalıştırırken uzun süre ve sıkça marş yapılırsa aşağıdakilerden hangisinin olması beklenir?",
+  "A": "Akünün boşalması",
+  "B": "Hava filtresinin kirlenmesi",
+  "C": "Far ampullerinin patlaması",
+  "D": "Motor devir göstergesinin arızalanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalması"
+ },
+ {
+  "Question": "Akünün elektrolit seviyesi azalmış ise ne ilave edilir?",
+  "A": "Asit",
+  "B": "Alkol",
+  "C": "Saf su",
+  "D": "Antifriz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Saf su"
+ },
+ {
+  "Question": "I-Akü kontrolü\n\nII-Lastik kontrolü\n\nIII-Antifriz kontrolü\n\nYukarıda verilenlerden hangileri, aracın kış koşullarına hazırlanmasında alınması gereken önlemlerdendir?",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III"
+ },
+ {
+  "Question": "Marş sisteminin araçtaki temel görevi aşağıdakilerden hangisidir?",
+  "A": "Motora ilk hareketi vererek çalışmasını sağlamak",
+  "B": "Motorun rölanti devrini ayarlamak",
+  "C": "Aracın aydınlatma sistemine güç sağlamak",
+  "D": "Aküdeki enerjiyi yüksek voltaja dönüştürmek",
+  "Image": 1,
+  "Explaination": "Marş sisteminin ana işlevi, içten yanmalı motorun kendi kendine çalışmaya başlayabilmesi için gerekli olan ilk dönme hareketini sağlamaktır.",
+  "Answer": "Motora ilk hareketi vererek çalışmasını sağlamak"
+ },
+ {
+  "Question": "Marş yapma süresi yaklaşık olarak ne kadar olmalıdır?",
+  "A": "30-45 saniye",
+  "B": "Motor çalışana kadar kesintisiz",
+  "C": "2-3 saniye",
+  "D": "10-15 saniye",
+  "Image": 1,
+  "Explaination": "Marş süresi 10-15 saniyeyi geçmemelidir; aksi takdirde akü boşalabilir.",
+  "Answer": "10-15 saniye"
+ },
+ {
+  "Question": "Motor çalışır durumdayken tekrar marş yapılırsa aşağıdakilerden hangisinin zarar görmesi beklenir?",
+  "A": "Marş dişlisi veya volan dişlisi",
+  "B": "Alternatör kayışı",
+  "C": "Endüksiyon bobini",
+  "D": "Akü kutup başları",
+  "Image": 1,
+  "Explaination": "Motor dönerken marş dişlisi volan dişlisine geçmeye çalışırsa, aradaki hız farkı nedeniyle dişliler birbirine zarar verir.",
+  "Answer": "Marş dişlisi veya volan dişlisi"
+ },
+ {
+  "Question": "Vurdurma (ittirerek çalıştırma) yöntemi araçtaki hangi parçanın kopmasına veya zarar görmesine neden olabilir?",
+  "A": "Triger (zamanlama) kayışı",
+  "B": "Vantilatör kayışı",
+  "C": "Amortisörler",
+  "D": "Fren balataları",
+  "Image": 1,
+  "Explaination": "Ani debriyaj bırakma hareketi, triger kayışına aşırı yük bindirerek kopmasına veya sente atlamasına yol açabilir.",
+  "Answer": "Triger (zamanlama) kayışı"
+ },
+ {
+  "Question": "Akü takviyesi yapılırken kablo bağlantıları nasıl olmalıdır?",
+  "A": "Artı (+) kutup eksi (-) kutba, eksi (-) kutup artı (+) kutba",
+  "B": "Artı (+) kutup artı (+) kutba, eksi (-) kutup eksi (-) kutba",
+  "C": "Her iki kablo da şasiye",
+  "D": "Sadece artı (+) kutuplar birbirine",
+  "Image": 1,
+  "Explaination": "Paralel bağlama kuralına göre aynı işaretli kutuplar birbirine bağlanarak voltaj sabit tutulur.",
+  "Answer": "Artı (+) kutup artı (+) kutba, eksi (-) kutup eksi (-) kutba"
+ },
+ {
+  "Question": "Akü üzerinde bulunan kontrol gözünün hangi renkte olması akünün şarjının iyi durumda olduğunu gösterir?",
+  "A": "Kırmızı",
+  "B": "Siyah",
+  "C": "Yeşil",
+  "D": "Beyaz",
+  "Image": 1,
+  "Explaination": "Yeşil renk, akü elektrolit yoğunluğunun ve şarj seviyesinin ideal düzeyde olduğunu simgeler.",
+  "Answer": "Yeşil"
+ },
+ {
+  "Question": "Akü kutup başları araca ters bağlanırsa aşağıdakilerden hangisinin yanması beklenir?",
+  "A": "Buji kabloları",
+  "B": "Alternatör diyotları",
+  "C": "Marş motoru sargıları",
+  "D": "Yağ pompası",
+  "Image": 1,
+  "Explaination": "Ters bağlantı durumunda alternatör içindeki doğrultucu diyotlar üzerinden aşırı akım geçerek yanmalarına yol açar.",
+  "Answer": "Alternatör diyotları"
+ },
+ {
+  "Question": "Hangi tip araçlarda vurdurma (ittirerek çalıştırma) yöntemi kesinlikle uygulanmaz?",
+  "A": "LPG'li araçlar",
+  "B": "Dizel motorlu araçlar",
+  "C": "Kamyonet tipi araçlar",
+  "D": "Otomatik vitesli araçlar",
+  "Image": 1,
+  "Explaination": "Otomatik şanzıman yapısı, motorun tekerleklerden gelen hareketle dönmesine izin vermediği için bu yöntem uygulanamaz.",
+  "Answer": "Otomatik vitesli araçlar"
+ }
+]
