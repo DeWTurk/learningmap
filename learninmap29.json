@@ -1,0 +1,162 @@
+[
+ {
+  "Question": "Motor hareketinin vites kutusuna iletilmesini sağlayan sistem aşağıdakilerden hangisidir?",
+  "A": "Marş",
+  "B": "Şarj",
+  "C": "Ateşleme",
+  "D": "Kavrama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kavrama"
+ },
+ {
+  "Question": "Şekildeki araç güç aktarma organlarının adları hangi seçenekte doğru olarak verilmiştir?",
+  "A": "I. Şaft - II. Diferansiyel - III. Aks",
+  "B": "I. Şaft - II. Aks - III. Diferansiyel",
+  "C": "I. Aks - II. Diferansiyel - III. Şaft",
+  "D": "I. Diferansiyel - II. Aks - III. Şaft",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh-YuCdZ0AWn0hhG4uHikmRDiqzvaaO9LD34fz3oLaiAFrjq-rMrpaauuRFVgdwPn0_ois_kRGhzyS3ukkG38lHyozY1ezhCwoNthKrxwn5RnaMezWdmgrZE_zY_gB-ywj9BMKn2Aq3Ac-hRrS3TDQneNN5goKQjBfz6Bs_P6-47zs4BtGdfHquGLq6kvjV\/s1600\/Trafik%20Levhalar%C4%B1-min.jpg",
+  "Explaination": 1,
+  "Answer": "I. Şaft - II. Diferansiyel - III. Aks"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araç güç aktarma organına aittir?",
+  "A": "Şaft",
+  "B": "Alternatör",
+  "C": "Marş motoru",
+  "D": "Amortisör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şaft"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen ve şafttan aldığı hareketi aksa ileten güç aktarma organının adı nedir?",
+  "A": "Balata",
+  "B": "Amortisör",
+  "C": "Vites kutusu",
+  "D": "Diferansiyel",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEidtLgW8WbIdyCrp0-3-EPY4PMdO6wv3P5sB-hyZDyXJ9hFOnJINBEntfHwEp9Vw2n5USturUZNVR6n0DhhdUOE0npfJ2VoKjRgWyD9yPF_gzepFd1xcsrG97dBZ8M4HPsITMRqWsF5s16iItGd1cwkZs91v38fuBJxUt5evfnZTckEzWOTQjAUxQgGhdpt\/s1600\/Trafik%20Levhalar%C4%B1%20%282%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Diferansiyel"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?",
+  "A": "Amortisör",
+  "B": "Helezon yay",
+  "C": "Fren balatası",
+  "D": "Kavrama (Debriyaj)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kavrama (Debriyaj)"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen güç aktarma organının adı nedir?",
+  "A": "Volan",
+  "B": "Aks",
+  "C": "Kavrama",
+  "D": "Vites kutusu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiGRZUXPxLhLg9U9ZIk8PDrCp3BTz2cD0PrUWnR1my8MpE0pAD0NUDfnedGyQ7hGolwOOYDPRCtVfIosnvwByVSASWM4GPTiS0CUeIJyPsEJJkwUHfzVhbvTXirwBk5ox39rTAdQnVhFjACq32GZYgyw5b1wsv7yR1KlK7NRGlEvOMyUc-F0QrdLiQTZT18\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Aks"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi virajlarda çekici tekerleklerin farklı hızlarda dönmesini sağlar?",
+  "A": "Amortisör",
+  "B": "Direksiyon",
+  "C": "Diferansiyel",
+  "D": "Kilometre sayacı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Diferansiyel"
+ },
+ {
+  "Question": "Güç aktarma organlarının araçtaki temel görevi aşağıdakilerden hangisidir?",
+  "A": "Aracın içindeki elektrikli sistemlere enerji sağlamak.",
+  "B": "Direksiyonun çevrilme hareketini tekerleklere iletmek.",
+  "C": "Motorun ürettiği hareketi tekerleklere iletmek.",
+  "D": "Yakıtın yanması sonucu oluşan ısıyı dışarı atmak.",
+  "Image": 1,
+  "Explaination": "Güç aktarma organları, motorda üretilen mekanik enerjiyi çeşitli parçalar aracılığıyla tekerleklere ulaştırarak aracın yürümesini sağlar.",
+  "Answer": "Motorun ürettiği hareketi tekerleklere iletmek."
+ },
+ {
+  "Question": "Virajlarda çekici lastiklerin farklı hızlarda dönmesini sağlayarak aracın dengeli dönmesine yardımcı olan parça hangisidir?",
+  "A": "Aks",
+  "B": "Vites Kutusu",
+  "C": "Diferansiyel",
+  "D": "Şaft (Kardan Mili)",
+  "Image": 1,
+  "Explaination": "Diferansiyel, virajlarda iç ve dış tekerleklerin farklı mesafeler kat etmesi için hızlarını ayarlar.",
+  "Answer": "Diferansiyel"
+ },
+ {
+  "Question": "Araç hareket halindeyken debriyaj (kavrama) pedalına sürekli yarım basılması neye neden olur?",
+  "A": "Motorun rölanti devrinin artmasına.",
+  "B": "Debriyaj balatasının sıyrılarak aşınmasına.",
+  "C": "Lastiklerin düzensiz aşınmasına.",
+  "D": "Vites kutusunun yağ eksiltmesine.",
+  "Image": 1,
+  "Explaination": "Sürekli yarım debriyaj yapmak, baskı ve balata arasında sürtünmeye ve ısınmaya yol açarak erken aşınmaya sebep olur.",
+  "Answer": "Debriyaj balatasının sıyrılarak aşınmasına."
+ },
+ {
+  "Question": "Araç lastiklerinin hava basıncı normalden az (yetersiz) olduğunda karşılaşılan temel sorun nedir?",
+  "A": "Lastik kenarlarının aşınması ve yakıt tüketiminin artması.",
+  "B": "Direksiyonun daha kolay dönmesi.",
+  "C": "Lastiklerin orta kısmının daha çabuk aşınması.",
+  "D": "Sürüş konforunun aşırı artması.",
+  "Image": 1,
+  "Explaination": "Lastik havası az olduğunda lastik yere daha fazla yayılır, bu da kenarların aşınmasına ve motorun zorlanarak daha çok yakıt tüketmesine neden olur.",
+  "Answer": "Lastik kenarlarının aşınması ve yakıt tüketiminin artması."
+ },
+ {
+  "Question": "Vites kutusundan aldığı hareketi diferansiyele aktaran parça hangisidir?",
+  "A": "Volan",
+  "B": "Aks",
+  "C": "Şaft (Kardan Mili)",
+  "D": "Debriyaj",
+  "Image": 1,
+  "Explaination": "Şaft, vites kutusu ile diferansiyel arasındaki bağlantıyı sağlayarak torku arka kısma iletir.",
+  "Answer": "Şaft (Kardan Mili)"
+ },
+ {
+  "Question": "Lastik değiştirme işlemi sırasında, aracı kriko ile kaldırmadan önce bijon somunlarının gevşetilmesinin temel nedeni nedir?",
+  "A": "Krikonun daha rahat yükselmesini sağlamak.",
+  "B": "Lastik hava basıncını dengelemek.",
+  "C": "Tekerleğin araç havadayken dönmesini engelleyerek güç uygulayabilmek.",
+  "D": "Bijonların daha sonra kendiliğinden sökülmesini sağlamak.",
+  "Image": 1,
+  "Explaination": "Araç havadayken bijonları gevşetmeye çalışmak tekerleğin dönmesine neden olur, bu yüzden yerle temas halindeyken gevşetilmeleri gerekir.",
+  "Answer": "Tekerleğin araç havadayken dönmesini engelleyerek güç uygulayabilmek."
+ },
+ {
+  "Question": "Aracın hızı azaltılmak istendiğinde, frenleme anında debriyaja basılması neden uygun görülmez?",
+  "A": "Motorun tekerlekler üzerindeki yavaşlatıcı etkisini (kompresyon) kestiği için.",
+  "B": "Fren balatalarının ısınmasını engellediği için.",
+  "C": "Yakıt tüketimini artırdığı için.",
+  "D": "Vites kutusunun yağlanmasını durdurduğu için.",
+  "Image": 1,
+  "Explaination": "Debriyaja basıldığında motorun aktarma organlarıyla bağı kesilir ve aracın motor freni desteği olmadan serbestçe akmasına neden olur.",
+  "Answer": "Motorun tekerlekler üzerindeki yavaşlatıcı etkisini (kompresyon) kestiği için."
+ },
+ {
+  "Question": "Karlı ve buzlu yollarda çekişi artırmak için zincir hangi tekerleklere takılmalıdır?",
+  "A": "Sadece arka tekerleklere.",
+  "B": "Aracın dört tekerleğine birden.",
+  "C": "Çekici olan lastiklerin ikisine birden.",
+  "D": "Sadece sağ ön ve sağ arka tekerleklere.",
+  "Image": 1,
+  "Explaination": "Kaynağa göre, karlı ve buzlu yollarda hareket kabiliyetini sağlamak için zincirlerin çekici lastiklerin ikisine de takılması gerekir.",
+  "Answer": "Çekici olan lastiklerin ikisine birden."
+ },
+ {
+  "Question": "Frenleme anında aracın bir tarafa çekmesinin sebebi aşağıdakilerden hangisi olabilir?",
+  "A": "Vites kutusundaki yağ seviyesinin düşük olması.",
+  "B": "Aracın geri vitese zor geçmesi.",
+  "C": "Lastiklerin diş derinliğinin yasal sınırın çok üzerinde olması.",
+  "D": "Ön lastiklerin hava basınçlarının birbirinden farklı olması.",
+  "Image": 1,
+  "Explaination": "Farklı basınçlardaki lastikler farklı sürtünme katsayısına sahip olacağından araç fren anında hava basıncı düşük olan tarafa çekebilir.",
+  "Answer": "Ön lastiklerin hava basınçlarının birbirinden farklı olması."
+ }
+]
