@@ -1,0 +1,198 @@
+[
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Taşıtla ilgili sistemlerin çalışma durumlarını bildiren ışıklı, sesli veya ibreli uyarıcıların toplandığı bölüme ne ad verilir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Gösterge paneli."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Araçta alıcıları ve tesisatı kısa devreden doğacak tehlikelere karşı koruyan parça hangisidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sigorta."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Elektrik devresini yüksek akıma karşı koruyan sistem parçası nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sigorta."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Araçta çalışmayan bir elektrik sistemi olduğunda ilk kontrol edilmesi gereken yer neresidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sigorta kutusu."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Yanmış bir sigorta yenisiyle değiştirilirken nelere dikkat edilmelidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yeni takılacak sigortanın aynı amperde olmasına dikkat edilmelidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Gösterge panelinde kısa farların yandığını bildiren ışık hangi renktir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yeşil."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Gösterge panelinde uzun farların yandığını bildiren ışık hangi renktir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Mavi."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Aracın kısa farları yaklaşık kaç metrelik bir mesafeyi aydınlatır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "25 metre."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Aracın uzun farları yaklaşık kaç metrelik bir mesafeyi aydınlatır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "100 metre."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Araçta kısa veya uzun farlardan biri yanmıyorsa muhtemel arıza nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sigorta atmış olabilir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Aracın farlarından biri sönük yanıyorsa bunun sebebi nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Far kablo bağlantıları gevşemiştir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Farların bakımında veya değişiminde hangi ayarın yapılması zorunludur?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Far ayarı."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Düşük yakıt seviyesi uyarısı yandıktan sonra araç yaklaşık kaç kilometre daha yol gidebilir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "25-30 km."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Aracın arkasında yanan kırmızı lambalar diğer sürücülere neyi bildirir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Araçta frenleme yapıldığını."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Fren pedalına basıldığında fren lambalarından biri yanmıyorsa sebebi nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yanmayan lambanın ampulü arızalanmıştır."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Geri vitese takıldığında aracın arkasında hangi renk lambalar yanar?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Beyaz."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Geri vites lambalarından biri parlak, diğeri sönük yanıyorsa sebebi nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Lamba bağlantısında paslanma vardır."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Yağ ikaz lambası sembolü nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "İçinden damla akan bir yağdanlık görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Hararet ikaz lambası sembolü nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Su dalgaları üzerinde duran bir termometre görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Şarj ikaz lambası sembolü nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Artı (+) ve eksi (-) işaretleri bulunan bir batarya\/akü görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Kızdırma (ısıtma) bujisi uyarı lambası hangi araç tipinde bulunur ve sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Dizel araçlarda bulunur; yan yatmış yay\/helezon görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Arka cam rezistansı gösterge sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Dikdörtgen içinde yukarı doğru üç adet dalgalı ok görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Dörtlü flaşör düğmesi sembolü nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "İç içe geçmiş iki üçgen görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "El freni çekili veya hidrolik seviyesi düşük uyarısı sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yuvarlak parantez içinde ünlem (!) işareti görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "ABS sistemi uyarı lambası sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Daire ve parantez içinde 'ABS' yazısı görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Hava yastığı uyarı lambası sembolü neyi betimler?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Koltukta oturan ve önünde balon olan bir insan figürünü."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Fren balatası aşınmış uyarı lambası sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Kesik çizgili daire parantezleri içindeki boş bir daire görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Düşük silecek suyu seviyesi ikaz sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Ön cam ve fışkıran su damlaları görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Park lambaları açık gösterge sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Zıt yönlere bakan iki adet yarım daire ve ışık çizgileri görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Motor arızası uyarı lambası sembolü neye benzer?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Vana benzeri bir motor bloğu görseline."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Açık kapı uyarı lambası sembolü neyi gösterir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Kapıları açık bir kuşbakışı otomobil görselini."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Kayma uyarı lambası (ESP\/TCS) sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Arkasında dalgalı izler bırakan bir otomobil görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Emniyet kemeri uyarısı sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Üzerinde çapraz kemer olan oturan bir insan figürüdür."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Diferansiyel kilidi gösterge sembolü neyi betimler?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Dört tekerlek ve birbirine bağlı akslar üzerindeki kilit noktalarını."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Ön cam yıkama\/silme sistemi sembolü nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yelpaze şeklinde bir cam ve silecek kolu görselidir."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Kilometre göstergesinin (Hız göstergesi) birimi nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Km\/h (Kilometre bölü saat)."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Devir göstergesinin birimi nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Rpm x 100 veya Rpm x 1000."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Motor soğutma suyu sıcaklığını gösteren kadran hangisidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Hararet göstergesi."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Gösterge panelindeki 'L' veya yakıt pompası simgesi neyi ifade eder?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Yakıt göstergesini."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Hararet göstergesi üzerindeki kırmızı bölge neyi temsil eder?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Motorun aşırı ısındığını ve tehlikeli bölgeye girdiğini."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Sol sinyal verildiğinde göstergede hangi sembol yanıp söner?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sola bakan ok işareti."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Sağ sinyal verildiğinde göstergede hangi sembol yanıp söner?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Sağa bakan ok işareti."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Ön sis lambası düğmesi sembolünde ışık çizgileri nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Aşağı doğru eğik ve önünde dalgalı bir çizgi vardır."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Arka sis lambası düğmesi sembolünde ışık çizgileri nasıldır?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Düz (yatay) ve arkasında dalgalı bir çizgi vardır."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Enjeksiyon sistemli araçlarda arıza durumunda yanan lamba hangisidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Motor arıza lambası."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Havalı fren sistemine sahip araçlarda bulunan ek gösterge nedir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Hava basınç göstergesi."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Aracın toplam kat ettiği mesafeyi gösteren sayaç hangisidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Toplam kilometre sayacı."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Sürücünün sıfırlayabildiği ve belli bir seyahat mesafesini ölçen sayaç hangisidir?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Günlük kilometre sayacı."
+ },
+ {
+  "Araçta gösterge sisteminin temel görevi nedir?": "Araba sürerken motor devir göstergesinin kırmızı bölgeye yaklaşması neyi ifade eder?",
+  "Güvenli bir sürüş için sürücüye bilgi ve arıza uyarıları vermektir.": "Motorun maksimum devir sınırına ulaştığını ve vites büyütülmesi gerektiğini."
+ }
+]
