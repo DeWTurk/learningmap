@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "İçinde bulunulan toplum tarafından benimsenen ve aksi davranışlar sergilendiğinde yaptırım uygulanan kurallar bütününe ne ad verilir?\n",
+  "A": "Trafik Kültürü",
+  "B": "Sosyal Etkileşim",
+  "C": "Öz Denetim",
+  "D": "Trafik Cezası",
+  "Image": 1,
+  "Explaination": "Toplumun ortaklaşa kabul ettiği ve kurallara uymayanlara karşı yaptırım geliştirdiği yapı trafik kültürü olarak tanımlanır.",
+  "Answer": "Trafik Kültürü"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi trafik kültürü oluşturmanın temel kuralları arasında gösterilmemiştir?\n",
+  "A": "Sabır",
+  "B": "Hız Tutkusu",
+  "C": "Yardımlaşma",
+  "D": "Hoşgörü",
+  "Image": 1,
+  "Explaination": "Hız tutkusu güvenliği tehlikeye atan bireysel bir dürtüdür ve trafik kültürünün temel kuralları listesinde yer almaz.",
+  "Answer": "Hız Tutkusu"
+ },
+ {
+  "Question": "İnsanın iç dünyasını kendi iradesiyle kontrol edebilmesi, yönetmesi ve yönlendirmesi hangi kavramla açıklanır?\n",
+  "A": "Dışsal Denetim",
+  "B": "Öz Denetim (Öz Kontrol)",
+  "C": "Refleks",
+  "D": "Mekanik Kontrol",
+  "Image": 1,
+  "Explaination": "Bireyin dışarıdan bir baskı olmadan kendi kararlarıyla davranışlarını yönlendirmesi öz denetim sürecidir.",
+  "Answer": "Öz Denetim (Öz Kontrol)"
+ },
+ {
+  "Question": "Bireyin öz denetim iradesinin kaybolması toplumsal açıdan ne gibi bir sonuca yol açar?\n",
+  "A": "Araç bakım maliyetlerinin düşmesi",
+  "B": "Bireysel ve toplumsal kargaşa ortamı",
+  "C": "Daha hızlı bir trafik akışı",
+  "D": "Eğitim seviyesinin yükselmesi",
+  "Image": 1,
+  "Explaination": "Kendi davranışlarını yönetemeyen bireylerin çoğalması, toplumda düzenin bozulmasına ve kaosa neden olur.",
+  "Answer": "Bireysel ve toplumsal kargaşa ortamı"
+ },
+ {
+  "Question": "Öz denetim kapsamında bir eylemi değerlendirirken sorulan sorulardan hangisi etik ve adalet ilkesine odaklanır?\n",
+  "A": "Bana en çok karı sağlar mı?",
+  "B": "İlgililerin tümü için adil mi?",
+  "C": "Polis görmeden yapabilir miyim?",
+  "D": "Diğerlerinden daha hızlı mıyım?",
+  "Image": 1,
+  "Explaination": "Bu soru, yapılan davranışın sadece kişisel çıkar için değil, herkesin hakkını gözetip gözetmediğini sorgular.",
+  "Answer": "İlgililerin tümü için adil mi?"
+ },
+ {
+  "Question": "Trafikte öz denetim sahibi olmak isteyen bir kişinin trafiğe çıkmadan önce yapması gereken ilk adım nedir?\n",
+  "A": "En lüks aracı satın almak",
+  "B": "Hızlı araç kullanma tekniklerini çalışmak",
+  "C": "Eğitim alarak trafik kurallarını öğrenip davranış haline getirmek",
+  "D": "Yol tariflerini ezberlemek",
+  "Image": 1,
+  "Explaination": "Öz denetim, kuralların sadece bilinmesini değil, bir yaşam biçimi ve kalıcı bir davranış olarak benimsenmesini gerektirir.",
+  "Answer": "Eğitim alarak trafik kurallarını öğrenip davranış haline getirmek"
+ },
+ {
+  "Question": "İnsanın sosyal bir varlık olması, araç kullanırken trafiğe nasıl yansımaktadır?\n",
+  "A": "Trafikte iletişimin tamamen kesilmesi",
+  "B": "Araçların sadece mekanik birer nesne olarak görülmesi",
+  "C": "Sürücü davranışlarının diğerleri tarafından örnek alınabilmesi",
+  "D": "Yalnızca kurallara zorunluluktan uyulması",
+  "Image": 1,
+  "Explaination": "Sosyal etkileşim gereği, bir sürücünün sergilediği olumlu veya olumsuz tavırlar çevresindekileri etkileyebilir.",
+  "Answer": "Sürücü davranışlarının diğerleri tarafından örnek alınabilmesi"
+ },
+ {
+  "Question": "Öz denetim mekanizmasını kullanan bir sürücünün öfke anında nasıl davranması beklenir?\n",
+  "A": "Hızını artırarak olay yerinden uzaklaşması",
+  "B": "Öfkesini bastırmayıp bağırarak boşaltması",
+  "C": "Diğer sürücüye korna çalarak tepki vermesi",
+  "D": "Öfke kontrolü yaparak sakinliğini koruması",
+  "Image": 1,
+  "Explaination": "Öz denetim, ani duygusal tepkileri dizginleyerek mantıklı ve güvenli olanı seçme becerisidir.",
+  "Answer": "Öfke kontrolü yaparak sakinliğini koruması"
+ },
+ {
+  "Question": "Metne göre, bir sürücünün araç kullanırken farkında olması gereken en üstün değer nedir?\n",
+  "A": "Araç performansı",
+  "B": "İnsan hayatı",
+  "C": "Yol konforu",
+  "D": "Zaman tasarrufu",
+  "Image": 1,
+  "Explaination": "Metinde kişinin araç kullanırken insan hayatının her şeyin üstünde olduğunun farkında olması gerektiği vurgulanmıştır.",
+  "Answer": "İnsan hayatı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi öz denetimin bir insan için ihtiyaç olmasının nedenlerinden biridir?\n",
+  "A": "Trafik cezalarından kurtulmanın tek yolu olması",
+  "B": "İnsan davranışlarının ancak bu mekanizmayla anlamlı bir amaca hizmet etmesi",
+  "C": "Daha hızlı araç kullanmayı sağlaması",
+  "D": "Sadece başkalarına üstünlük kurmak için gerekli olması",
+  "Image": 1,
+  "Explaination": "Metne göre öz denetimden geçen davranışlar amaçlı hale gelir ve bireyin bir ihtiyacı olarak tanımlanır.",
+  "Answer": "İnsan davranışlarının ancak bu mekanizmayla anlamlı bir amaca hizmet etmesi"
+ }
+]
