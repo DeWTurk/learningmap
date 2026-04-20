@@ -1,0 +1,265 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 7 · Kırık, Çıkık ve Burkulmalarda İlk Yardım — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2025/08/7-krk-ckk-ve-burkulmalarda-ilk-yardm.html",
+  "sections": [
+    {
+      "title": "Kırık nedir?",
+      "badge": "Kırık",
+      "accent": 0,
+      "intro": "Kemik bütünlüğünün bozulmasıdır. Darbe sonucu veya kendiliğinden oluşabilir. Yaşlılıkta kendiliğinden kırık riski artar.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Kırık çeşitleri",
+      "badge": "Çeşit",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Kapalı kırık: Kemik bütünlüğü bozulmuştur; deri sağlamdır.",
+        "Açık kırık: Deri bütünlüğü bozulmuştur. Kırık uçları dışarı çıkabilir; kanama ve enfeksiyon riski vardır."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kırık belirtileri",
+      "badge": "Belirti",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Hareketle artan ağrı",
+        "Şekil bozukluğu",
+        "Hareket kaybı",
+        "Ödem ve kanamaya bağlı morarma"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kırığın yol açabileceği olumsuz durumlar",
+      "badge": "Risk",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Kırık yakınında damar, sinir, kas yaralanması ve sıkışma (nabız alınamaması, solukluk, soğukluk)",
+        "Parçalı kırıklarda kanamaya bağlı şok"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kırıklarda ilk yardım",
+      "badge": "İY",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Hayatı tehdit eden yaralanmalara öncelik",
+        "Hasta/yaralı hareket ettirilmez, sıcak tutulur",
+        "Kol etkilenmişse yüzük ve saat vb. çıkarılır (aksi halde ödem nedeniyle doku hasarı riski)",
+        "Tespit ve sargıda parmaklar görünür kalır; renk, hareket ve duyarlılık izlenir",
+        "Kırık şüphesinde bölge, ani hareketten kaçınılarak bir alt ve bir üst eklemi kapsayacak şekilde tespit edilir. Malzeme sopa, tahta, karton gibi sert ve yeterli uzunlukta olmalıdır",
+        "Açık kırıkta tespitten önce yara temiz bezle kapatılır",
+        "Sık aralıklarla nabız, deri rengi ve ısısı kontrolü",
+        "Kol ve bacaklar yukarıda tutulur",
+        "112"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Çıkık",
+      "badge": "Çıkık",
+      "accent": 1,
+      "intro": "Eklem yüzeylerinin kalıcı olarak ayrılmasıdır. Kendiliğinden normal konumuna dönmez.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Çıkık belirtileri",
+      "badge": "Belirti",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Yoğun ağrı",
+        "Şişlik ve kızarıklık",
+        "İşlev kaybı",
+        "Eklem bozukluğu"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Çıkıklarda ilk yardım",
+      "badge": "İY",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Eklem bulunduğu şekilde tespit edilir",
+        "Çıkık yerine oturtulmaya çalışılmaz",
+        "Ağızdan hiçbir şey verilmez",
+        "Nabız, deri rengi ve ısısı kontrol edilir",
+        "112"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Burkulma",
+      "badge": "Burkulma",
+      "accent": 0,
+      "intro": "Eklem yüzeylerinin anlık olarak ayrılmasıdır. Zorlamalar sonucu oluşur.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Burkulma belirtileri",
+      "badge": "Belirti",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Burkulan bölgede ağrı",
+        "Kızarma, şişlik",
+        "İşlev kaybı"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Burkulmalarda ilk yardım",
+      "badge": "İY",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Sıkıştırıcı bandajla eklem tespit edilir",
+        "Şişliği azaltmak için bölge yukarı kaldırılır",
+        "Hareket ettirilmez",
+        "112"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Tespit malzemeleri",
+      "badge": "Malzeme",
+      "accent": 3,
+      "intro": "İlkyardımcı eldeki malzemeleri kullanır: üçgen sargı, rulo sargı, battaniye, hırka, eşarp, kravat vb.; tahta, karton vb. sert malzemeler.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Tespit sırasında dikkat",
+      "badge": "Dikkat",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Yaralı bölge sabit tutulur",
+        "Yara varsa temiz bezle kapatılır",
+        "Tespit edilecek bölge önce yumuşak malzeme ile kaplanır",
+        "Bölge nasıl bulunduysa öyle tespit edilir; düzeltilmeye çalışılmaz",
+        "Tespit, kırık/çıkık/burkulmanın üst ve alt eklemlerini de kapsar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kol ve köprücük kemiği kırığı tespiti",
+      "badge": "Kol",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Koltuk altına yumuşak malzeme",
+        "Kol askısı yerleştirilir",
+        "Üçgen bandaj gövde üzerinde: tepesi dirsek tarafına, tabanı gövdeyle hizada",
+        "El dirsek hizasında bükülerek göğüs altına; üçgenin iki ucu boyna düğümlenir; parmaklar görünür",
+        "Kol askısı desteği göğüs boşluğu ve yaralı kol üzerine (geniş dış bandajla); kol ve omuz eklemi sabitlenir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Pazı kemiği kırığı tespiti",
+      "badge": "Pazı",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Sert tespit malzemesi kullanılır",
+        "Malzemelerden önce kolun altına (koltuk boşluğu) iki şerit",
+        "Kısa malzeme koltuk altından dirseği kapsar; uzun malzeme omuz–dirsek arasını kapsar",
+        "Şeritlerle bağlanır; çok kısa sıkılmaz",
+        "Dirsek için kol askısı",
+        "Omur için göğüs ve yaralı kol üzerinden geniş şerit veya üçgen bandaj"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Dirsek kırığı tespiti",
+      "badge": "Dirsek",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Kol gerginse: vücut boyunca gergin, deri ile arası yumuşak dolgulu sert tespit",
+        "Bükülmüşse: kol askısı desteğiyle tespit"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kol askısıyla ön kol, bilek ve el tespiti",
+      "badge": "Ön kol",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Dirsek ve bilek hareketini önlemek için ön kol altına üçgen kol askısı; boynun arkasına iki uç düğümlenir",
+        "Aşırı hareketi önlemek için geniş bandajla gövdeye bağlanır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Pelvis (kalça) kemiği kırığı tespiti",
+      "badge": "Pelvis",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Her iki bacak arasına dolgu",
+        "Sekiz bandajla bilekler tespit",
+        "Doğal boşluklardan (diz ve bilek altı) kaydırarak: ikisi kalça–diz, ikisi diz–bilek arası düğüm; düğümler aynı tarafta"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Uyluk kemiği kırığı tespiti",
+      "badge": "Uyluk",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Sert tespit ve sağlam bacak ikinci destek gibi kullanılır",
+        "Bir el ayak üstü, diğer bilekte; yaralı bacak sağlam bacakla hizaya çekilir, hafif döndürme",
+        "Bacaklar arasına (diz ve bilek) dolgu",
+        "Sekiz bandajla bilekler sabit",
+        "Vücudun altından kımıldatmadan bel, diz ve bilek arkasına 7 şerit",
+        "Yumuşak destekli sert tespit koltuk altından ayağa; ayaktan yukarı bağlama",
+        "Düğümler tespit üzerine; bandajlar",
+        "Bilekteki bandaj öncekinin üzerine sekiz",
+        "Sert malzeme yoksa sağlam bacak tek destek, geniş bandajla"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kaval kemiği tespiti",
+      "badge": "Kaval",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Uyluktaki prensibe benzer",
+        "Bacaklar tutulur, yavaşça çekilir",
+        "Doğal boşluklarla (diz ve bilek altı) yaralı bacak altından şeritler",
+        "Yumuşak dolgulu tespit: biri içte kasıktan ayağa, diğeri kalçadan ayağa",
+        "Ayaktan yukarı şeritler dış tespit üzerinde düğüm; bilekte ayak tabanı üzerine sekiz"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Bilek / ayak tespiti",
+      "badge": "Bilek",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Ayakkabı çıkarmadan bağlar çözülür",
+        "Bilek seviyesinde sekiz bandajla her iki ayak birlikte tespit",
+        "Yumuşak dolgu (ör. rulo battaniye) üzerine dayayıp bacakları yukarıda tutmak"
+      ],
+      "subsections": []
+    }
+  ]
+}
