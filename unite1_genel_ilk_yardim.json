@@ -1,0 +1,169 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 1 · Genel İlk Yardım Bilgileri — süper notlar",
+  "sourceUrl": "https://panel.kolayehliyet.com/",
+  "sections": [
+    {
+      "title": "İlk yardımla ilgili kavramlar",
+      "badge": "Kavram",
+      "accent": 0,
+      "intro": "İlk Yardım; herhangi bir kaza veya yaşamı tehlikeye düşüren bir durumda, sağlık görevlilerinin yardımı sağlanıncaya kadar, hayatın kurtarılması ya da durumun kötüye gitmesini önleyebilmek amacıyla olay yerinde, tıbbi araç gereç aranmaksızın, mevcut araç ve gereçlerle yapılan ilaçsız uygulamalardır.\n\nAcil Tedavi; acil tedavi ünitelerinde, hasta/yaralılara doktor ve sağlık personeli tarafından yapılan tıbbi müdahalelerdir.\n\nİlk Yardım ve Acil Tedavi Arasındaki Fark: Acil tedavi bu konuda ehliyetli kişilerce gerekli donanımla yapılan müdahale olmasına karşın, ilkyardım bu konuda eğitim almış herkesin olayın olduğu yerde bulabildiği malzemeleri kullanarak yaptığı hayat kurtarıcı müdahaledir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "İlk yardımın öncelikli amaçları",
+          "intro": "",
+          "bullets": [
+            "Hayati tehlikenin ortadan kaldırılması",
+            "Yaşamsal fonksiyonların sürdürülmesinin sağlanması",
+            "Hasta/yaralının durumunun kötüleşmesinin önlenmesi",
+            "İyileşmenin kolaylaştırılması"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İlk yardımın temel uygulamaları (KBK)",
+      "badge": "KBK",
+      "accent": 1,
+      "intro": "İlkyardım temel uygulamaları Koruma, Bildirme, Kurtarma (KBK) olarak ifade edilir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Koruma",
+          "intro": "Kaza sonuçlarının ağırlaşmasını önlemek için olay yerinin değerlendirilmesini kapsar. En önemli işlem olay yerinde oluşabilecek tehlikeleri belirleyerek güvenli bir çevre oluşturmaktır.",
+          "bullets": []
+        },
+        {
+          "title": "Bildirme",
+          "intro": "Olay/kaza mümkün olduğu kadar hızlı bir şekilde telefon veya diğer kişiler aracılığı ile gerekli yardım kuruluşlarına bildirilmelidir. Türkiye'de ilk yardım gerektiren her durumda telefon iletişimleri, 112 acil telefon numarası üzerinden gerçekleştirilir.",
+          "bullets": []
+        },
+        {
+          "title": "112'nin aranması sırasında nelere dikkat edilmelidir?",
+          "intro": "",
+          "bullets": [
+            "Sakin olunmalı ya da sakin olan bir kişinin araması sağlanmalı",
+            "112 merkezi tarafından sorulan sorulara net bir şekilde cevap verilmeli",
+            "Kesin yer ve adres bilgileri verilirken, olayın olduğu yere yakın bir caddenin ya da çok bilinen bir yerin adı verilmeli",
+            "Kimin, hangi numaradan aradığı bildirilmeli",
+            "Hasta/yaralıların adı ve olayın tanımı yapılmalı",
+            "Hasta/yaralı sayısı ve durumu bildirilmeli",
+            "Eğer herhangi bir ilkyardım uygulaması yapıldıysa nasıl bir yardım verildiği belirtilmeli",
+            "112 hattında bilgi alan kişi, gerekli olan tüm bilgileri aldığını söyleyinceye kadar telefon kapatılmamalıdır"
+          ]
+        },
+        {
+          "title": "Kurtarma (Müdahale)",
+          "intro": "Olay yerinde hasta/yaralılara müdahale hızlı ancak sakin bir şekilde yapılmalıdır.",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "İlkyardımcının müdahalede öncelikleri",
+      "badge": "Öncelik",
+      "accent": 2,
+      "bullets": [
+        "Hasta/yaralıların durumu değerlendirilir (ABC) ve öncelikli müdahale edilecekler belirlenir",
+        "Hasta/yaralının korku ve endişeleri giderilir",
+        "Hasta/yaralıya müdahalede yardımcı olacak kişiler organize edilir",
+        "Hasta/yaralının durumunun ağırlaşmasını önlemek için kendi kişisel olanakları ile gerekli müdahalelerde bulunulur",
+        "Kırıklara yerinde müdahale edilir",
+        "Hasta/yaralı sıcak tutulur",
+        "Hasta/yaralının yarasını görmesine izin verilmez",
+        "Hasta/yaralıyı hareket ettirmeden müdahale yapılır",
+        "Hasta/yaralının en uygun yöntemlerle en yakın sağlık kuruluşuna sevki sağlanır (112) (Ancak, ağır hasta/yaralı bir kişi hayati tehlikede olmadığı sürece asla yerinden kıpırdatılmamalıdır)"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "İlkyardımın ABC'si",
+      "badge": "ABC",
+      "accent": 3,
+      "intro": "Bilinç kontrol edilmeli, bilinç kapalı ise aşağıdakiler hızla değerlendirilmelidir:",
+      "bullets": [
+        "A — Hava yolu açıklığının değerlendirilmesi",
+        "B — Solunumun değerlendirilmesi (Bak-Dinle-Hisset)",
+        "C — Dolaşımın değerlendirilmesi (şah damarından 5 saniye nabız alınarak yapılır)"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "İlk yardımcının özellikleri",
+      "badge": "Özellik",
+      "accent": 0,
+      "intro": "Olay yeri genellikle insanların telaşlı ve heyecanlı oldukları ortamlardır. Bu durumda ilkyardımcı sakin ve kararlı bir şekilde olayın sorumluluğunu alarak gerekli müdahaleleri doğru olarak yapmalıdır. Bunun için bir ilkyardımcıda aşağıdaki özelliklerin olması gerekmektedir:",
+      "bullets": [
+        "İnsan vücudu ile ilgili temel bilgilere sahip olmalı",
+        "Önce kendi can güvenliğini korumalı",
+        "Sakin, kendine güvenli ve pratik olmalı",
+        "Eldeki olanakları değerlendirebilmeli",
+        "Olayı anında ve doğru olarak haber vermeli (112'yi aramak)",
+        "Çevredeki kişileri organize edebilmeli ve onlardan yararlanabilmeli",
+        "İyi bir iletişim becerisine sahip olmalıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Hayat kurtarma zinciri",
+      "badge": "4 halka",
+      "accent": 1,
+      "intro": "Hayat kurtarma zinciri 4 halkadan oluşur. Son iki halka ileri yaşam desteğine aittir ve ilkyardımcının görevi değildir.",
+      "imageUrl": "https://panel.kolayehliyet.com/storage/458/hayat_kurtarma_zinciri.jpg",
+      "bullets": [
+        "1. Halka — Sağlık kuruluşuna haber verilmesi",
+        "2. Halka — Olay yerinde Temel Yaşam Desteği yapılması",
+        "3. Halka — Ambulans ekiplerince müdahaleler yapılması",
+        "4. Halka — Hastane acil servislerinde müdahale yapılmasıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "İlkyardımcının bilmesi gereken vücut sistemleri",
+      "badge": "Anatomi",
+      "accent": 2,
+      "intro": "İlkyardımcının insan vücudu, yapısı ve işleyişi konusunda bazı temel kavramları bilmesi, ilkyardımcı olarak yapacağı müdahalelerde bilinçli olmasını kolaylaştırır.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Hareket sistemi",
+          "intro": "Vücudun hareket etmesini, desteklenmesini sağlar ve koruyucu görev yapar. Hareket sistemi şu yapılardan oluşur:",
+          "bullets": ["Kemikler", "Eklemler", "Kaslar"]
+        },
+        {
+          "title": "Dolaşım sistemi",
+          "intro": "Vücut dokularının oksijen, besin, hormon, bağışıklık elemanı ve benzeri elemanları taşır ve yeniden geriye toplar. Dolaşım sistemi şu yapılardan oluşur:",
+          "bullets": ["Kalp", "Kan damarları", "Kan"]
+        },
+        {
+          "title": "Sinir sistemi",
+          "intro": "Bilinç, anlama, düşünme, algılama, hareketlerinin uyumu, dengesi ve solunum ile dolaşımı sağlar. Sinir sistemi şu yapılardan oluşur:",
+          "bullets": ["Beyin", "Beyincik", "Omurilik", "Omurilik soğanı"]
+        },
+        {
+          "title": "Solunum sistemi",
+          "intro": "Vücuda gerekli olan gaz alışverişi görevini yaparak hücre ve dokuların oksijenlenmesini sağlar. Solunum sistemi şu organlardan oluşur:",
+          "bullets": ["Solunum yolları", "Akciğerler"]
+        },
+        {
+          "title": "Boşaltım sistemi",
+          "intro": "Kanı süzerek gerekli maddelerin vücutta tutulması, zararlı olanların atılması görevlerini yaparak vücutta iç dengeyi korur. Boşaltım sistemi şu organlardan oluşur:",
+          "bullets": ["İdrar borusu", "İdrar kesesi", "İdrar kanalları", "Böbrekler"]
+        },
+        {
+          "title": "Sindirim sistemi",
+          "intro": "Ağızdan alınan besinlerin öğütülerek sindirilmesi ve kan dolaşımı vasıtasıyla vücuda dağıtılmasını sağlar. Sindirim sistemi şu organlardan oluşur:",
+          "bullets": [
+            "Dil ve dişler",
+            "Yemek borusu",
+            "Mide",
+            "Safra kesesi",
+            "Pankreas",
+            "Bağırsaklar"
+          ]
+        }
+      ]
+    }
+  ]
+}
