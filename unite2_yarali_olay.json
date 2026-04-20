@@ -142,7 +142,9 @@
       "title": "Koma pozisyonu (video)",
       "badge": "Video",
       "accent": 0,
-      "intro": "Örnek görüntü için YouTube: https://www.youtube.com/watch?v=RyKlYEXgjlI",
+      "intro": "Koma pozisyonuna alma uygulamasını videodan izleyebilirsiniz.",
+      "videoUrl": "https://www.youtube.com/watch?v=RyKlYEXgjlI",
+      "videoTitle": "Koma pozisyonu",
       "bullets": [],
       "subsections": []
     },
