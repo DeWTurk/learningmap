@@ -1,0 +1,232 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 5 · Yaralanmalarda İlk Yardım — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2025/08/5-yaralanmalarda-ilk-yardm.html",
+  "sections": [
+    {
+      "title": "Yaralar",
+      "badge": "Yara",
+      "accent": 0,
+      "intro": "Yaralar: Travma sonucu deri veya mukozanın bütünlüğünün bozulmasıdır. Kan damarları, kas ve sinir gibi yapılar etkilenebilir. Derinin koruma özelliği bozulduğundan enfeksiyon riski artar.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Yara çeşitleri",
+      "badge": "Çeşit",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Kesik yaralar: Bıçak, çakı, cam gibi kesici aletlerle oluşur; genelde basit, derinlik kolay belirlenir.",
+        "Ezikli yaralar: Taş, yumruk, sopa vb. şiddetli çarpma; kenarlar ezik, çok kanama olmayabilir, doku zedelenmesi ve hassasiyet vardır.",
+        "Delici yaralar: Uzun sivri aletlerle; yüzeyde derinlik baskın, aldatıcı olabilir, tetanos riski.",
+        "Parçalı yaralar: Çekme etkisiyle; organ, saçlı deri vb. zarar görebilir.",
+        "Kirli (enfekte) yaralar: Mikrop kapma ihtimali yüksek yaralar."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Enfeksiyon riski yüksek yaralar",
+      "badge": "Risk",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Gecikmiş yaralar (6 saatten fazla)",
+        "Dikişleri ayrılmış yaralar",
+        "Kenarları muntazam olmayan yaralar",
+        "Çok kirli ve derin yaralar",
+        "Ateşli silah yaraları",
+        "Isırma ve sokma ile oluşan yaralar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Yaraların ortak belirtileri",
+      "badge": "Belirti",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Ağrı",
+        "Kanama",
+        "Yara kenarının ayrılması"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Yaralanmalarda ilk yardım nasıl olmalı?",
+      "badge": "İlk adım",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Yaşam bulguları değerlendirilir (ABC)",
+        "Yara yeri değerlendirilir: oluş şekli, süre, yabancı cisim varlığı, kanama vb.",
+        "Kanama durdurulur",
+        "Üzeri kapatılır",
+        "Sağlık kuruluşuna gitmesi sağlanır",
+        "Tetanos konusunda uyarıda bulunulur",
+        "Yaradaki yabancı cisimlere dokunulmamalıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Ciddi yaralanmalar",
+      "badge": "Ciddi",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Kenarları birleşmeyen veya 2–3 cm olan yaralar",
+        "Kanaması durdurulamayan yaralar",
+        "Kas veya kemiğin göründüğü yaralar",
+        "Delici aletlerle oluşan yaralar",
+        "Yabancı cisim saplanmış yaralar",
+        "İnsan veya hayvan ısırıkları",
+        "Görünürde iz bırakma ihtimali olan yaralar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Ciddi yaralanmalarda ilk yardım",
+      "badge": "Müdahale",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Yaraya saplanan yabancı cisimler çıkarılmaz",
+        "Kanama varsa durdurulur",
+        "Yara içi kurcalanmaz",
+        "Yara temiz (nemli) bezle örtülür",
+        "Yara üzerine bandaj uygulanır",
+        "Tıbbi yardım istenir (112)"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Delici göğüs yaralanmaları",
+      "badge": "Göğüs",
+      "accent": 3,
+      "intro": "Göğsün içine giren cisim akciğer zarı ve akciğeri yaralayabilir.",
+      "bullets": [
+        "Belirtiler: yoğun ağrı, solunum zorluğu, morarma, kan tükürme, açık pnömotoraks (yarada nefes alıyor görüntüsü)",
+        "Bilinç kontrolü; yaşam bulguları (ABC)",
+        "Yara plastik poşet/naylon vb. sarılmış bezle kapatılır",
+        "Nefes alırken havayı kesmek, verirken çıkmasını sağlamak için bezin bir ucu açık bırakılır",
+        "Bilinç açıksa yarı oturur pozisyon",
+        "Ağızdan hiçbir şey verilmez",
+        "Yaşam bulguları sık kontrol",
+        "Açık pnömotoraksta şok riski yüksek; şok önlemleri",
+        "112"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Delici karın yaralanmaları",
+      "badge": "Karın",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Karın organları zarar görebilir; iç/dış kanama ve şok",
+        "Karın tahta gibi sert ve çok ağrılıysa ciddi kabul edilir",
+        "Bağırsaklar dışarı çıkabilir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Delici karın yaralanmalarında ilk yardım",
+      "badge": "Karın İY",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Bilinç kontrolü; yaşam bulguları",
+        "Dışarı çıkan organlar içeri sokulmaz; üzerine geniş nemli temiz bez",
+        "Bilinç yerindeyse sırt üstü, bacaklar bükük; ısı kaybına karşı örtü",
+        "Ağızdan yiyecek/içecek verilmez",
+        "Yaşam bulguları sık izlenir",
+        "112"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kafatası ve omurga yaralanmaları",
+      "badge": "K/O",
+      "accent": 2,
+      "intro": "Darbenin şiddetine göre merkezi sinir sistemi etkilenebilir. Omurgada sıkışma veya ayrılma olabilir. Trafik kazalarında ölümlerin yaklaşık %80’i kafatası ve omurga yaralanmalarına bağlanır.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Kafa ve omurga yaralanması çeşitleri",
+      "badge": "Çeşit",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Saçlı deri: Kolay yer değiştirir, darbede ayrılabilir; çok kanama — önce kanama kontrolü.",
+        "Kafatası/beyin: Kırıkta beyin zedelenmesi kemik kırığından önemlidir; beyin hasarı bulguları değerlendirilir.",
+        "Yüz: Ağız/burun yaralarında solunum ve duyu organları riski; burun, çene kemiği yaralanmaları görülebilir.",
+        "Omurga (bel): En çok bel ve boyun; çok ağrılı; kazalarda sık boyun etkilenir."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Nedenleri",
+      "badge": "Neden",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Yüksek yerden düşme",
+        "Baş ve gövde yaralanması",
+        "Otomobil veya motosiklet kazaları",
+        "Spor ve iş kazaları",
+        "Yıkıntı altında kalma"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Belirtileri",
+      "badge": "Belirti",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Bilinç/hafıza değişiklikleri veya hafıza kaybı",
+        "Başta, boyunda, sırtta ağrı",
+        "El ve parmaklarda karıncalanma veya his kaybı",
+        "Vücudun herhangi bir yerinde tam veya kısmi hareket kaybı",
+        "Baş veya bel kemiğinde şekil bozukluğu",
+        "Burun ve kulaktan BOS/kan gelmesi",
+        "Baş, boyun, sırtta dış kanama",
+        "Sarsıntı, denge kaybı",
+        "Kulak ve göz çevresinde morluk"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Belirti yoksa bile dikkat",
+      "badge": "Şüphe",
+      "accent": 2,
+      "intro": "Hastada belirti görülmese bile aşağıdakilerde kafa/omurga yaralanması varsayılmalıdır:",
+      "bullets": [
+        "Yüz ve köprücük kemiği yaralanmaları",
+        "Tüm düşme vakaları",
+        "Trafik kazaları",
+        "Bilinci kapalı tüm hasta/yaralılar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kafatası ve omurga yaralanmalarında ilk yardım",
+      "badge": "İlk yardım",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Bilinç kontrolü; yaşam bulguları",
+        "Hemen 112",
+        "Bilinç açıksa hareket ettirilmez",
+        "Tehlike varsa düz pozisyonda sürüklenir",
+        "Baş-boyun-gövde ekseni korunur",
+        "Sedyeye eksen bozulmadan alınır",
+        "Taşıma/sevkte sarsıntıdan kaçınılır",
+        "Yapılanlar ve hasta bilgisi kaydedilir, ekibe aktarılır",
+        "Asla yalnız bırakılmaz"
+      ],
+      "subsections": []
+    }
+  ]
+}
