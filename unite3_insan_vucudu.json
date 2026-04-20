@@ -1,0 +1,133 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 3 · İlk Yardım için İnsan Vücudu — süper notlar",
+  "sections": [
+    {
+      "title": "İnsan vücudu — yapı taşları",
+      "badge": "Özet",
+      "accent": 0,
+      "intro": "İnsan vücudunun en küçük canlı birimine hücre denir. Hücrelerin beslenmesini hücre zarı sağlamaktadır. Aynı görevi yapan hücreler birleşerek dokuları (ör. kas), dokular birleşerek organları (ör. mide, bağırsak), organlar da birleşerek sistemleri (ör. solunum, dolaşım) oluşturur.",
+      "bullets": [
+        "Hücre → doku → organ → sistem → canlı / organizma"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Trafik kazalarında en çok yara alan vücut bölgeleri",
+      "badge": "Kaza",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Baş: Yüz, kafa, boyun",
+        "Gövde: Göğüs, kaburga, karın",
+        "Alt taraf: Omurganın bir bölümü, bacaklar, kalça",
+        "Üst taraf: Omuz, kollar, dirsek, el, omurganın bir bölümü"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Vücut boşlukları",
+      "badge": "Anatomi",
+      "accent": 2,
+      "intro": "",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Kafatası boşluğu",
+          "intro": "Beyin, beyincik, soğanilik",
+          "bullets": []
+        },
+        {
+          "title": "Göğüs boşluğu",
+          "intro": "Yemek borusu, soluk borusu, akciğer, kalp",
+          "bullets": []
+        },
+        {
+          "title": "Karın boşluğu",
+          "intro": "Mide, pankreas, böbrekler, karaciğer, bağırsaklar",
+          "bullets": []
+        },
+        {
+          "title": "Leğen boşluğu",
+          "intro": "Üreme organları ve idrar torbası",
+          "bullets": []
+        },
+        {
+          "title": "Omurga boşluğu",
+          "intro": "Omurilik ve sinirler bulunur",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "1. Sinir sistemi",
+      "badge": "Sinir",
+      "accent": 3,
+      "intro": "Duyuların alınması, algılanması ve tepki verilmesinden sorumlu sistemdir.",
+      "bullets": [
+        "Beyin: Vücudu kontrol eden bilinç sistemidir",
+        "Soğanilik: Dolaşım ve solunum sistemini kontrol eder",
+        "Omurilik: Genellikle kas, deri ve iç organlarda görevini yürütür"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2. Solunum sistemi",
+      "badge": "Solunum",
+      "accent": 0,
+      "intro": "Kişinin yaşamı için gerekli oksijeni sağlayan sistemdir. Havadaki oksijeni alıp kanda bulunan karbonmonoksitle yer değiştirmesini sağlar.",
+      "bullets": [
+        "Organlar: Ağız, burun, yutak, gırtlak, soluk borusu, akciğerler"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "3. Sindirim sistemi",
+      "badge": "Sindirim",
+      "accent": 1,
+      "intro": "Organizmanın yaşamını sürdürebilmesi için gerekli olan gıdaların alınması, parçalanması, öğütülmesi, sindirilmesi ve artıkların dışarı atılması işlemlerinden sorumlu sistemdir.",
+      "bullets": [
+        "Organlar: Ağız, diş, dil, tükrük bezleri, yutak, yemek borusu, mide, ince ve kalın bağırsaklar ve anüs",
+        "Karaciğer, pankreas ve safra kesesinin sindirime yardımcı rolleri vardır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "4. Dolaşım sistemi",
+      "badge": "Dolaşım",
+      "accent": 2,
+      "intro": "Kalp, kan ve damarlardan (atar, toplar ve kılcal damarlar) oluşur. Sistemin merkezi kalptir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Kalp",
+          "intro": "4 odacıktan meydana gelir; üsttekiler kulakçık, alttakiler karıncıktır. Kalbin bir tarafı temiz, diğer tarafı kirli kanı barındırır.",
+          "bullets": []
+        },
+        {
+          "title": "Atardamar",
+          "intro": "Kalbin pompaladığı temiz kanı vücuda dağıtır.",
+          "bullets": []
+        },
+        {
+          "title": "Toplar damar",
+          "intro": "Kanı dokulardaki kılcal damarlardan alarak kalbe getirir. Taşıdıkları kan kirli kandır.",
+          "bullets": []
+        },
+        {
+          "title": "Kılcal damarlar",
+          "intro": "Atardamarların en ince dallarıdır.",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "5. Hareket sistemi",
+      "badge": "Hareket",
+      "accent": 3,
+      "intro": "Kemik, kas ve eklemler hareket sistemini oluşturan doku ve organlardır.",
+      "bullets": [],
+      "subsections": []
+    }
+  ]
+}
