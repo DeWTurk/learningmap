@@ -1,0 +1,254 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 2 · Yaralı ve Olay Yeri Değerlendirmesi — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2025/08/2-hasta-ve-yaralnn-degerlendiirilmesi.html",
+  "sections": [
+    {
+      "title": "Hasta/yaralının ve olay yerinin değerlendirilmesi",
+      "badge": "Genel",
+      "accent": 0,
+      "intro": "Bu ünitede yaşam bulguları, ilk ve ikinci değerlendirme ile olay yerinin güvenli şekilde ele alınması özetlenir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Yaşam bulguları ile ilgili önemli göstergeler",
+      "badge": "Yaşam",
+      "accent": 1,
+      "intro": "Hasta/yaralıyı değerlendirmeden önce yaşam bulgularının anlamlarının bilinmesi gerekmektedir. Çünkü bu bulguların var veya yok olması yapılacak müdahaleler için önem taşımaktadır. Yaşam bulguları dediğimizde, hasta/yaralının;",
+      "bullets": [
+        "Bilinci",
+        "Solunumu",
+        "Dolaşımı",
+        "Vücut ısısı",
+        "Kan basıncından söz edilmektedir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Bilinç durumu",
+      "badge": "Bilinç",
+      "accent": 2,
+      "intro": "Öncelikle, hasta/yaralının bilinç durumu değerlendirilir. Normal bir kişi kendine yöneltilen tüm uyarılara cevap verir. Bilinç düzeyi yaralanmanın ağırlığını gösterir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Bilinç düzeyleri",
+          "intro": "",
+          "bullets": [
+            "Kişinin bilinci yerinde ise: Tüm uyarılara cevap verir",
+            "1. Derece bilinç kaybı: Sözlü ve gürültülü uyaranlara cevap verir",
+            "2. Derece bilinç kaybı: Ağrılı uyaranlara cevap verir",
+            "3. Derece bilinç kaybı: Tüm uyaranlara karşı tepkisizdir, cevap vermez"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Solunum değerlendirmesi",
+      "badge": "Solunum",
+      "accent": 3,
+      "intro": "Hasta/yaralının solunumu değerlendirilirken;",
+      "bullets": [
+        "Solunum sıklığına",
+        "Solunum aralıklarının eşitliğine",
+        "Solunum derinliğine bakılır"
+      ],
+      "subsections": [
+        {
+          "title": "Solunum sıklığı",
+          "intro": "Kişinin 1 dakika içinde nefes alma ve verme sayısı solunum sıklığıdır.",
+          "bullets": [
+            "Sağlıklı yetişkin bir kişide dakikada solunum sayısı 12–20",
+            "Çocuklarda 16–22",
+            "Bebeklerde 18–24"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kan basıncının değerlendirilmesi",
+      "badge": "KB",
+      "accent": 0,
+      "intro": "Hasta/yaralı değerlendirilirken kan basıncı kontrol edilmez. Ancak, kan basıncının anlamının bilinmesi önemlidir.\n\nKalbin kasılma ve gevşeme anında damar duvarına yaptığı basınçtır. Kalbin kanı pompalama gücünü gösterir. Normal değeri 50/100–100/140 mm Hg’dir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Nabız değerlendirmesi",
+      "badge": "Nabız",
+      "accent": 1,
+      "intro": "Kalp atımlarının atardamar duvarına yaptığı basıncın damar duvarında parmak uçlarıyla hissedilmesine nabız denmektedir.",
+      "bullets": [
+        "Yetişkin bir kişide normal nabız sayısı dakikada 60–100",
+        "Çocuklarda 100–120",
+        "Bebeklerde 100–140"
+      ],
+      "subsections": [
+        {
+          "title": "Vücutta nabız alınabilen bölgeler",
+          "intro": "",
+          "bullets": [
+            "Şah damarı (adem elmasının her iki yanında)",
+            "Ön-kol damarı (bileğin iç yüzü, baş parmağın üst hizası)",
+            "Bacak damarı (ayak sırtının merkezinde)",
+            "Kol damarı (kolun iç yüzü, dirseğin üstü)"
+          ]
+        },
+        {
+          "title": "Not",
+          "intro": "Hasta/yaralıların dolaşımını değerlendirirken, çocuk ve yetişkinlerde şah damarından, bebeklerde kol atardamarından nabız alınır.",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "Vücut ısısının değerlendirmesi",
+      "badge": "Isı",
+      "accent": 2,
+      "intro": "İlkyardımda vücut ısısı koltuk altından ölçülmelidir.\n\nNormal vücut ısısı 36,5 °C’dir. Normal değerin üstünde olması yüksek ateş, altında olması düşük ateş olarak belirtilir. 41–42 °C üstü ve 34,5 °C altı tehlike olduğunu ifade eder. 31,0 °C ve altı ölümcüldür.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Hasta/yaralının ilk değerlendirme aşamaları",
+      "badge": "ABC",
+      "accent": 3,
+      "intro": "Hasta/yaralıya sözlü uyaranla ya da hafifçe omzuna dokunarak “İyi misiniz?” diye sorularak bilinç durumu değerlendirmesi yapılır. Bilinç durumunun değerlendirilmesi daha sonraki aşamalar için önemlidir. Buna göre hasta/yaralının ilk değerlendirme aşamaları şunlardır:",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "A. Havayolu açıklığının değerlendirilmesi",
+          "intro": "Özellikle bilinç kaybı olanlarda dil geri kaçarak solunum yolunu tıkayabilir ya da kusmuk, yabancı cisimlerle solunum yolu tıkanabilir. Havanın akciğerlere ulaşabilmesi için hava yolunun açık olması gerekir.\n\nHava yolu açıklığı sağlanırken hasta/yaralı baş, boyun, gövde ekseni düz olacak şekilde yatırılmalıdır.\n\nBilinç kaybı belirlenmiş kişide; ağız içine önce göz ile bakılmalı, eğer yabancı cisim var ise işaret parmağı yandan ağız içine sokularak cisim çıkartılmalıdır.\n\nDaha sonra bir el hasta/yaralının alnına, diğer elin 2 parmağı çene kemiğinin üzerine koyulur; alından bastırılıp çeneden kaldırılarak baş geriye doğru itilip baş geri–çene yukarı pozisyonu verilir. Bu işlemler sırasında sert hareketlerden kaçınılmalıdır.",
+          "bullets": []
+        },
+        {
+          "title": "B. Solunumun değerlendirilmesi",
+          "intro": "İlkyardımcı, başını hasta/yaralının göğsüne bakacak şekilde yan çevirerek yüzünü hasta/yaralının ağzına yaklaştırır; Bak–Dinle–Hisset yöntemi ile solunum yapıp yapmadığını 10 saniye süre ile değerlendirir.",
+          "bullets": [
+            "Göğüs kafesinin solunum hareketine bakılır",
+            "Eğilip kulağını hastanın ağzına yaklaştırarak solunum dinlenir ve hastanın soluğunu yanağında hissetmeye çalışılır",
+            "Solunum yoksa derhal yapay solunuma başlanır"
+          ]
+        },
+        {
+          "title": "C. Dolaşımın değerlendirilmesi",
+          "intro": "Dolaşımın değerlendirilmesi için ilkyardımcı; çocuk ve yetişkinlerde şah damarından, bebeklerde kol atardamarından 3 parmakla 5 saniye süre ile nabız almaya çalışır.\n\nİlk değerlendirme sonucu hasta/yaralının bilinci kapalı fakat solunum ve nabzı varsa derhal koma pozisyonuna getirerek diğer yaralılar değerlendirilir.",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "Koma pozisyonu (video)",
+      "badge": "Video",
+      "accent": 0,
+      "intro": "Örnek görüntü için YouTube: https://www.youtube.com/watch?v=RyKlYEXgjlI",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Hasta/yaralının ikinci değerlendirme aşamaları",
+      "badge": "2. muayene",
+      "accent": 1,
+      "intro": "İlk muayene ile hasta/yaralının yaşam belirtilerinin varlığı güvence altına alındıktan sonra ilkyardımcı ikinci muayene aşamasına geçerek baştan aşağı muayene yapar.\n\nİkinci değerlendirme aşamaları şunlardır:",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Görüşerek bilgi edinme",
+          "intro": "",
+          "bullets": [
+            "Kendini tanıtır",
+            "Hasta/yaralının ismini öğrenir ve adıyla hitap eder",
+            "Hoşgörülü ve nazik davranarak güven sağlar",
+            "Hasta/yaralının endişelerini gidererek rahatlatır",
+            "Olayın mahiyeti, koşulları, kişisel özgeçmişleri, ne yedikleri, kullanılan ilaçlar ve alerjinin varlığı sorularak öğrenilir"
+          ]
+        },
+        {
+          "title": "Baştan aşağı kontrol",
+          "intro": "",
+          "bullets": [
+            "Bilinç düzeyi, anlama, algılama",
+            "Solunum sayısı, ritmi, derinliği",
+            "Nabız sayısı, ritmi, şiddeti",
+            "Vücut veya cilt ısısı, nemi, rengi"
+          ]
+        },
+        {
+          "title": "Baş",
+          "intro": "Saç, saçlı deri, baş ve yüzde yaralanma, morluk olup olmadığı, kulak ya da burundan sıvı veya kan gelip gelmediği değerlendirilir; ağız içi kontrol edilir.",
+          "bullets": []
+        },
+        {
+          "title": "Boyun",
+          "intro": "Ağrı, hassasiyet, şişlik, şekil bozukluğu araştırılır. Aksi ispat edilinceye kadar boyun zedelenmesi ihtimali göz ardı edilmemelidir.",
+          "bullets": []
+        },
+        {
+          "title": "Göğüs kafesi",
+          "intro": "Saplanmış cisim, açık yara, şekil bozukluğu ya da morarma olup olmadığı, hafif baskı ile ağrı oluşup oluşmadığı, kanama olup olmadığı değerlendirilmelidir. Göğüs kafesi genişlemesinin normal olup olmadığı araştırılmalıdır. Göğüs muayenesinde eller arkaya kaydırılarak hasta/yaralının sırtı da kontrol edilmelidir.",
+          "bullets": []
+        },
+        {
+          "title": "Karın boşluğu",
+          "intro": "Saplanmış cisim, açık yara, şekil bozukluğu, şişlik, morarma, ağrı ya da duyarlılık olup olmadığı ve karnın yumuşaklığı değerlendirilmelidir. Eller bel tarafına kaydırılarak muayene edilmeli, ardından kalça kemiklerinde de aynı araştırma yapılarak kırık veya yara olup olmadığı araştırılmalıdır.",
+          "bullets": []
+        },
+        {
+          "title": "Kol ve bacaklar",
+          "intro": "Kuvvet, his kaybı varlığı, ağrı, şişlik, şekil bozukluğu, işlev kaybı ve kırık olup olmadığı, nabız noktalarından nabız alınıp alınmadığı değerlendirilmelidir.",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "title": "İkinci değerlendirme sonrası",
+      "badge": "Özet",
+      "accent": 2,
+      "intro": "İkinci değerlendirmeden sonra mevcut duruma göre yapılacak müdahale yöntemi seçilir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Olay yeri değerlendirmesi",
+      "badge": "Olay yeri",
+      "accent": 3,
+      "intro": "",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Olay yerini değerlendirmenin amacı",
+          "intro": "",
+          "bullets": [
+            "Olay yerinde tekrar kaza olma riskinin ortadan kaldırılması",
+            "Olay yerindeki hasta/yaralı sayısının ve türlerinin belirlenmesi",
+            "Olay yerinin hızlı biçimde değerlendirilmesinin ardından yapılacak müdahalelerin planlanması"
+          ]
+        },
+        {
+          "title": "Olay yerinde yapılması gerekenler",
+          "intro": "Herhangi bir olay yerinin değerlendirilmesinde aşağıdakiler mutlaka yapılmalıdır:",
+          "bullets": [
+            "Kazaya uğrayan araç mümkünse yolun dışına ve güvenli bir alana alınmalı; kontak kapatılmalı, el freni çekilmeli; araç LPG’li ise bagajdaki tüpün vanası kapatılmalıdır",
+            "Olay yeri yeterince görünür biçimde işaretlenmelidir; kaza noktasının önüne ve arkasına uyarı işaretleri (ör. üçgen reflektör) konulmalıdır",
+            "Yardımı güçleştirebilecek meraklı kişiler olay yerinden uzaklaştırılmalıdır",
+            "Patlama ve yangın riski için olay yerinde sigara içilmemelidir",
+            "Gaz varlığında zehirlenmeyi önlemek için gerekli önlemler alınmalıdır",
+            "Ortam havalandırılmalıdır",
+            "Kıvılcım oluşturabilecek ışıklandırma veya çağrı araçlarına izin verilmemelidir",
+            "Hasta/yaralı yerinden oynatılmamalıdır",
+            "Hasta/yaralı hızla yaşam bulguları (ABC) yönünden değerlendirilmelidir",
+            "Kırık ve kanama yönünden değerlendirilmelidir",
+            "Hasta/yaralı sıcak tutulmalıdır",
+            "Bilinci kapalıysa ağızdan hiçbir şey verilmemelidir",
+            "Tıbbi yardım istenmelidir (112)",
+            "Endişeler giderilmeli, nazik ve hoşgörülü olunmalıdır",
+            "Paniği azaltmak için yaranın görülmesine izin verilmemelidir",
+            "Hasta/yaralı ve olay bilgileri kaydedilmelidir",
+            "Yardım ekibi gelene kadar olay yerinde kalınmalıdır"
+          ]
+        }
+      ]
+    }
+  ]
+}
