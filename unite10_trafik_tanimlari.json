@@ -1,0 +1,280 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 10 · Trafik Tanımları — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/10-trafik-tanmlar.html",
+  "sections": [
+    {
+      "title": "Temel kavramlar",
+      "badge": "Tanım",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Trafik: Yayaların, hayvanların ve araçların karayolu üzerindeki hal ve hareketlerinin tümü",
+        "Karayolu: Trafik için kamunun yararlanmasına açık arazi şeridi, köprüler ve alanlar",
+        "Araç: Karayolunda kullanılabilen motorlu/motorsuz ve özel amaçlı taşıtlar, iş makineleri ve lastik tekerlekli traktörlerin genel adı",
+        "Taşıt: Karayolunda insan, hayvan ve yük taşımaya yarayan araçlar; motorlu/motorsuz, ticari, hususi, resmi ayrımı",
+        "Sürücü: Karayolunda motorlu veya motorsuz bir aracı sevk ve idare eden kişi",
+        "Şoför: Ticari olarak tescil edilmiş motorlu taşıtı süren kişi",
+        "Trafik işaretleri: Trafiği düzenleme amacıyla zabıta/yetkililerin işaretleri, ışıklı-sesli işaretler, levhalar, yer işaretleri",
+        "Geçiş üstünlüğü: Görev sırasında belirli sürücülerin can/mal güvenliğini bozmama şartıyla kısıtlamalara bağlı olmama",
+        "Geçiş hakkı: Yayaların ve araç kullananların yolu kullanma sırasındaki öncelik hakkı",
+        "Durma: Trafik zorunluluğuyla aracın durdurulması (kırmızı ışık, yol kapanması vb.)",
+        "Duraklama: Zorunluluk dışında indir-bindir, yükleme-boşaltma veya kısa bekleme için durdurma",
+        "Park: Durma ve duraklama dışında uzun süreli bırakma",
+        "Trafik kazası: Hareket halindeki araçların karıştığı ölüm, yaralanma veya zararla sonuçlanan olay",
+        "Trafikten men: Kanunda belirtilen hallerde belgelerin alınması ve aracın alıkonması"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Araç ve taşıt — tanımlar",
+      "badge": "Çekirdek",
+      "accent": 1,
+      "intro": "Üstteki genel tanımlara ek olarak sınavda sık geçen ayrıntılar.",
+      "bullets": [
+        "Araç: Motorlu, motorsuz ve özel amaçlı taşıtlar ile iş makineleri ve lastik tekerlekli traktörler",
+        "Taşıt: Ticari olarak tescil edilmiş; insan/hayvan/yük taşımaya yarayan araçlar — motorlu / motorsuz taşıt",
+        "Araç sahibi: Adına tescil belgesi veya sahiplik/satış belgesi düzenlenmiş kişi",
+        "İşleten: Sahibi veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı veya aracın uzun süreli kiracısı"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Otomobil",
+      "badge": "M1",
+      "accent": 2,
+      "intro": "Yolcu taşıma; sürücü dahil en fazla (8+1) oturma yeri, insan taşımak için imal edilmiş motorlu taşıt.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/81/%C3%BCnite-2---otomobil.jpg"
+    },
+    {
+      "title": "Minibüs ve otobüs",
+      "badge": "M2/M3",
+      "accent": 3,
+      "intro": "Yolcu taşımacılığında sürücü dahil dokuzdan fazla oturma yeri; troleybüsler bu sınıftadır. Sürücü dahil oturma yeri 17’yi geçmeyen otobüslere minibüs denir.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/82/%C3%9Cnite-2---Min%C3%BCb%C3%BCs.png"
+    },
+    {
+      "title": "Uluslararası sınıflandırma — yolcu (M)",
+      "badge": "M",
+      "accent": 0,
+      "intro": "M sınıfı: En az dört tekerlekli, yolcu taşımasında kullanılan motorlu araçlar.",
+      "bullets": [
+        "M1: Sürücü dahil en fazla 9 oturma yeri",
+        "M2: Sürücü dahil 9’dan fazla oturma; azami ağırlık 5 tonu aşmayan",
+        "M3: Sürücü dahil 9’dan fazla oturma; azami ağırlık 5 tonu aşan"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kamyonet",
+      "badge": "N1",
+      "accent": 1,
+      "intro": "Azami yüklü ağırlığı 3500 kg’ı geçmeyen yük taşıma motorlu taşıt. Sürücü bölümü gövde ile birleşik panelvan örneği.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/84/%C3%BCnite-2---kamyonet.jpg"
+    },
+    {
+      "title": "Kamyon ve çekici",
+      "badge": "N2/N3",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Kamyon: İzin verilebilen azami yüklü ağırlığı 3500 kg’dan fazla yük taşıma motorlu taşıt",
+        "Çekici: Römork/yarı römork çekmek için imal edilmiş, yük taşımayan motorlu taşıt"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/85/%C3%BCnite-2---kamyon.jpg"
+    },
+    {
+      "title": "Çekici (görsel)",
+      "badge": "Çekici",
+      "accent": 3,
+      "intro": "",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/86/%C3%BCnite-2---%C3%A7ekici.jpg"
+    },
+    {
+      "title": "Uluslararası sınıflandırma — yük (N)",
+      "badge": "N",
+      "accent": 0,
+      "intro": "N sınıfı: En az dört tekerlekli, yük taşımasında kullanılan motorlu araçlar.",
+      "bullets": [
+        "N1: Azami ağırlığı 3,5 tonu aşmayan",
+        "N2: 3,5 tonu aşan, 12 tonu aşmayan",
+        "N3: Azami ağırlığı 12 tonu aşan"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Gabari ve ağırlık terimleri",
+      "badge": "Ölçü",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Gabari: Güvenli seyir için uzunluk, genişlik, yükseklik sınırları",
+        "Taşıma sınırı (kapasite): Güvenle taşınabilecek en çok yük veya yolcu/hizmetli sayısı",
+        "Azami ağırlık: Yükle birlikte güvenle taşınabilecek toplam ağırlık",
+        "Yüksüz ağırlık: İnsan/yük yok; akaryakıt dolu, zorunlu alet-donanım dahil",
+        "Yüklü ağırlık: Yüksüz + sürücü, hizmetli, yolcu, eşya",
+        "Dingil ağırlığı: Aynı dingildeki tekerleklerden karayoluna aktarılan yük"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Römork",
+      "badge": "O",
+      "accent": 2,
+      "intro": "Motorlu araçla çekilen, insan veya yük taşımak için imal edilmiş motorsuz araç.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/87/%C3%BCnite-2---r%C3%B6mork.jpg"
+    },
+    {
+      "title": "Yarı römork ve hafif römork",
+      "badge": "O",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Yarı römork: Bir kısmı çekici üzerine oturan; yük ve kendi ağırlığının bir kısmı çekici tarafından taşınır",
+        "Hafif römork: Azami yüklü ağırlığı 0,75 tonu geçmeyen römork veya yarı römork"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/88/%C3%BCnite-2---yar%C4%B1-r%C3%B6mork.jpg"
+    },
+    {
+      "title": "Hafif römork (görsel)",
+      "badge": "O1",
+      "accent": 0,
+      "intro": "",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/89/%C3%BCnite-2---hafif-r%C3%B6mork.jpg"
+    },
+    {
+      "title": "Uluslararası sınıflandırma — römork (O)",
+      "badge": "O",
+      "accent": 1,
+      "intro": "O sınıfı: Motorlu araç tarafından çekilen römork veya yarı römork motorsuz yük taşıma araçları.",
+      "bullets": [
+        "O1: Azami ağırlığı 0,75 tonu aşmayan",
+        "O2: 0,75 tonu aşan, 3,5 tonu aşmayan",
+        "O3: 3,5 tonu aşan, 10 tonu aşmayan",
+        "O4: Azami ağırlığı 10 tonu aşan"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Karayolu — genel",
+      "badge": "Yol",
+      "accent": 2,
+      "intro": "Trafik için kamunun yararlanmasına açık arazi şeridi, köprü ve alanlar.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/1546/Ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2023-07-25-021049.png"
+    },
+    {
+      "title": "İki yönlü karayolu",
+      "badge": "Çeşit",
+      "accent": 3,
+      "intro": "Taşıt yolunun her iki yöndeki taşıt trafiği için kullanıldığı karayolu.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/90/%C3%BCnite-4---ikiyonlukarayolu.gif"
+    },
+    {
+      "title": "Tek yönlü karayolu",
+      "badge": "Çeşit",
+      "accent": 0,
+      "intro": "Taşıt yolunun yalnız bir yöndeki taşıt trafiği için kullanıldığı karayolu.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/91/%C3%BCnite-4---tekyonlukarayolu.gif"
+    },
+    {
+      "title": "Bölünmüş karayolu",
+      "badge": "Çeşit",
+      "accent": 1,
+      "intro": "Bir yöndeki taşıt yolunun ayırıcı ile diğer taşıt yolundan ayrılması.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/94/%C3%BCnite-4---bolunmusyol.gif"
+    },
+    {
+      "title": "Erişime kontrollü karayolu (otoyol / ekspres)",
+      "badge": "Otoyol",
+      "accent": 2,
+      "intro": "Transit trafiğe tahsis; belirli yer/şart dışında giriş-çıkış yasak; yaya, hayvan ve motorsuz giremez; izinli motorlu araçlar ve özel trafik kontrolü.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/96/%C3%BCnite-4---otoyol.jpg"
+    },
+    {
+      "title": "Geçiş ve bağlantı yolu",
+      "badge": "Bağlantı",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Geçiş yolu: Bir mülke giriş-çıkış için yapılan yolun karayolundaki kısmı",
+        "Bağlantı yolu: Kavşak yakınında taşıt yollarını birbirine bağlayan, kavşak alanı dışında ve bir yönlü trafiğe ayrılmış karayolu parçası"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/98/%C3%BCnite-4---ge%C3%A7i%C5%9F-yolu.jpg"
+    },
+    {
+      "title": "Bisiklet yolu ve yaya yolu",
+      "badge": "Ayırım",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Bisiklet yolu: Yalnız bisikletlilere ayrılan kısım",
+        "Yaya yolu (kaldırım): Taşıt yolu ile mülkler arasında yalnız yayaların kullanımına ayrılmış kısım"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/100/%C3%BCnite-4---bisiklet-yolu.jpg"
+    },
+    {
+      "title": "Ana yol ve tali yol",
+      "badge": "Öncelik",
+      "accent": 1,
+      "intro": "Ana yol: Ana trafiğe açık; kesen trafiğin geçerken veya girerken ilk geçiş hakkı vermesi gereken yol (işaretle). Talı yol: Bağlandığı yoldan trafik yoğunluğu bakımından daha az önemli yol.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/103/%C3%BCnite-4---anayol-taliyol.gif"
+    },
+    {
+      "title": "Karayolunun unsurları (1)",
+      "badge": "Unsur",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Kavşak: İki veya daha fazla karayolunun kesişmesi veya birleşmesiyle oluşan ortak alan",
+        "Banket: Yaya yolu ayrılmamış yolda taşıt yolu kenarı ile şev/hendek arası; olağan yaya-hayvan, zorunlu hâlde araç",
+        "Yaya geçidi: Yayaların güvenli geçişi için taşıt yolunda işaretlenmiş alan",
+        "Okul geçidi: Okul çevrelerinde öğrenciler için taşıt yolunda ayrılmış, işaretli alan"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/101/%C3%BCnite-4---kav%C5%9Fak.gif"
+    },
+    {
+      "title": "Karayolunun unsurları (2)",
+      "badge": "Unsur",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Alt-üst geçit: Karayolunun başka karayolu veya demiryolunu alttan/üstten geçmesini sağlayan yapı",
+        "Demiryolu geçidi (hemzemin): Karayolu ile demiryolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçit",
+        "Ayırıcı: Taşıt yollarını ayıran; karşı tarafa geçişi engelleyen veya zorlaştıran yapı/tertibat",
+        "Ada: Yayaların geçiş/durak ve inme-binişi için; araç girmez, koruyucu tertibatla belirlenmiş alan",
+        "Şerit: Taşıt yolunun çizgilerle ayrılmış, güvenli dizi halinde seyir bölümü"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/104/%C3%BCnite-4---hemzeminge%C3%A7it.jpg"
+    }
+  ]
+}
