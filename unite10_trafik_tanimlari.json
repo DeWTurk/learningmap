@@ -112,12 +112,26 @@
       "subsections": []
     },
     {
-      "title": "Gabari ve ağırlık terimleri",
-      "badge": "Ölçü",
+      "title": "Gabari",
+      "badge": "Gabari",
       "accent": 1,
-      "intro": "",
+      "intro": "Araçların yüklü veya yüksüz olarak karayolunda güvenli seyri için belirlenen uzunluk, genişlik ve yükseklik ölçüleri. Köprü, üst geçit ve dar yol kesimlerinde levhalarda sıkça gösterilir.",
       "bullets": [
-        "Gabari: Güvenli seyir için uzunluk, genişlik, yükseklik sınırları",
+        "TT-20 — Genişliği … metreden fazla olan taşıt giremez",
+        "TT-21 — Yüksekliği … metreden fazla olan taşıt giremez",
+        "TT-22 — Uzunluğu … metreden fazla olan taşıt giremez"
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyatyCZJEMzAfWA7qp1cE3pDXVTZt2T6lufD3EAhYGlZYvmbVnL2RhJ0fJ6Pv4e3bU4z9Pe0P7Ys9MqBuC0gDpLdIzFTR5i6GSCpvXwcAs9l_YTrSrTHbEhenSULsaQZAH7hETEVuiK1cuAcURmAqjjbnlnAaGxIDE6O1MBnEfNBppvUQg6sNUXUAfyOI/s1600/gggg.png"
+    },
+    {
+      "title": "Ağırlık ve kapasite terimleri",
+      "badge": "Ölçü",
+      "accent": 2,
+      "intro": "Gabari boyutla ilgilidir; aşağıdakiler ise yük ve dingil üzerinden sınırlamalar (ör. TT-23, TT-24) ve tanımlar.",
+      "bullets": [
+        "TT-23 — Dingil başına … tondan fazla yük düşen taşıt giremez",
+        "TT-24 — Yüklü ağırlığı … tondan fazla olan taşıt giremez",
         "Taşıma sınırı (kapasite): Güvenle taşınabilecek en çok yük veya yolcu/hizmetli sayısı",
         "Azami ağırlık: Yükle birlikte güvenle taşınabilecek toplam ağırlık",
         "Yüksüz ağırlık: İnsan/yük yok; akaryakıt dolu, zorunlu alet-donanım dahil",
@@ -129,7 +143,7 @@
     {
       "title": "Römork",
       "badge": "O",
-      "accent": 2,
+      "accent": 3,
       "intro": "Motorlu araçla çekilen, insan veya yük taşımak için imal edilmiş motorsuz araç.",
       "bullets": [],
       "subsections": [],
@@ -138,7 +152,7 @@
     {
       "title": "Yarı römork ve hafif römork",
       "badge": "O",
-      "accent": 3,
+      "accent": 0,
       "intro": "",
       "bullets": [
         "Yarı römork: Bir kısmı çekici üzerine oturan; yük ve kendi ağırlığının bir kısmı çekici tarafından taşınır",
@@ -150,7 +164,7 @@
     {
       "title": "Hafif römork (görsel)",
       "badge": "O1",
-      "accent": 0,
+      "accent": 1,
       "intro": "",
       "bullets": [],
       "subsections": [],
