@@ -1,0 +1,151 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 13 · Karayolu yapısı ve şerit kullanımı — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/13-karayolu-yaps-ve-serit-kullanm.html",
+  "sections": [
+    {
+      "title": "Karayolu — tanım",
+      "badge": "1",
+      "accent": 0,
+      "intro": "Trafik için kamunun yararlanmasına açık arazi şeridi, köprüler ve alanlar.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/1546/Ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-2023-07-25-021049.png"
+    },
+    {
+      "title": "İki yönlü karayolu",
+      "badge": "1",
+      "accent": 1,
+      "intro": "Taşıt yolunun her iki yöndeki taşıt trafiği için kullanıldığı karayolu.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/90/%C3%BCnite-4---ikiyonlukarayolu.gif"
+    },
+    {
+      "title": "Tek yönlü karayolu",
+      "badge": "1",
+      "accent": 2,
+      "intro": "Taşıt yolunun yalnız bir yöndeki taşıt trafiği için kullanıldığı karayolu.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/91/%C3%BCnite-4---tekyonlukarayolu.gif"
+    },
+    {
+      "title": "Bölünmüş karayolu",
+      "badge": "1",
+      "accent": 3,
+      "intro": "Bir yöndeki trafiğe ait taşıt yolunun ayırıcı ile diğer taşıt yolundan ayrılmasıyla oluşan karayolu.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/94/%C3%BCnite-4---bolunmusyol.gif"
+    },
+    {
+      "title": "Erişime kontrollü karayolu (otoyol / ekspres)",
+      "badge": "1",
+      "accent": 0,
+      "intro": "Transit trafiğe tahsis; belirli yer/şart dışında giriş-çıkış yasak; yaya, hayvan ve motorsuz araç yok; izinli motorlu araçlar ve özel kontrol.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/96/%C3%BCnite-4---otoyol.jpg"
+    },
+    {
+      "title": "Geçiş yolu",
+      "badge": "1",
+      "accent": 1,
+      "intro": "Araçların bir mülke girip çıkması için yapılmış yolun karayolu üzerindeki kısmı.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/98/%C3%BCnite-4---ge%C3%A7i%C5%9F-yolu.jpg"
+    },
+    {
+      "title": "Bağlantı yolu",
+      "badge": "1",
+      "accent": 2,
+      "intro": "Kavşak yakınında taşıt yollarını birbirine bağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış karayolu parçası.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/99/%C3%BCnite-4---ba%C4%9Flant%C4%B1-yolu.jpg"
+    },
+    {
+      "title": "Bisiklet yolu",
+      "badge": "1",
+      "accent": 3,
+      "intro": "Yalnız bisikletlilere ayrılmış karayolu kısmı.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/100/%C3%BCnite-4---bisiklet-yolu.jpg"
+    },
+    {
+      "title": "Yaya yolu (kaldırım)",
+      "badge": "1",
+      "accent": 0,
+      "intro": "Taşıt yolu kenarı ile mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış kısım.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Anayol ve tali yol",
+      "badge": "1",
+      "accent": 1,
+      "intro": "Anayol: Ana trafiğe açık olup onu kesen yoldaki trafiğin geçerken veya girerken ilk geçiş hakkı vermesi gerektiği işaretlerle belirlenmiş karayolu. Tali yol: Bağlandığı yoldan trafik yoğunluğu bakımından genelde daha az önemli yol.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/103/%C3%BCnite-4---anayol-taliyol.gif"
+    },
+    {
+      "title": "Karayolunun unsurları (1)",
+      "badge": "2",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Kavşak: İki veya daha fazla karayolunun kesişmesi veya birleşmesiyle oluşan ortak alan",
+        "Banket: Yaya yolu ayrılmamış yolda taşıt yolu kenarı ile şev/hendek arası; olağan olarak yaya ve hayvan, zorunlu hallerde araç kullanımı",
+        "Yaya geçidi: Taşıt yolunda yayaların güvenli geçişi için işaretlerle belirlenmiş alan",
+        "Okul geçidi: Okul çevresinde öğrenci geçişi için taşıt yolunda ayrılmış, işaretle belirlenmiş alan",
+        "Alt-üst geçit: Karayolunun başka karayolu veya demiryolunu alttan/üstten geçmesini sağlayan yapı"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/101/%C3%BCnite-4---kav%C5%9Fak.gif"
+    },
+    {
+      "title": "Demiryolu geçidi (hemzemin)",
+      "badge": "2",
+      "accent": 3,
+      "intro": "Karayolu ile demiryolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitler.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/104/%C3%BCnite-4---hemzeminge%C3%A7it.jpg"
+    },
+    {
+      "title": "Ayırıcı, ada, şerit",
+      "badge": "2",
+      "accent": 0,
+      "intro": "",
+      "bullets": [
+        "Ayırıcı: Taşıt yollarını veya bölümlerini ayıran; karşıya geçişi engelleyen veya zorlaştıran yapı, tertibat veya gereç",
+        "Ada: Yaya geçiş/durak, in-bin, akım düzenleme ve güvenlik için; araç giremez, koruyucu tertibatla belirlenmiş alan",
+        "Şerit: Taşıtların güvenli sıra halinde seyri için taşıt yolunun çizgilerle ayrılmış bölümü"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Karayolunu kullanma kuralları",
+      "badge": "3",
+      "accent": 1,
+      "intro": "Türkiye’de trafik sağdan akar. Yasaklama, kısıtlama ve trafik durumuna göre tüm kurallara uyulmalıdır.",
+      "bullets": [
+        "Aksine işaret yoksa gidiş yönüne göre yolun en sağından sürmek",
+        "Çok şeritte hız ve trafiğin gerektirdiği şeritten sürmek",
+        "Gidiş şeritlerinden en soldakini sürekli işgal etmemek",
+        "Trafiği aksatacak/tehlikeli şerit değiştirmemek; iki şeridi aynı anda kullanmamak",
+        "Şerit değiştirmeden önce girilecek şeritteki araçların güvenle geçişini beklemek",
+        "Kaza, arıza, acil yardım, kurtarma dışında emniyet şeridini kullanmamak",
+        "İki veya daha çok şeritte, aksine işaret yoksa motosiklet, otomobil, minibüs, kamyonet ve otobüs dışındaki araçları sürenler: geçme ve dönme dışında en sağ şeritten sürmek",
+        "İşaret vermeden şerit değiştirmemek",
+        "Karşı yönden gelen trafik için ayrılmış bölüme girmemek",
+        "Kavşağa yaklaşırken yerleşim dışı 150 m, yerleşim içi 30 m içinde şerit değiştirmek yasaktır"
+      ],
+      "subsections": []
+    }
+  ]
+}
