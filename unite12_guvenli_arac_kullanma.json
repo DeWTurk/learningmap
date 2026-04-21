@@ -1,0 +1,93 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 12 · Güvenli araç kullanma — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/12-guveli-arac-kullanma.html",
+  "sections": [
+    {
+      "title": "Trafik kurallarına ve adabına uygun araç kullanma",
+      "badge": "1",
+      "accent": 0,
+      "intro": "Kazaların büyük çoğunluğu insana bağlıdır; en sık ihlal edilenler genelde temel kurallardır. Bilinçli ve temkinli sürücülük, kuralların ceza korkusu değil içselleştirilmesiyle mümkündür.",
+      "bullets": [
+        "Emniyet kemeri takmamak",
+        "Alkollü araç kullanmak",
+        "Yaya geçitlerinde yayaların geçiş önceliğini hiçe saymak",
+        "Kırmızı ışıkta geçmek ve trafik işaretlerine uymamak",
+        "Aşırı hız ve hız limitlerine uymamak",
+        "Hatalı sollama",
+        "Sinyal vermeden dönüş veya şerit değiştirme",
+        "Seyir halinde cep telefonu ile konuşmak",
+        "Geçiş önceliği kurallarına uymamak",
+        "Öndeki aracı yakın takip; takip mesafesine uymamak"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Alkol, uyuşturucu ve sürüş",
+      "badge": "2a",
+      "accent": 1,
+      "intro": "Kandaki alkol arttıkça görme, işitme, kas kontrolü, dikkat, tepki süresi, algılama ve karar verme zayıflar. Alkolün iki ana etkisi: uyarıcı (korku azalır, risk alma artar) ve uyuşturucu (yorgunluk, dikkat azalması). Hususi araçta 0,50 promil, ticari araçta 0,20 promil üzeri karayolunda araç kullanılamaz.",
+      "bullets": [
+        "Son ihlalin tarihinden geriye 5 yıl içinde — 1. sefer: ehliyete 6 ay el koyma, para cezası, 20 ceza puanı",
+        "2. sefer: ehliyete 2 yıl el koyma, para cezası, 20 puan; sürücü davranışları geliştirme eğitimi (başarılı olanlar ehliyeti geri alabilir)",
+        "3. ve sonrası: ehliyet 5 yıl geri alınır, para cezası, 20 puan; psiko-teknik ve psikiyatri değerlendirmesi; cezaların tamamı ödenmeden iade yok; 1,00 promil üstü TCK kapsamında",
+        "Alkollü iken yaralanmalı/ölümlü kazaya neden olan sürücü ağır kusurlu sayılır",
+        "Psikotrop/uyuşturucu etkisi altında sürüş yasaktır; ehliyet 5 yıl geri alınır, TCK işlemi; süre sonunda iade için sağlık kurulu raporu ve cezaların tahsili gerekir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "İlaçlar, yorgunluk ve ticari sürücü süreleri",
+      "badge": "2b–c",
+      "accent": 2,
+      "intro": "Reçeteli/reçetesiz bazı ilaçlar uyku hali, gevşeme, dikkat dağınıklığı yapabilir; yan etkileri okuyup trafiğe ona göre çıkılmalı. Yorgun ve uykusuz sürüş kazalarda sık görülür; yorgunluk hissedilince en az yarım saat mola verilmeli.",
+      "bullets": [
+        "Ticari olarak, aracı 9 kişiden ve 3,5 tondan fazlaysa: 24 saatte aralıklı toplam en fazla 9 saat sürüş",
+        "Devamlı en fazla 4,5 saat; aralarda 45 dakika mola zorunlu",
+        "9 saatlik kullanım dolunca 11 saat kesintisiz dinlenme",
+        "En fazla 6 günlük kullanımdan sonra 1 gün hafta tatili",
+        "Sürelere uyum takograf ile denetlenir; takograf yok/çalışmıyorsa veya SRC yoksa sürüş yasaktır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Koruyucu teçhizat",
+      "badge": "3",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "Motosiklet/motorlu bisiklet: sürücüde kask ve koruma gözlüğü; yolcuda kask zorunlu",
+        "Otomobil, arazi (otomobil sınıfı), kamyon, kamyonet, çekici, minibüs, otobüs: tüm koltuklarda emniyet kemeri bulundurma ve kullanma zorunlu",
+        "Bebek 2 yaşından küçük: yüzü arkaya bakacak şekilde çocuk koltuğu",
+        "2–4 yaş: yüzü öne bakacak çocuk koltuğu",
+        "4–8 yaş: çocuk koltuğu veya yükseltici",
+        "8–12 yaş veya boy 145 cm: erişkin tipi emniyet kemeri kullanılabilir",
+        "12 yaşından küçük çocuklar ön koltukta oturamaz"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Araç cinsi, yol, çevre, hava ve yük",
+      "badge": "4",
+      "accent": 0,
+      "intro": "İnsan, araç ve çevre faktörleri sürüşte iç içedir; yol ve araç durumu sürüşü doğrudan etkiler. Trafiğe çıkmadan araç kontrolü, güzergâh ve risklere göre hazırlık yapılmalıdır.",
+      "bullets": [
+        "İnsan faktörü: sürücüler, araç sahipleri, yayalar, yolcular, trafik görevlileri",
+        "Araç faktörü: motorlu/motorsuz, yük/yolcu taşıyan, elektrikli veya elle itilen araçlar",
+        "Çevre faktörü: şehir içi/dışı yol, üst yapı, trafik düzeni, hava (kar, sis, yağmur)"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Trafik psikolojisi",
+      "badge": "5",
+      "accent": 1,
+      "intro": "Kazaların büyük kısmı insana bağlıdır; sürücü hatası öne çıkar. Faktörler kalıcı ve geçici olarak ayrılır. Geçici: anlık hata, algı bozukluğu — alkol, sağlık, diğer sürücüler, iklim/yol, stres. Kalıcı: kazaya yatkınlık, sürüş tarzı ve yeteneği; kaza riskinin önemli bir kısmı kalıcı kişisel faktörlere bağlıdır.",
+      "bullets": [
+        "Sık kaza yapanlarda aile sorunları, geçmişte suça eğilim, olumsuz/olgunlaşmamış, sorumsuz ve saldırgan kişilik özellikleri sık görülür",
+        "Duygu kontrolü zayıflığı, öfke, depresyon, prestij ve güç arayışı riski artırır"
+      ],
+      "subsections": []
+    }
+  ]
+}
