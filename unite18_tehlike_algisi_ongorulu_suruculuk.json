@@ -1,0 +1,95 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 18 · Trafikte tehlike algısı (öngörülü sürücülük) — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/18-trafikte-tehlike-algs-ongurulu.html",
+  "sections": [
+    {
+      "title": "1. Trafikte tehlike ve risk kavramları",
+      "badge": "Algı",
+      "accent": 0,
+      "intro": "Tehlike algılama; çevrede ne olduğu ve bulunduğun durum içinde ne olabileceğinin farkında olmaktır.",
+      "bullets": [
+        "Kaza faktörleri: insan %98,2, taşıt %0,5, yol %0,6, çevre %0,7",
+        "İnsan faktörü sürücü, yaya, yolcu olarak trafiğin ana unsurudur",
+        "İnsan kusuru örnekleri: aşırı hız, alkol, yorgunluk, aşırı özgüven, dikkatsizlik, sorumsuz davranış"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2a. Savunmasız yol kullanıcıları",
+      "badge": "Yaya",
+      "accent": 1,
+      "intro": "Yaya, çocuk, yaşlı, engelli, hayvan, bisikletli, motorlu bisiklet/motosikletli ve motorsuz taşıt sürücüleri korunmasız kullanıcıdır.",
+      "bullets": [
+        "Karşılaşmalarda manevra daha özenli ve daha dikkatli yapılmalıdır",
+        "Hız düşürülmeli, kontrol ve çevre taraması artırılmalıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2b–2f. Mevsim, hava, çevre, gün doğumu/batımı ve gece",
+      "badge": "Hava",
+      "accent": 2,
+      "intro": "Mevsim geçişi ve hava koşulları sürüş riskini yükseltir; hazırlıklı ve uyarlanmış sürüş gerekir.",
+      "bullets": [
+        "Ani hava değişimi, buzlanma, yağmur gibi durumlara hazırlıklı olun",
+        "Lastik seçimini mevsime göre yapın; ticari araçta 15 Kasım–15 Nisan kış lastiği dönemi",
+        "Kışın antifriz, yağmurda çalışır silecek ve genel mekanik kontrol ihmal edilmez",
+        "Yol onarımı/heyelan riski gibi fiziksel çevre etkenlerinde düşük hız + ekstra dikkat",
+        "Gün doğumu/batımı ve gece sürüşünde görüş azalır; hız düşürülür, far/sinyal/selektör kullanımı titiz yapılır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2g. Kavşak riskleri",
+      "badge": "Kavşak",
+      "accent": 3,
+      "intro": "Kavşağa yaklaşırken şerit değişimi mesafe kuralına uyulur, dönüş şeridine önceden geçilir, ışıklar izlenir.",
+      "bullets": [
+        "Yerleşim içinde kavşağa 30 m, dışında 150 m kala şerit değiştirme yasağına dikkat",
+        "Savunmasız kullanıcıların ani çıkış ihtimali için yaklaşmada hız azaltılır",
+        "Dönüş niyeti erken hazırlanır; son anda manevra yapılmaz"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2h–2j. Dikkat dağıtıcılar, kırsal alan ve römork",
+      "badge": "Dikkat",
+      "accent": 0,
+      "intro": "Dikkat dağınıklığı ve araç konfigürasyonu (römork) doğrudan risk artırır.",
+      "bullets": [
+        "Telefon, araç içi sistemler ve yol dışı odaklar kaza riskini yükseltir",
+        "Köy/mezra/tarım alanlarında hayvan, yol dışı yüzey ve beklenmedik çıkışlara karşı düşük hız",
+        "Römorkta elektrik-mekanik bağlantı ve sinyal kontrolü şarttır",
+        "Römorklu sürüşte kanunen daha düşük hız (genel olarak 10 km/s daha düşük) uygulanır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2k–2m. Uzun yol sonrası şehir içi ve yoğun trafik",
+      "badge": "Yoğun",
+      "accent": 1,
+      "intro": "Uzun yol akışına kapılıp şehir içi risk profilini kaçırmamak gerekir.",
+      "bullets": [
+        "Uzun yola dinlenmiş çıkın, kullanım süresini yönetin",
+        "Şehir içine girerken hız düşürüp sürüş modunu değiştirin",
+        "Yoğun trafikte takip mesafesi ve ayna kontrolünü sürekli koruyun",
+        "Öndeki aracın ani yavaşlaması/şerit ihlali ihtimalini daima hesaba katın"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2n–2p. Hız, işaret görünürlüğü ve yaya geçitleri",
+      "badge": "Öncelik",
+      "accent": 2,
+      "intro": "Aşırı hız ve işaretleri kaçırma, risk zincirini büyütür; yaya geçidinde öncelik yayadadır.",
+      "bullets": [
+        "Aşırı hız maddi-manevi kayıp, yaralanma ve ölümlü kaza riskini artırır",
+        "İşaret görünürlüğünü azaltan hava/yol/engel durumlarında hız ve dikkat seviyesi artırılır",
+        "Sinyalizasyon olmasa da yaya-okul geçidinde öncelik yayanındır",
+        "Yaya görünmese bile geçitte mutlaka yavaşla ve yolu kontrol et"
+      ],
+      "subsections": []
+    }
+  ]
+}
