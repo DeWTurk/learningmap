@@ -5,7 +5,7 @@
   "sections": [
     {
       "title": "Karayolu — tanım",
-      "badge": "1",
+      "badge": "Tanım",
       "accent": 0,
       "intro": "Trafik için kamunun yararlanmasına açık arazi şeridi, köprüler ve alanlar.",
       "bullets": [],
@@ -14,7 +14,7 @@
     },
     {
       "title": "İki yönlü karayolu",
-      "badge": "1",
+      "badge": "2 yön",
       "accent": 1,
       "intro": "Taşıt yolunun her iki yöndeki taşıt trafiği için kullanıldığı karayolu.",
       "bullets": [],
@@ -23,7 +23,7 @@
     },
     {
       "title": "Tek yönlü karayolu",
-      "badge": "1",
+      "badge": "Tek yön",
       "accent": 2,
       "intro": "Taşıt yolunun yalnız bir yöndeki taşıt trafiği için kullanıldığı karayolu.",
       "bullets": [],
@@ -32,7 +32,7 @@
     },
     {
       "title": "Bölünmüş karayolu",
-      "badge": "1",
+      "badge": "Bölünmüş",
       "accent": 3,
       "intro": "Bir yöndeki trafiğe ait taşıt yolunun ayırıcı ile diğer taşıt yolundan ayrılmasıyla oluşan karayolu.",
       "bullets": [],
@@ -41,7 +41,7 @@
     },
     {
       "title": "Erişime kontrollü karayolu (otoyol / ekspres)",
-      "badge": "1",
+      "badge": "Otoyol",
       "accent": 0,
       "intro": "Transit trafiğe tahsis; belirli yer/şart dışında giriş-çıkış yasak; yaya, hayvan ve motorsuz araç yok; izinli motorlu araçlar ve özel kontrol.",
       "bullets": [],
@@ -50,7 +50,7 @@
     },
     {
       "title": "Geçiş yolu",
-      "badge": "1",
+      "badge": "Geçiş",
       "accent": 1,
       "intro": "Araçların bir mülke girip çıkması için yapılmış yolun karayolu üzerindeki kısmı.",
       "bullets": [],
@@ -59,7 +59,7 @@
     },
     {
       "title": "Bağlantı yolu",
-      "badge": "1",
+      "badge": "Bağlantı",
       "accent": 2,
       "intro": "Kavşak yakınında taşıt yollarını birbirine bağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış karayolu parçası.",
       "bullets": [],
@@ -68,7 +68,7 @@
     },
     {
       "title": "Bisiklet yolu",
-      "badge": "1",
+      "badge": "Bisiklet",
       "accent": 3,
       "intro": "Yalnız bisikletlilere ayrılmış karayolu kısmı.",
       "bullets": [],
@@ -77,7 +77,7 @@
     },
     {
       "title": "Yaya yolu (kaldırım)",
-      "badge": "1",
+      "badge": "Yaya",
       "accent": 0,
       "intro": "Taşıt yolu kenarı ile mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış kısım.",
       "bullets": [],
@@ -85,7 +85,7 @@
     },
     {
       "title": "Anayol ve tali yol",
-      "badge": "1",
+      "badge": "Ana/Tali",
       "accent": 1,
       "intro": "Anayol: Ana trafiğe açık olup onu kesen yoldaki trafiğin geçerken veya girerken ilk geçiş hakkı vermesi gerektiği işaretlerle belirlenmiş karayolu. Tali yol: Bağlandığı yoldan trafik yoğunluğu bakımından genelde daha az önemli yol.",
       "bullets": [],
@@ -94,7 +94,7 @@
     },
     {
       "title": "Karayolunun unsurları (1)",
-      "badge": "2",
+      "badge": "Unsurlar",
       "accent": 2,
       "intro": "",
       "bullets": [
@@ -109,7 +109,7 @@
     },
     {
       "title": "Demiryolu geçidi (hemzemin)",
-      "badge": "2",
+      "badge": "Hemzemin",
       "accent": 3,
       "intro": "Karayolu ile demiryolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitler.",
       "bullets": [],
@@ -118,7 +118,7 @@
     },
     {
       "title": "Ayırıcı, ada, şerit",
-      "badge": "2",
+      "badge": "Şerit",
       "accent": 0,
       "intro": "",
       "bullets": [
@@ -130,7 +130,7 @@
     },
     {
       "title": "Karayolunu kullanma kuralları",
-      "badge": "3",
+      "badge": "Kural",
       "accent": 1,
       "intro": "Türkiye’de trafik sağdan akar. Yasaklama, kısıtlama ve trafik durumuna göre tüm kurallara uyulmalıdır.",
       "bullets": [

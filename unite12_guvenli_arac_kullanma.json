@@ -5,7 +5,7 @@
   "sections": [
     {
       "title": "Trafik kurallarına ve adabına uygun araç kullanma",
-      "badge": "1",
+      "badge": "Kural",
       "accent": 0,
       "intro": "Kazaların büyük çoğunluğu insana bağlıdır; en sık ihlal edilenler genelde temel kurallardır. Bilinçli ve temkinli sürücülük, kuralların ceza korkusu değil içselleştirilmesiyle mümkündür.",
       "bullets": [
@@ -24,7 +24,7 @@
     },
     {
       "title": "Alkol, uyuşturucu ve sürüş",
-      "badge": "2a",
+      "badge": "Alkol",
       "accent": 1,
       "intro": "Kandaki alkol arttıkça görme, işitme, kas kontrolü, dikkat, tepki süresi, algılama ve karar verme zayıflar. Alkolün iki ana etkisi: uyarıcı (korku azalır, risk alma artar) ve uyuşturucu (yorgunluk, dikkat azalması). Hususi araçta 0,50 promil, ticari araçta 0,20 promil üzeri karayolunda araç kullanılamaz.",
       "bullets": [
@@ -38,7 +38,7 @@
     },
     {
       "title": "İlaçlar, yorgunluk ve ticari sürücü süreleri",
-      "badge": "2b–c",
+      "badge": "İlaç",
       "accent": 2,
       "intro": "Reçeteli/reçetesiz bazı ilaçlar uyku hali, gevşeme, dikkat dağınıklığı yapabilir; yan etkileri okuyup trafiğe ona göre çıkılmalı. Yorgun ve uykusuz sürüş kazalarda sık görülür; yorgunluk hissedilince en az yarım saat mola verilmeli.",
       "bullets": [
@@ -52,7 +52,7 @@
     },
     {
       "title": "Koruyucu teçhizat",
-      "badge": "3",
+      "badge": "Koruma",
       "accent": 3,
       "intro": "",
       "bullets": [
@@ -68,7 +68,7 @@
     },
     {
       "title": "Araç cinsi, yol, çevre, hava ve yük",
-      "badge": "4",
+      "badge": "Faktör",
       "accent": 0,
       "intro": "İnsan, araç ve çevre faktörleri sürüşte iç içedir; yol ve araç durumu sürüşü doğrudan etkiler. Trafiğe çıkmadan araç kontrolü, güzergâh ve risklere göre hazırlık yapılmalıdır.",
       "bullets": [
@@ -80,7 +80,7 @@
     },
     {
       "title": "Trafik psikolojisi",
-      "badge": "5",
+      "badge": "Psikoloji",
       "accent": 1,
       "intro": "Kazaların büyük kısmı insana bağlıdır; sürücü hatası öne çıkar. Faktörler kalıcı ve geçici olarak ayrılır. Geçici: anlık hata, algı bozukluğu — alkol, sağlık, diğer sürücüler, iklim/yol, stres. Kalıcı: kazaya yatkınlık, sürüş tarzı ve yeteneği; kaza riskinin önemli bir kısmı kalıcı kişisel faktörlere bağlıdır.",
       "bullets": [
