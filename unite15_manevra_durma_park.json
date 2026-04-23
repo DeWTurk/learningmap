@@ -71,10 +71,18 @@
       "title": "6. Araç geçme (sollama)",
       "badge": "Sollama",
       "accent": 1,
-      "intro": "Geçmek için: Arkadan biri sizi geçmeye başlamamış; öndeki geçme niyetinde uyarma vermemiş; şerit ileride görüş yeterli ve boş; geçiş geçilene yük yaratmıyor — mecburidir. Geçiş soldan; uyarma, sol sinyal, sol şeride takip mesafesinden erken girmek, aynada geçileni görene kadar geçiş şeridinde kalmak, sağ sinyal ile sağa dönüp bitirmek mecburidir. Sağdan veya banketten geçmek yasak (istisna: sola dönüş/sol bekleyen, tramvay, sol görev aracı). Tramvay solunda yeterli alan yokken sol yanından geçilemez, sola sürekli sürüş yasaklıdır.",
+      "imageLayout": "grid2",
+      "intro": "Geçmek için: Arkadan biri sizi geçmeye başlamamış; öndeki geçme niyetinde uyarma vermemiş; şerit ileride görüş yeterli ve boş; geçiş geçilene yük yaratmıyor — mecburidir. Geçiş soldan; uyarma, sol sinyal, sol şeride takip mesafesinden erken girmek, aynada geçileni görene kadar geçiş şeridinde kalmak, sağ sinyal ile sağa dönüp bitirmek mecburidir. Sağdan veya banketten geçmek yasak (istisna: sola dönüş/sol bekleyen, tramvay, sol görev aracı). Tramvay solunda yeterli alan yokken sol yanından geçilemez, sola sürekli sürüş yasaklıdır.\n\nGeçmenin yasak olduğu yerler (şema örnekleri):",
       "bullets": [],
       "subsections": [],
-      "imageUrl": "https://panel.kolayehliyet.com/storage/119/%C3%BCnite-8---ge%C3%A7me-kurallar%C4%B1.jpg"
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPvHK3BQ3kHclI1u3OyRYuJMJjY53W-A6LXVWFRc56PTTtVCa_ehfak-jNNCyfbfhk-xI0JDwphTQL9brjSjkRrWZX3QDp_TO6snoBkWzFnY5Beu79vMllf2nOG7cUjIO6fQyzMQ4HO3v0Xgza7_hH4CHp5LRbJjKLsKIvRMvgeCKYIPYItYato7SCBaQ/s1600/Ekran%20Resmi%202026-04-23%2016.52.38.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAMd8-ESUvu6yj48FmhLfLWWPj3K1gBrTFATVaMM-ZZrnxcOPkjcopIrzvsJ5AniikKOtRAHDoo9taFU41VTbqItqV3yp_3zkZGDIF418n6IO8WLRp2tL6bRhiOsRGjTeUVDuuc5p15q3XyOc0JA0mWFmh5jFjyavL7znWowtAtyJTiJVpGa3VHjBwPME/s1600/Ekran%20Resmi%202026-04-23%2016.52.15.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMIq2mPRZdm53Whr_ntO97lj9_LjRQSN9mqwafKyHX_CA2E_-DD5s8tqBpgjkr9144YVY0Ej52kS7sHkadlzFmMJjG3u47-N2eTC8Os-62pdEMKImEnEaULXcV6W7pb1uSR0ToaU0IAW5M7nvGcLgMGmgNUzAot7R5yufV9kQHFPCk4V60KQBEkfN9PDA/s1600/Ekran%20Resmi%202026-04-23%2016.52.13.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4WO16oQzNTiMiEKeqoJPVqFEuAtf6Fa6dDP-SfLGhFIcZDNFOAu0Z-ElEEBN4xnM82suq5kzgvPcdcMhvKJ_nRBvqWU2YikowxvLyVdrncaUBINonPZlLa56mCDRr5LeVYAjEh2LylO2x3i_OLTPhFnEUi1lu_Y6XJ4h9siAS2gneOAbSQxnflbQ91iU/s1600/Ekran%20Resmi%202026-04-23%2016.52.00.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7k--Q0TDztLIJ1wy8N7iNGm2hNlzVuRMcfc5xmB4s-QnAYGbL1rYm3geSvmPIJSJklsYXlZiJcursMPT8YOp2h1vLJhT2hEbmctNOVY75RSahgjbB51n7xS4zEPZd5VJ6xfQ2SgWz3cLYbDhpn6R7uNYMA88hHCvLTxjzy6kKVhXk-5CwomfMjHSFQo/s1600/Ekran%20Resmi%202026-04-23%2016.51.46.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rV7K1bVTmp69zcy0hEehAOtVgQsEEEWTkZVZsd_fbHvkvspGkEsAmyOGWj70QBLZ2DMdLPhWiyf2jtGHMWx0kXseL4IgfsYRvMUKQsUMd5sRdDfvLiLXot_hR4osGOtyr_1Zo44AO9XRlstTegugTtAOC3wliUoIPGWvDI62wOZaaoAjohMGJPkY7sI/s1600/Ekran%20Resmi%202026-04-23%2016.50.31.png"
+      ]
     },
     {
       "title": "7. Geçilen araç sürücüsü",
