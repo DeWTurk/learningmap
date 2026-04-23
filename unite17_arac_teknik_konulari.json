@@ -1,0 +1,125 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 17 · Araçlarla ilgili teknik konular — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/17-arac-isklar-ve-yuk-yolcu-tasma.html",
+  "sections": [
+    {
+      "title": "1. Araç boyutları ve gabari",
+      "badge": "Gabari",
+      "accent": 0,
+      "intro": "Karayolunda azami ölçüler: genişlik 2,55 m (frigorifik gövde 2,60 m, belediye troleybüsü 2,65 m), yükseklik 4,00 m. Uzunluk: çoğu motorlu/römork 12,00 m; iki dingilli otobüs 13,50 m; çok dingilli otobüs 15,00 m; yarı römorklu 16,50 m; mafsallı/römorklu otobüs ve römorklu kamyon 18,75 m; iki römorklu katar 22,00 m. Gabari, yüklü/yüksüz güvenli seyir için uzunluk-genişlik-yükseklik ölçüleridir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "2. Yük ve yolcu taşıma — temel kurallar",
+      "badge": "SRC",
+      "accent": 1,
+      "intro": "SRC, ticari yük/yolcu taşımacılığı yapan sürücüler için mesleki yeterlilik belgesidir. Türler: SRC1 uluslararası yolcu, SRC2 yurtiçi yolcu, SRC3 uluslararası eşya-kargo, SRC4 yurtiçi eşya-kargo, SRC5 tehlikeli madde. Not: SRC1 alan SRC2; SRC3 alan SRC4'ü almış sayılır.",
+      "bullets": [
+        "Taşıma, yönetmelik ölçü-boyutlarına uygun araçla yapılır",
+        "Çamurluk, basamak, karoser kenarı, sürücü mahalli üstü, merdiven gibi dış kısımlarda insan taşınmaz",
+        "Kamyon, kamyonet, römork, yarı römorkta yük üzerinde insan taşımak yasaktır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kamyon/kamyonet/römork ile yolcu taşıma istisnaları",
+      "badge": "İstisna",
+      "accent": 2,
+      "intro": "Gerekli hallerde, ilgili yönetmelik şartları sağlanırsa sınırlı taşıma yapılabilir.",
+      "bullets": [
+        "Uygun oturma yerleri, düşmeyi önleyen kapalı kasa kenarları ve örtü ile: taşıma sınırının her tonu için 2 yolcu",
+        "Kısa mesafe işçi taşımada: kasa yan/arka kapak 90 cm kapalı + zeminden en az 120 cm sağlam tutamak; her ton için ayakta 2 işçi",
+        "Yükle birlikte taşımada: yük sağlam bağlanır, kapaklar kapalı olur, yolcu kasada ayrılan bölümde oturur, yük üstüne yolcu bindirilmez"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Tehlikeli madde taşıma esasları",
+      "badge": "ADR",
+      "accent": 3,
+      "intro": "Tehlikeli madde, niteliğine uygun ambalajla taşınır; ambalajın bozulmaması için düşme/yuvarlanma/sarsılma/sürüklenmeye karşı tedbir alınır. Tehlike yaratacak şekilde ambalajı bozulan yüklenmez; taşıma sırasında bozulursa ayıklama ve tedbir olmadan devam edilmez.",
+      "bullets": [
+        "Yükleme-boşaltmada 30 m içinde sigara, açık alev, kıvılcım kaynağı yasak; araç içine 6 volt üstü aydınlatma cihazı ile girilmez",
+        "Elektrik donanımı kısa devre/kıvılcım üretmeyecek şekilde izole edilir",
+        "Ön-arka: kırmızı zemin üzerinde beyaz 'TEHLİKELİ MADDE' yazısı + en az 30x30 kırmızı bez",
+        "Akaryakıt tankerinde taşınan maddenin adı sarnıç üzerinde yazılır",
+        "Sürücü erişiminde 2 yangın söndürme cihazı bulundurulur",
+        "Başka yük alınmaz, mal sahibi/hizmetli dışı yolcu alınmaz; park-durakta gözetimsiz bırakılmaz",
+        "Yerleşim dışı takipte diğer araçlara en az 50 m, duraklamada aralarında 20 m mesafe"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "3-4. Yük taşıma üniteleri ve römorklu araç kullanımı",
+      "badge": "Römork",
+      "accent": 0,
+      "intro": "Taşıma kapasitesi için port bagaj, römork, yarı römork, bisiklet taşıyıcı takılabilir. B, C, C1, D, D1 sürücüler; azami yüklü ağırlığı 750 kg'a kadar hafif römork (dahil) takabilir.",
+      "bullets": [
+        "Römorkla fren mesafesi uzar; takip mesafesi artırılır",
+        "Toplam boy uzadığı için dönüşte geniş açı ve düşük hız gerekir",
+        "Engebede/rüzgarda kontrol etkisi artar; hız yol-trafiğe göre ayarlanır",
+        "Römork yalpalarsa ani fren yapılmaz; hız kademeli düşürülür"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "5. Arızalanan araçta alınacak önlemler",
+      "badge": "Arıza",
+      "accent": 1,
+      "intro": "Yerleşim dışı mecburi halde taşıt yolu üzerinde kalınırsa araç mümkünse yol dışına, olmazsa bankete, o da değilse yolun en sağına alınır; yol/hava/trafik ve gece-gündüze göre uyarı tedbirleri derhal uygulanır.",
+      "bullets": [
+        "Park/kuyruk ışığı yoksa veya 150 m'den görünmüyorsa: ön-arka uygun yere 150 m'den görülecek kırmızı yansıtıcı/ışık",
+        "Dönemeç-tepe üstünde: kırmızı cihazlar ön-arka en az 30'ar m mesafede, 150 m görünür olacak şekilde",
+        "Otobüs/kamyon/çekici uzun süre bırakılırsa: en az 150 m'den görülebilir ECE70 uygun 150x25 cm engel işareti",
+        "Tehlikeli madde taşıyan arızalı araçta her durumda kırmızı ışık cihazı ve sürekli gözetim",
+        "Tedbirler tamamlanana kadar dörtlü ikaz (veya birlikte yakılan dönüş lambaları) kullanılır"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/121/%C3%BCnite-14---ar%C4%B1zal%C4%B1-ara%C3%A7-i%C5%9Faretleme.png"
+    },
+    {
+      "title": "6. Arızalı araç çekme kuralları",
+      "badge": "Çekme",
+      "accent": 2,
+      "intro": "Esas olarak çekme işlemi kurtarıcı (özel amaçlı taşıt) ile yapılır. Arızalı araç, en yakın onarım yerine kadar sınırlı koşullarda başka araçla çekilebilir.",
+      "bullets": [
+        "Çekilen aracın ağırlığı çekenin taşıma sınırını aşmaz, sürücü yönetiminde olur",
+        "Işık bozuksa arka: gündüz kırmızı yansıtıcı/20x20 kırmızı bez, gece kırmızı ışık/yanstıcı",
+        "Her iki araç boş olur; gerekli ise sürücü dışında birer hizmetli dışında yolcu olmaz",
+        "Bağlantı çelik çubuk/halat/zincirle kopmayacak şekilde yapılır",
+        "İki araç arası açıklık en fazla 5 m; 2,5 m üzerindeyse ortada kırmızı uyarı",
+        "Çekilen aracın freni bozuksa açıklık en fazla 1 m, çeki demiri şart; hız bu halde 15 km/s, diğer halde 20 km/s üstü olmaz",
+        "Kendi hareket gücü olmayan römork/benzeri ve çekiciyle çekilemeyen yarı römork yalnız kurtarıcı ile çekilir"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://panel.kolayehliyet.com/storage/122/%C3%BCnite-14---%C3%A7ekici.jpg",
+        "https://panel.kolayehliyet.com/storage/123/%C3%BCnite-14---ara%C3%A7-%C3%A7ekme.png"
+      ]
+    },
+    {
+      "title": "7. Araç ışıkları ve sesli uyarı",
+      "badge": "Far",
+      "accent": 3,
+      "intro": "Trafiğe çıkan araçlarda yönetmeliğe uygun ışık donanımı bulunur; gece ve sis, kar, şiddetli yağmur, yetersiz aydınlatılmış tünel gibi görüşün düşük olduğu hallerde kullanılır.",
+      "bullets": [
+        "Uzun far: yerleşim dışı gece ve yetersiz aydınlatılmış tünelde mecburi; karşıdakini kamaştıracak durumda yasak",
+        "Kısa far: karşılaşma, yeterli aydınlatma, öndekini yakından izleme, geçişte yan yana gelene kadar, gündüz görüş azaltan hava",
+        "Seyirde kuyruk ışıkları kısa/uzun far veya sisle birlikte kullanılır",
+        "Dönüş ışığını 'geç' anlamında kullanmak yasak",
+        "Sadece park veya sis ışığıyla seyir yasak",
+        "Karşılaşmada far söndürmek yasak",
+        "Sis farını sis/kar/şiddetli yağmur dışı ve gece kısa-uzunla birlikte kullanmak yasak",
+        "Yönetmeliğe aykırı ışık takma/kullanma ve amacı dışında gereksiz kullanım yasak",
+        "Selektör: kısa süreli far uyarısı; gece görünmeyen kavşak/dönemeç/tepeye yaklaşırken gelişi bildirmek için kullanılır"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://panel.kolayehliyet.com/storage/124/%C3%BCnite-14---uzun-far.png",
+        "https://panel.kolayehliyet.com/storage/125/%C3%BCnite-14---k%C4%B1sa-far.png"
+      ]
+    }
+  ]
+}
