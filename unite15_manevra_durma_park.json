@@ -1,0 +1,147 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 15 · Manevra, durma, duraklama ve park etme — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/15-manevra-durma-duraklama-ve-park-etme.html",
+  "sections": [
+    {
+      "title": "1. Manevra: tanım ve genel kurallar",
+      "badge": "Tanım",
+      "accent": 0,
+      "intro": "Karayolunda doğrultu değiştirme hareketleri manevradır; kurallara uymayan sürücü asli kusurlu sayılabilir. Park arasından çıkma, yanaşma, şerit değiştirme, dönüş, geri gitme gibi tüm hallerde tehlike/engel yaratmamak ve aşağıdaki esaslara uymak mecburidir. Dönüş ve şerit değişiminde niyet, uygun mesafede sinyal veya kol ile açıkça verilir; sinyal manevra boyunca, bitince hemen kapatılır. Sinyal anında aniden şerit değiştirmek yasaktır. İşaretten önce aynalar ve gerekirse baş çevirerek çevre kontrol edilir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "2. Sağa dönüş",
+      "badge": "Sağ",
+      "accent": 1,
+      "intro": "Aksine işaret yoksa sağa dönüşe ilişkin mecburiyetler:",
+      "bullets": [
+        "Dönüş işareti vermek",
+        "Sağ şeride veya dönüşe izin verilen şeride girmek",
+        "Hızı azaltmak",
+        "Dar kavisle dönmek",
+        "Yayalara ve bisiklet yolundakilere geçiş hakkı vermek (varsa, kurallara uygun)"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/116/%C3%BCnite-8---sagadonus.jpg"
+    },
+    {
+      "title": "3. Sola dönüş",
+      "badge": "Sol",
+      "accent": 2,
+      "intro": "Aksine işaret yoksa sola dönüşte yapılacaklar:",
+      "bullets": [
+        "Dönüş işareti vermek",
+        "Çok şeritte en sol şeride; iki şeritli iki yönlü yolda sağ şeridin soluna yanaşmak",
+        "Hızı azaltmak",
+        "Kavşakta yayalara (varsa) yol vermek",
+        "Dönüşe başlamadan sağdan gelene ilk geçiş hakkı",
+        "Arkadan sola dönenleri kesmemek için gerekirse geniş kavisle dönmek",
+        "Karşıdan yakın ve güvenle duramayan araç geçmeden dönmemek",
+        "Çıkış şerit seçimi ve dönüş sonrası en kısa sürede güvenli şeride girmek"
+      ],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/117/%C3%BCnite-8---soladonus.jpg"
+    },
+    {
+      "title": "4. Dönel kavşak",
+      "badge": "Dönel",
+      "accent": 3,
+      "intro": "Sola/geriye dönüşte orta adaya bitişik şeritten girmek; geri dönüşte yine bu şeritte dönüşe geçmek; ada etrafında şerit korumak (çıkışta uygun olmayan yola sapmıyorsanız) mecburidir.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/118/%C3%BCnite-8---d%C3%B6nel-kav%C5%9Faklar.jpg"
+    },
+    {
+      "title": "5. Geri gitme ve U dönüşü",
+      "badge": "Geri",
+      "accent": 0,
+      "intro": "Uygun yollarda geri dönüş (U dönüşü), diğer araçların gelişlerini engellemeden ve tehlike yaratmadan, en az manevra ile yapılır. Kamyon, otobüs, çekici, römork veya yarı römorkta geri manevrada görüş yeterli değilse gözcü bulundurmak mecburidir. Aşağıdaki hallerde geri gitme / geriye dönüş yasaktır:",
+      "bullets": [
+        "Bağlantı yollarında geri gitmek",
+        "Tek yönlü yolda duraklama veya park manevrası dışında geri gitmek",
+        "İki aracın geçemeyeceği kadar dar iki yönlü kesitte, karşılaşma/geçiş kolaylığı dışında geri gitmek",
+        "Geniş yolda geri giderken manevra dışında şerit değiştirmek",
+        "Trafiğin yoğun olduğu yollarda geriye dönmek"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "6. Araç geçme (sollama)",
+      "badge": "Sollama",
+      "accent": 1,
+      "intro": "Geçmek için: Arkadan biri sizi geçmeye başlamamış; öndeki geçme niyetinde uyarma vermemiş; şerit ileride görüş yeterli ve boş; geçiş geçilene yük yaratmıyor — mecburidir. Geçiş soldan; uyarma, sol sinyal, sol şeride takip mesafesinden erken girmek, aynada geçileni görene kadar geçiş şeridinde kalmak, sağ sinyal ile sağa dönüp bitirmek mecburidir. Sağdan veya banketten geçmek yasak (istisna: sola dönüş/sol bekleyen, tramvay, sol görev aracı). Tramvay solunda yeterli alan yokken sol yanından geçilemez, sola sürekli sürüş yasaklıdır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/119/%C3%BCnite-8---ge%C3%A7me-kurallar%C4%B1.jpg"
+    },
+    {
+      "title": "7. Geçilen araç sürücüsü",
+      "badge": "Yol ver",
+      "accent": 2,
+      "intro": "Geçiş işareti alınca sağa yaslanmak, çok/bölünmüş yolda şeridi korumak, hız artırmamak; dar/yoğun yolda yavaşlayıp gerekirse sağa alıp yavaşlamak veya durmak; geçiş üstünlüklü araca yer açmak mecburidir. Geçmeye yol vermemek, geçilirken aynı anda geçmek veya sola dönmek yasaktır.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "8. Durma, duraklama, park (tanımlar)",
+      "badge": "Ayrım",
+      "accent": 3,
+      "intro": "Durma: Işık, yetkili emri, yol kapanması vb. trafik zorunluluğuyla aracı durdurmak. Duraklama: Zorunluluk dışı kısa süre; in-bindir, yükleme-boşaltma, bekleme. Park: Durma ve duraklama dışında aracı bırakma.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "9. Duraklama: tedbirler ve yasaklar",
+      "badge": "Duraklama",
+      "accent": 0,
+      "intro": "Duraklamada: uygun en az engel, banket, motor/vites/el fren, gerekirse ışık ve takoz gibi önlemler mecburidir (özet).",
+      "bullets": [
+        "Trafik işaretiyle duraklama yasağı varsa",
+        "Sol şeritte (ray hariç)",
+        "Yaya, okul ve diğer geçitlerde",
+        "Kavşak, tünel, köprü, bağlantı ve 5 m (yerleşim içi) / 100 m (dışı) mesafede",
+        "Tepe/dönemec görüşsüz bölge",
+        "Otobüs/tramvay/taksi durağı (izinli taşıt dışındakiler)",
+        "Duran aracın yol tarafı yanında",
+        "Levhaya 15 m (iç) / 100 m (dış) yakınlık (izin dışı)",
+        "Yerleşim dışı taşıt yolunda, zorunluluk olmadan duraklama yasak"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "10. Park: tedbir, yasak yer ve haller",
+      "badge": "Park",
+      "accent": 1,
+      "intro": "Park: el freni, motor kapalı, eğimde vites, teker açısı, ağır vasıta/romörkta takoz, terkte cam/kilit. Park yasak: duraklama yasağı aynen; park levhası yasak; geçiş yolu; yangın musluğu 5 m; durağa 15 m; orta yol/çok şeritte en sağ dışı dışı şerit; çıkış engeli; geçiş üstünlüğü 15 m; tesis kapı 5 m; geçit/köprü 10 m; ayrılmış/ücret/engelli/yaya yolları; yerleşim dışı taşıt yolunda mecburi dışı vb. (ayrıntı için kaynak mevzuat). Ücretli/süre/şekil dışı park da yasaktır.",
+      "bullets": [
+        "Yerleşim dışı arıza/mecburi haller: araçı mümkünse yol dışı, banket veya en sağa; görünürlük + uyarı",
+        "İn-bindir: mümkünse en sağ kenar, sağdan; sol kapıdan in-bindir yasak; kapı/ hareket kuralları",
+        "Kaldırma: zabıta/kurum usulleri, masraf, sorumluluk (özet metinle)"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "11. Park ve yasaklara ilişkin cezalar (özet)",
+      "badge": "Ceza",
+      "accent": 2,
+      "intro": "Aşağıdaki maddeler özet; güncel tutar ve ayrıntı için mevzuat ve sürüm notlarınızı dikkate alın.",
+      "bullets": [
+        "M.59: Yerleşim dışı taşıt yolunda zorunluluk dışı/önlemsiz duraklama-park: para cezası, 20 puan",
+        "M.60/1 a–h: Duraklama yasakları: çoğunlukla 10 puan + para cezası (işaret, sol şerit, geçit, kavşak-5/100 m, tepe, durak, komşu, levha mesafesi vb.)",
+        "M.61/1: Park yasakları: çoğunluk 10 puan, çekim ve masraf; bazı maddeler 15 puan; engelli alanı, köprü-altı-üst-10 m vb. örnekler",
+        "M.62: Yerleşim içi ağır vasıta/iş makinesi parkı (istisnalar dışı): 15 puan + para cezası"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "12. Özel manevra ve bisiklet",
+      "badge": "2 teker",
+      "accent": 3,
+      "intro": "Büyük araçlarda sınırlı görüşlü geri manevra için gözcü (yukarıda 5. bölümle uyumlu). Bisiklet, motorlu bisiklet ve motosiklet: yaya yolunda, bisiklet yolu varken taşıt yolunda, şerit içinde çoklu yan yana, emniyetsiz yolcu, tehlikeli taşıma, akrobat, çeki/asılı sürüş, kuraldışı yük, ticarî amaçlı kasa (istisnalar hariç) yasaktır. Özel üç teker: yalnız yük, yolcu ve ön kasa yasağı. İki/iki el sürüş zorunlulukları sınıfa göre devam eder.",
+      "bullets": [],
+      "subsections": []
+    }
+  ]
+}
