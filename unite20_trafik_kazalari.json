@@ -1,0 +1,187 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 20 · Trafik kazaları ve sürücülerin yükümlülükleri — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/20-trafik-kazalar-ve-trafik-kazalarnda.html",
+  "sections": [
+    {
+      "title": "1. Trafik kazası tanımı",
+      "badge": "Tanım",
+      "accent": 0,
+      "intro": "Trafik kazası; bir karayolu taşıtının diğer bir taşıta, yayaya, hayvana, ağaca veya herhangi başka bir nesneye çarpmasıdır.",
+      "bullets": [
+        "Dünyada her yıl ortalama 1,3 milyon insan trafik kazalarında hayatını kaybediyor",
+        "Kazaların çok büyük bölümüne sürücü hatası sebep oluyor",
+        "Trafik eğitimleri ve kurallar kazaları önlemede kritik rol oynar",
+        "Otomotiv üreticileri güvenlik teknolojilerini geliştirmeye devam ediyor"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2. Kazaya karışanların sorumlulukları",
+      "badge": "Sorumluluk",
+      "accent": 1,
+      "intro": "Trafik kazasına karışanlardan yaralanmamış veya hafif yaralı olanların yükümlülükleri:",
+      "bullets": [
+        "Trafik için ek tehlike yaratmayacak şekilde hemen durmak",
+        "Işıklı işaret veya yansıtıcı cihazları koymak, gerekli tedbirleri almak",
+        "Kaza yerindeki durumu değiştirmemek (iz ve deliller dahil)",
+        "İstendiğinde kimlik, adres ve belgeleri göstermek",
+        "Yaralılara ilk yardım yaptırmak için gerekirse kaza yerinden ayrılabilir",
+        "Olayı yetkililere bildirmek, izin alınmadan kaza yerinden ayrılmamak"
+      ],
+      "subsections": [
+        {
+          "title": "Başında sahibi olmayan mal/mülke zarar verme",
+          "bullets": [
+            "Aracın, malın veya mülkün ilgilisini bulmak",
+            "Bulunamazsa görünür yere yazılı bilgi bırakmak",
+            "En kısa sürede yetkililere haber vermek"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Sadece maddi hasarlı kazalarda özel durumlar",
+      "badge": "Maddi hasar",
+      "accent": 2,
+      "intro": "Sadece maddi hasarla sonuçlanan kazalarda uygulanacak özel prosedürler:",
+      "bullets": [
+        "Taraflar anlaşırsa 'Maddi Hasarlı Trafik Kazası Tespit Tutanağı' düzenleyip ayrılabilir",
+        "Trafik akışını engellemek için olay yeri fotoğraflanıp araçlar taşıt yolu dışına çıkarılır",
+        "Anlaşmayla ayrılanlar, zararın sigorta veya kendilerince karşılanacağını kabul etmiş sayılır",
+        "Sonradan yetkili tutanak düzenlenmesini isteyemezler"
+      ],
+      "subsections": [
+        {
+          "title": "Yetkililerce tutanak düzenlenmesi gereken durumlar",
+          "bullets": [
+            "Tek taraflı maddi hasarlı kaza",
+            "Sürücü belgesinin olmaması veya yetersiz olması",
+            "Zorunlu mali sorumluluk sigortasının olmaması",
+            "Alkol, uyuşturucu veya uyarıcı madde şüphesi",
+            "Kamu kurum/kuruluşu aracının karışması (ambulans hariç)",
+            "Kamu malına veya üçüncü kişilere ait eşyaya zarar verilmesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Trafik kazalarında genel yükümlülükler",
+      "badge": "Yükümlülük",
+      "accent": 3,
+      "intro": "Karayollarında meydana gelen trafik kazalarıyla ilgili farklı tarafların yükümlülükleri:",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Kazaya karışan veya olay yerinden geçenler",
+          "bullets": [
+            "Kaza yerinde usulüne uygun ilk yardım tedbirlerini almak",
+            "Olayı en yakın zabıta veya sağlık kuruluşuna bildirmek",
+            "Yetkililerin isteği halinde yaralıları en yakın sağlık kuruluşuna götürmek"
+          ]
+        },
+        {
+          "title": "Yerleşim birimleri dışındaki akaryakıt istasyonları",
+          "bullets": [
+            "Yönetmelikteki standartlara uygun sağlık malzemesi bulundurmak",
+            "Malzemelerin her an kullanılabilir durumda olmasını sağlamak"
+          ]
+        },
+        {
+          "title": "Araç bakım, onarım, servis, garaj ve otopark sorumlular",
+          "bullets": [
+            "Kaza geçirdiği belli olan veya suç belirtisi bulunan araçları zabıtaya bildirmek",
+            "Bu araçları deftere işlemek"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Asli (esas) kusur sayılan haller",
+      "badge": "Kusur",
+      "accent": 0,
+      "intro": "Aşağıdaki hal ve hareketlerde bulunan sürücüler asli kusurlu sayılır:",
+      "bullets": [
+        "Kırmızı ışıkta veya yetkili memurun dur işaretinde geçme",
+        "Taşıt giremez işareti bulunan yola veya karşı yön şeridine girme",
+        "İkiden fazla şeritli yollarda karşı yön şeridine girme",
+        "Arkadan çarpma",
+        "Geçme yasağı olan yerlerden geçme",
+        "Doğrultu değiştirme manevralarını yanlış yapma",
+        "Şeride tecavüz etme",
+        "Kavşaklarda geçiş önceliğine uymama",
+        "Kaplamanın dar olduğu yerlerde geçiş önceliğine uymama",
+        "Manevra genel şartlarına uymama",
+        "Yerleşim birimleri dışında taşıt yolunda zorunlu olmadan park/duraklama",
+        "Kurallara uygun park edilmiş araçlara çarpma"
+      ],
+      "subsections": [
+        {
+          "title": "Asli kusurlu sayılmama durumu",
+          "bullets": [
+            "Başkasının kural dışı hareketi veya teknik arıza sürücüyü tehlikeye düşürmüşse",
+            "Kazayı önlemek, can/mal güvenliğini korumak için kural ihlali mecburi kalmışsa",
+            "Bütün tedbirlere rağmen kaza meydana gelmişse asli kusurlu sayılmaz"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Trafik kazalarına ilişkin genel istatistikler",
+      "badge": "İstatistik",
+      "accent": 1,
+      "intro": "2021 yılı Türkiye trafik kazaları istatistikleri (TÜİK):",
+      "bullets": [
+        "Toplam 1.186.353 trafik kazası meydana geldi",
+        "998.390 adedi maddi hasarlı, 187.963 adedi ölümlü/yaralanmalı",
+        "Ölümlü/yaralanmalı kazaların %78,6'sı yerleşim yeri içinde",
+        "Ölenlerin %47,6'sı sürücü, %30,3'ü yolcu, %22,1'i yaya",
+        "Ölenlerin %77,2'si erkek, %22,8'i kadın",
+        "Yaralananların %70,5'i erkek, %29,5'i kadın"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "7. Trafik kazası tespit tutanağı düzenleme",
+      "badge": "Tutanak",
+      "accent": 2,
+      "imageLayout": "single",
+      "intro": "Maddi hasarlı trafik kazası tespit tutanağı doldurma adımları:",
+      "bullets": [
+        "1. Alan: Kazanın tarihi ve saati",
+        "2. Alan: Kazanın yeri (il, ilçe, semt, mahalle, cadde, sokak)",
+        "3. Alan: Görgü tanıklarının adı, adresi ve telefonu",
+        "4. Alan: Sürücülerin genel bilgileri (TC No, ad soyad, telefon, adres, ehliyet bilgileri)",
+        "5. Alan: Araç bilgileri (marka, model, şasi no, plaka, kullanım şekli)",
+        "6. Alan: Zorunlu trafik sigortası poliçe bilgileri",
+        "7. Alan: Kusur tespiti, hız durumu ve fren izi uzunluğu",
+        "8. Alan: Yurt dışından gelenlerin bilgileri (ülke, pasaport, yeşil kart)",
+        "9. Alan: Her iki aracın ilk darbeyi aldığı yer (ok ile)",
+        "10. Alan: Çarpışma yeri, şekli ve detayların krokisi",
+        "11. Alan: Sürücülerin kazanın oluşu ile ilgili beyanları",
+        "12. Alan: Sürücülerin imzaları"
+      ],
+      "subsections": [
+        {
+          "title": "Tutanakla birlikte teslim edilecek belgeler",
+          "bullets": [
+            "Ehliyet fotokopisi",
+            "Ruhsat fotokopisi",
+            "Zorunlu trafik sigortası poliçe fotokopisi",
+            "Kaza yerinden çekilmiş fotoğraflar",
+            "Kasko poliçe fotokopisi (varsa)"
+          ]
+        },
+        {
+          "title": "Mobil Kaza Tutanağı uygulaması",
+          "bullets": [
+            "Sigorta Bilgi ve Gözetim Merkezi'nin resmi uygulaması",
+            "Online olarak tutanak düzenlenebilir",
+            "Telefonlara indirilebilir"
+          ]
+        }
+      ],
+      "imageUrl": "https://panel.kolayehliyet.com/storage/120/%C3%BCnite-12---kaza-tespit-tutana%C4%9F%C4%B1.png"
+    }
+  ]
+}
