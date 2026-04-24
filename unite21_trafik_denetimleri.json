@@ -1,0 +1,148 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 21 · Trafik ve yol denetimleri, kural ihlalleri ve idari yaptırımlar — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/21-trafik-kural-ihlalleri-ve-idari.html",
+  "sections": [
+    {
+      "title": "1. Denetime yetkili kişi, kurum ve kuruluşlar",
+      "badge": "Yetkili",
+      "accent": 0,
+      "intro": "Trafik polisinin görev ve yetkileri üç başlık altında toplanır:",
+      "bullets": [
+        "Trafiği düzenlemek",
+        "Trafiği denetlemek",
+        "Trafik kazalarındaki iş ve işlemleri yürütmek"
+      ],
+      "subsections": [
+        {
+          "title": "Trafik polisinin görev ve yetkileri",
+          "bullets": [
+            "Sürücü ve araç belgelerinin geçerliliğini, sahteliğini kontrol etmek",
+            "Araçların muayenelerinin yapılıp yapılmadığını kontrol etmek",
+            "Trafik güvenliği ve araç tekniği yönünden uygunluğu denetlemek",
+            "Noksanlıkların giderilmesi için yasal işlem yapmak",
+            "Kaza sonrası iz ve delilleri kaybolmayacak şekilde işaretlemek",
+            "Trafik güvenliği için gerekli önlemleri almak",
+            "Kaza sonrası yolu trafiğe açmak"
+          ]
+        },
+        {
+          "title": "Diğer yetkili birimler",
+          "bullets": [
+            "Trafik polisi/zabıtası yoksa veya yetersizse: Polis görevlidir",
+            "Polis ve trafik teşkilatı görev alanı dışında: Jandarma görevlidir",
+            "Jandarma: Trafik eğitimi almış subay, astsubay ve uzman jandarmalar",
+            "Fahri trafik müfettişliği: Valilerce görevlendirilen kişiler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Sürücü ve yol denetimi görevlilerinin davranışları",
+      "badge": "Denetim",
+      "accent": 1,
+      "intro": "Trafik denetiminde sürücülerin uyması gereken kurallar:",
+      "bullets": [
+        "Trafik görevli ve yetkililerinin işaretlerine uymak zorunludur",
+        "İstenilmesi halinde kimlik belgesi gösterilmelidir",
+        "İstenilmesi halinde sürücü belgesi gösterilmelidir",
+        "İstenilmesi halinde araç ruhsatı gösterilmelidir",
+        "Diğer tüm belgeler istendiğinde gösterilmelidir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "3. En sık ihlal edilen trafik kuralları",
+      "badge": "İhlaller",
+      "accent": 2,
+      "intro": "Trafikte en sık karşılaşılan kural ihlalleri:",
+      "bullets": [
+        "Emniyet kemeri takmamak",
+        "Alkollü olarak araç kullanmak",
+        "Yaya geçitlerinde yayaların geçiş önceliği hakkını gasp etmek",
+        "Kırmızı ışıkta geçmek veya trafik işaretlerine uymamak",
+        "Aşırı hız yapmak ve hız limitlerine uymamak",
+        "Hatalı sollama",
+        "Sinyal vermeden dönüş veya şerit değiştirme",
+        "Seyir esnasında cep telefonu ile konuşmak",
+        "Geçiş önceliği kurallarına uymamak",
+        "Öndeki aracı yakın takip, takip mesafesine uymamak"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "4. Tedbirsiz ve saygısız araç sürmek",
+      "badge": "Saygısızlık",
+      "accent": 3,
+      "intro": "Karayollarında kamunun rahat ve huzurunu bozacak veya kişilere zarar verecek şekilde yapılan davranışlar:",
+      "bullets": [
+        "Su, çamur ve benzerlerini sıçratmak",
+        "Kişileri korkutmak veya şaşırtmak",
+        "Özel amaçlarla keyfi ya da kasıtlı davranışlarda bulunmak",
+        "Yaya veya araç trafiğinin seyir emniyetini ihlal etmek",
+        "Araçlardan bir şey atmak veya dökmek",
+        "Seyir halinde cep telefonu veya benzer cihazları ele alarak kullanmak"
+      ],
+      "subsections": [
+        {
+          "title": "Yaptırım",
+          "bullets": [
+            "Para cezası uygulanır",
+            "Sürücü ceza puanı verilir"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. İdari yaptırımlar",
+      "badge": "Yaptırım",
+      "accent": 0,
+      "intro": "Kamu gücünü kullanmak suretiyle gerçek ve tüzel kişilere uygulanan zor kullanma yetkisi. Kamu düzenini korumak amaçlı farklı unsurlar altında ele alınır.",
+      "bullets": [
+        "Para cezası",
+        "Sürücü ceza puanı",
+        "Sürücü belgesi iptali",
+        "Hapis cezası istemi"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "6. Ceza puanı uygulaması",
+      "badge": "Puan",
+      "accent": 1,
+      "intro": "Karayolları Trafik Kanunu'nun suç saydığı fiillerden dolayı sürücülere verilen ceza puanları ve sonuçları:",
+      "bullets": [
+        "Her ceza için yönetmelikte belirlenen ceza puanları verilir",
+        "Bir yıl içinde toplam 100 puan: Belge 2 ay geri alınır, eğitime tabi tutulur",
+        "Aynı yıl içinde ikinci 100 puan: Belge 4 ay geri alınır, psiko-teknik değerlendirme yapılır",
+        "Bir yıl içinde üçüncü 100 puan: Sürücü belgesi süresiz iptal edilir",
+        "Ölümlü kazaya asli kusurlu sebep olma: Belge 1 yıl geri alınır"
+      ],
+      "subsections": [
+        {
+          "title": "Belge geri alma süreci",
+          "bullets": [
+            "Alıkoyma süresi bitiminde dilekçe ile başvurulur",
+            "Sürücü belgesine el koyan trafik birimine başvurulabilir",
+            "En yakın Trafik Denetleme Şube Müdürlüğü'ne başvurulabilir"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. Para cezalarının ödenmesi ve itiraz",
+      "badge": "Ödeme",
+      "accent": 2,
+      "intro": "Trafik para cezalarının ödeme koşulları ve itiraz süreci:",
+      "bullets": [
+        "Tebliğ tarihinden itibaren 1 ay içinde peşin ödeme: %25 indirim",
+        "Bir ay içinde ödenmezse: Her ay için %5 faiz uygulanır",
+        "Vergi dairelerine ödenebilir",
+        "Bakanlığın yetkili kıldığı bankalara ödenebilir",
+        "İtiraz süresi: 15 gün",
+        "İtiraz mercii: Sulh ceza hakimlikleri"
+      ],
+      "subsections": []
+    }
+  ]
+}
