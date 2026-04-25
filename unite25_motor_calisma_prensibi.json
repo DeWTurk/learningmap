@@ -1,0 +1,192 @@
+{
+  "sheetTitle": "Bölüm 25",
+  "sheetSubtitle": "Motor ve Çalışma Prensibi",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/25-motor-ve-calsma-prensibi.html",
+  "sections": [
+    {
+      "title": "Motor Nedir",
+      "badge": "Temel Bilgi",
+      "accent": "#3B82F6",
+      "intro": "Yakıttan elde ettiği ısı enerjisini mekanik enerjiye çeviren makinelere motor denir.",
+      "bullets": [
+        "Motor araçlarda gücün kaynağıdır",
+        "Motor ısı enerjisini mekanik enerjiye çevirir"
+      ],
+      "subsections": [
+        {
+          "heading": "Motor Bölümleri",
+          "points": [
+            "**Külbitör (subap) Kapağı:** Silindir kapağının üzerinde bulunan ve subap mekanizmasını koruyan kapaktır. Motor yağı, külbitör kapağının üzerindeki kapaktan konulur",
+            "**Silindir Kapağı:** Silindir bloğunun üzerini örterek yanma odalarını oluşturur",
+            "**Silindir (motor) Bloğu:** Motorun sabit hareketsiz en büyük parçasıdır. Silindirlere yataklık yapar, içerisinde silindirler vardır. Silindir içerisinde piston bulunur. Pistonlar doğrusal hareket üretirler",
+            "**Karter:** Motor yağına depoluk yapar. İçerisinde yağ pompası bulunur"
+          ]
+        }
+      ],
+      "imageUrls": [
+        "https://panel.srcakademi.com/storage/2837/image152.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqy3x3uhAGXeMFvPsNKHF1M82AUC8ayaCatIKfu-mMDt1KRIRLvXFU5M5yivZVldctRzsGE231O_aTm79XWKUwJq8hcE8R50GcKx1l56fiqIiIf5WmIOY7yXu-viEXAWjAjlblnPlccGOYz6Ie6magxwoYKKbQDhXCNwqJgYYKPCk9mSw7rcf79UD1tZQ9/s16000/Ekran%20Resmi%202026-04-25%2021.53.36.jpg"
+      ]
+    },
+    {
+      "title": "Motorların Sınıflandırılması",
+      "badge": "Sınıflandırma",
+      "accent": "#8B5CF6",
+      "intro": "Motorlar farklı özelliklere göre sınıflandırılır.",
+      "bullets": [],
+      "subsections": [
+        {
+          "heading": "1. Yakıtın Yanma Yerine Göre",
+          "points": [
+            "**Dıştan yanmalı motorlar:** Buhar Türbinleri",
+            "**İçten yanmalı motorlar:** Araç Motorları"
+          ]
+        },
+        {
+          "heading": "2. Soğutma Sistemlerine Göre",
+          "points": [
+            "Hava soğutmalı motorlar",
+            "Su soğutmalı motorlar"
+          ]
+        },
+        {
+          "heading": "3. Yakıtlarına Göre",
+          "points": [
+            "**Benzinli Motor:** Yakıtı Benzindir. Bu araçlara yakıt ekonomisi sağlamak amacıyla gaz sistemi (LPG) takılmaktadır",
+            "**Dizel Motor:** Yakıtı Motorindir. Halk arasında Mazot'da denilmektedir. Dizel motor, benzinli motorlara göre daha ekonomik ve tasarrufludur"
+          ]
+        },
+        {
+          "heading": "LPG Sisteminin Dezavantajları",
+          "points": [
+            "Motor gücü ve çekişi düşer",
+            "LPG'li araç, kapalı otoparklara alınmaz, açık alanlara park edilmesi gerekir",
+            "Bağaj kullanım alanı azalır, çarpışma anında patlama riski vardır"
+          ]
+        },
+        {
+          "heading": "4. Zamanlarına Göre",
+          "points": [
+            "**2 zamanlı:** Motosiklet motorlarında kullanılır",
+            "**4 zamanlı:** Araç motorlarında kullanılır"
+          ]
+        },
+        {
+          "heading": "5. Yapım Özelliklerine Göre",
+          "points": [
+            "Sıra Tipi",
+            "V Tipi",
+            "Boksör Tipi",
+            "Yıldız Tipi"
+          ]
+        }
+      ],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLSZqoJRIrDcsgt_4QbxV1S1M8VzUpKoF1ysv5yGTryMffWu5QR-ZICH9ZlT79Wh51wApFHsMGKvBDBfuDOg6H2S_kR6HhC8aQjXryvSr3LDreXieDa99KsutRFHqESyDUz8XH-iSz0BKib9ZXwd7-GWR4Jqsg5Cf1FkZ0ShEE3XQjWymHqprYUfQzdTJ-/s16000/Ekran%20Resmi%202026-04-25%2021.56.56.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGfn3ONTPpMKuCxrKhgzjjR3rVK2r2WOT5HjKmfbsJ5J__lOBBEyRuwQIGld68PQ528imwJkNw3HKrBT8VKBJo3iWHmHOEC0KKKy62K5U3cbSD8zRwmrNSIBlDYZD3eSaBolE_UjMZewEqlIt4ruVeXMpVhsrwuU_RlYQReyz-xKZTcRY3ucOrf2O7WLI/s16000/ssss.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUUI3Sh9Zn5ba_Zn6G7MHkNO-hnT9I_VfjPdaRoCYYh125ro1LC8T26CchPguXsiIaptDs-Ex7F50NqyM1ATXX4e3IAY-h4Yfo2PHeh-9Lkh5Jt2LW95byZhzKnrXaXXo4iGKphPb4mRf2ogBIsuphjRboTpQNf2lKa6evOEPuu9m9ZdW8Qb_q0YQ9Euco/s16000/zamanl%C4%B1.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu8N48PwEj5x2rZRNT29d7z_7FNaIWlfXRjpJMZtyfinCZsbWDk5R_iaHtFDU7AKDZqCgiqA2oF5P9gSKct7A4yzXrpzrxoLM_Pw6ukJ3F1L6YVcTRI3KnyZh-916GZysuqcGcI_dayt8Qd1G3BvUl4GfWdF-Yt9UYCHayxq-JgKx38iE6vXTLFa7kBH79/s16000/ssddafa.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBFyuGTObeusUslrQAD4S5lzmofJzoAcI94ASyi1sy7NKXcoWeV55t2vOrOozFCwFxzrtkCx-mGWSdVpdtcR9G74mOYd8B2Mau0ouuPP_k7GybCHTDsXhKtte-joKvxv82H-K-qkf-OB9HrTjio0k7vHDOHO4RtjMZ-tOnv7OOWWNQYcDLv6ffLAwSTdLy/s16000/dfdfdfsdfs.png"
+      ]
+    },
+    {
+      "title": "Zamanlar",
+      "badge": "Çalışma Prensibi",
+      "accent": "#10B981",
+      "intro": "Zaman: Pistonun silindir içerisindeki her bir hareketine zaman denir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "heading": "4 Zamanlı Motor",
+          "points": [
+            "1. Zaman - Emme Zamanı",
+            "2. Zaman - Sıkıştırma Zamanı",
+            "3. Zaman - Ateşleme Zamanı",
+            "4. Zaman - Egsoz Zamanı"
+          ]
+        },
+        {
+          "heading": "2 Zamanlı Motor",
+          "points": [
+            "1. Zaman - Emme - Sıkıştırma Zamanı",
+            "2. Zaman - Ateşleme - Egsoz Zamanı"
+          ]
+        }
+      ],
+      "imageUrls": []
+    },
+    {
+      "title": "Benzin-LPG'li Motorların Çalışma Sistemi",
+      "badge": "Benzinli Motor",
+      "accent": "#F59E0B",
+      "intro": "Yakıt ile hava karışımını silindir içerisinde sıkıştırarak buji ile ateşleme sonucu güç elde etmeyi sağlayan sistemdir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "heading": "Benzinli Motorda Zamanlar",
+          "points": [
+            "**1. EMME ZAMANI:** Piston silindir içerisinde yukarıdan aşağı doğru inerken karbüratör tarafından hazırlanan yakıt-hava karışımı silindir içine alınır",
+            "**2. SIKIŞTIRMA ZAMANI:** Piston yukarı doğru çıkarken silindir içerisindeki yakıt hava karışımını sıkıştırır. Sıkışan karışımın sıcaklığı ve basıncı artar, yanmaya hazır hale gelir",
+            "**3. ATEŞLEME ZAMANI:** Buji kıvılcım çıkartarak karışımı ateşler. Ateşleme sonucu oluşan patlama ve yüksek basınç etkisiyle piston aşağı doğru güçlü bir şekilde inerken diğer pistonların yukarı doğru çıkmasını sağlar",
+            "**4. EGSOZ ZAMANI:** Yanma sonucu oluşan gazlar egsoz aracılığı ile dışarı atılır"
+          ]
+        },
+        {
+          "heading": "Önemli Not",
+          "points": [
+            "Ateşleme zamanına **İş zamanı** da denir",
+            "Silindire yakıt-hava karışımı girer",
+            "Yakıt-hava karışımı pistonla sıkıştırılır",
+            "Yakıt-hava karışımı buji ile ateşlenir",
+            "Yanma sonucu oluşan pis gazlar egzozdan dışarı atılır"
+          ]
+        }
+      ],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzsMfMFBq_HNVKq4quQb7ps6LppH1uOPqUZEd3o0ouL3_JQwJgNNdTCD_NPfdRvw1J27Dupo2J7KwYdEk0SC0FlL_TvPb0SRNHtk3Taj2mSkTR6X5_7hxMy2x-Off2Sb5tXGeXTVP7IJzB-Bfit9B1q3ELc-HXmcF8w-0E6UJJ0YBA3X-8EbOtQh9gjMt-/s16000/EMMEZAMANI.png"
+      ]
+    },
+    {
+      "title": "Dizel Motorların Çalışma Sistemi",
+      "badge": "Dizel Motor",
+      "accent": "#EF4444",
+      "intro": "Silindir içerisindeki kızgın hava üzerine enjektör ile motorin püskürtmek suretiyle ateşleme ve güç oluşturmayı sağlayan sistemdir.",
+      "bullets": [],
+      "subsections": [
+        {
+          "heading": "Dizel Motorda Zamanlar",
+          "points": [
+            "**1. EMME ZAMANI:** Sadece hava emilir",
+            "**2. SIKIŞTIRMA ZAMANI:** Hava pistonla sıkıştırılır",
+            "**3. YANMA ZAMANI:** Sıkışmış havanın üzerine enjektörle mazot (motorin) püskürtülür",
+            "**4. EGSOZ ZAMANI:** Yanma sonucu oluşan pis gazlar egzozdan dışarı atılır"
+          ]
+        },
+        {
+          "heading": "Önemli Uyarılar",
+          "points": [
+            "Benzinli motorlarda emme zamanı yakıt-hava emilirken, dizel motorlarda sadece hava emilir",
+            "Dizel motorlarda yanma sıkışan havanın sıcaklığı ile gerçekleşir"
+          ]
+        }
+      ],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhblsMHWq4MEVrkB9j3GbRR3qy6JQAeYbzaZzou0rzdcX6K5b46DsDqg7dxhjt3nfIJHcHA4OTQQ7LkITb_iLJWO24EU-V43EdsVd_ydIn2GoM5Nh8mj5mwOhWyhnQ4Zoc1y2uY8MRLk02RvhW9GlbelqknmbNxkIK5T83OGD7FomB5d50HJDsmi5BsTUB/s16000/CC.png"
+      ]
+    },
+    {
+      "title": "Ateşleme Sistemi",
+      "badge": "Ateşleme",
+      "accent": "#EC4899",
+      "intro": "Motorlarda ateşleme sistemleri motor tipine göre farklılık gösterir.",
+      "bullets": [
+        "Benzinli motorlarda ateşleme sistemi olarak buji kullanılır. Sıkıştırılmış yakıt ve hava karışımı, aküden bujiye gelen yüksek voltaj ile ateşlenerek güç elde edilir",
+        "Dizel motorlar enjektör ile ateşlenir. Sıkıştırılmış hava üzerine enjektör ile basınçlı motorin püskürtülerek güç elde edilir"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://panel.kolayehliyet.com/storage/417/%C3%BCnite-1---ate%C5%9Fleme-sistemi.jpg"
+      ]
+    }
+  ]
+}
