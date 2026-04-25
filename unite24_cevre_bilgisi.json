@@ -1,0 +1,119 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 24 · Çevre Bilgisi — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/24-cevre-bilgisi.html",
+  "sections": [
+    {
+      "title": "1. Çevrenin tanımı ve çevre koruma ile ilgili genel bilgiler",
+      "badge": "Tanım",
+      "accent": 0,
+      "intro": "Temel çevre kavramları:",
+      "bullets": [
+        "Çevre: İnsanların ve diğer canlıların hayatları boyunca ilişkilerini sürdürdükleri ve karşılıklı olarak etkileşim içinde bulundukları fiziki, biyolojik, sosyal, ekonomik ve kültürel ortam",
+        "Çevre Korunması: Çevresel değerlerin ve ekolojik dengenin tahribini, bozulmasını ve yok olmasını önlemeye, mevcut bozulmaları gidermeye, çevreyi iyileştirmeye ve geliştirmeye, çevre kirliliğini önlemeye yönelik çalışmaların bütünü",
+        "Çevre Kirliliği: Çevrede meydana gelen ve canlıların sağlığını, çevresel değerleri ve ekolojik dengeyi bozabilecek her türlü olumsuz etki",
+        "Kirleten: Faaliyetleri sırasında veya sonrasında doğrudan veya dolaylı olarak çevre kirliliğine, ekolojik dengenin ve çevrenin bozulmasına neden olan gerçek ve tüzel kişiler",
+        "Ekolojik Denge: İnsan ve diğer canlıların varlık ve gelişmelerini doğal yapılarına uygun bir şekilde sürdürebilmeleri için gerekli olan şartların bütünü",
+        "Hava Kirliliği: Atmosferde toz, duman, gaz, su buharı şeklindeki kirleticilerin, insan ve diğer canlılara zarar verecek düzeye erişmesi (Trafik, sanayi ve ısınma sistemleri başlıca kaynaklar)",
+        "Gürültü: İstenmeyen ses veya ses kirliliği"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "2. Trafik ve çevre ilişkisi",
+      "badge": "İlişki",
+      "accent": 1,
+      "intro": "Motorlu araç kullanımının hızla artması sonucu trafiğin çevreye etkileri de hızla artmaktadır. Trafikteki egzoz gazları, araç sesleri gibi pek çok element çevreyi etkilemektedir.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "3. Araçlardan çevreye yayılan zararlı maddeler",
+      "badge": "Zararlı",
+      "accent": 2,
+      "intro": "Hava kirliliğinin artmasındaki en önemli unsurlar:",
+      "bullets": [
+        "Karbon monoksit",
+        "Azot oksitler",
+        "Hidrokarbonlar",
+        "Kurşun"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "4. Toplu taşıma araçları ve bisiklet kullanmanın çevreye faydaları",
+      "badge": "Toplu Taşıma",
+      "accent": 3,
+      "intro": "Toplu taşıma araçlarını tercih etmek kişi başına düşen karbon salınımını azalttığı için en çok önerilen hava kirliliğini azaltma yöntemidir.",
+      "bullets": [
+        "Yürüme mesafesindeki yerlere yürüyerek ya da bisiklet ile ulaşım hem çevreyi korur",
+        "Sağlığınız için faydalıdır",
+        "Bütçeniz için tasarruf sağlar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "5. Düzenli olarak araç bakımı yaptırmanın çevre üzerindeki olumlu etkileri",
+      "badge": "Bakım",
+      "accent": 0,
+      "intro": "Aracınızın çevreyi kirletme oranını periyodik bakımla minimum seviyede tutabilirsiniz. Düzenli bakıma gitmeyen araçların, havada daha fazla etkileri bulunur ve çevreyi daha hızlı kirletirler.",
+      "bullets": [],
+      "subsections": [
+        {
+          "title": "Düzenli araç bakımı yaptırmanın faydaları",
+          "bullets": [
+            "Yakıt tüketiminin azalması",
+            "Araç performansının artması",
+            "Motorun ve diğer aksamların ömrünün uzaması",
+            "Sürüş güvenliğinin artması ve risklerin azalması",
+            "Satış fiyatına olumlu etki"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Harita kullanma ve yön bulma cihazları (Navigasyon)",
+      "badge": "Navigasyon",
+      "accent": 1,
+      "intro": "Harita ve navigasyon sistemleri hakkında temel bilgiler:",
+      "bullets": [],
+      "imageUrls": [
+        "https://panel.kolayehliyet.com/storage/126/%C3%BCnite-15---navigasyon.jpg"
+      ],
+      "subsections": [
+        {
+          "title": "Harita tanımı",
+          "bullets": [
+            "Harita: Yeryüzünün tümünün ya da bir parçasının belirli oranlarda küçültülmüş bir şekilde bir düzlem üzerinde gösterimi"
+          ]
+        },
+        {
+          "title": "Kullanım amacına göre haritalar",
+          "bullets": [
+            "Fiziki Haritalar: Yeryüzü şekillerini (ova, dağ, plato, vb), yer şekillerinin yükselti ve eğim gibi fiziki özelliklerini gösteren haritalar",
+            "Siyasi Haritalar: Ülkelerin sınırlarını askeri blokları, kıtaları gösteren haritalar; ülke içindeki il, ilçe ve köy gibi idari birimler arasındaki sınırları gösteren idari bölünüş haritaları",
+            "Beşerî ve Ekonomi Haritaları: Ekonomik (hayvancılık, tarım, sanayi vs.) ve beşeri özelliklerin (göç, nüfus dağılış vs.) dağılışını gösteren haritalar",
+            "Özel Haritalar: Belli alanda uzmanlaşmış kişi ya da kuruluşların özel amaçlar için hazırladığı haritalar (Topraktan yararlanma haritası gibi)"
+          ]
+        },
+        {
+          "title": "Navigasyon sistemi",
+          "bullets": [
+            "Navigasyon: Dünya yörüngesinde GPS uyduları sayesinde konum tespiti yapabilen bir teknoloji sistemi",
+            "Üç ayaktan oluşur: GPS uyduları, yer istasyonları, GPS alıcıları",
+            "En az üç farklı GPS uydusundan radyo sinyali alındığında konum tam olarak tespit edilir",
+            "Günümüzde kullanılan navigasyon sistemleri maksimum 7,8 metre sapma ile konum tespiti yapabilir"
+          ]
+        },
+        {
+          "title": "Navigasyon sistemini oluşturan bileşenler",
+          "bullets": [
+            "Donanım: GPS sinyallerini kullanarak Dünya üzerindeki konumumuzu tespit eden ve bu tespit ile gitmek istediğimiz noktaya ulaşmamızı sağlayacak olan yazılım ve haritanın çalıştığı sistem",
+            "Yazılım: Harita ile donanımı konuşturan sistem; cihazdan aldığı koordinat bilgisini harita üzerinde gösterir ve gidilmek istenen noktaya en uygun rotayı çizerek görüntülü ya da sesli yönlendirme yapar",
+            "Harita: Navigasyon sisteminde en önemli birim; normal haritadan farklı olarak yolların yön ve hız bilgileri, yasakları, kısıtlamaları, hastaneler, işyerleri vb. bilgileri içerir"
+          ]
+        }
+      ]
+    }
+  ]
+}
