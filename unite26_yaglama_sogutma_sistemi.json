@@ -1,150 +1,162 @@
 {
   "sheetTitle": "Son Bakış",
-  "sheetSubtitle": "Ünite 26 · Yağlama ve Soğutma Sistemi — süper notlar",
+  "sheetSubtitle": "Ünite 26 · Yağlama ve soğutma sistemi — süper notlar",
   "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/26-yaglama-ve-sogutma-sistemi.html",
   "sections": [
     {
-      "title": "Yağlama Sistemi",
-      "badge": "Temel Bilgi",
+      "title": "Yağlama sistemi",
+      "badge": "Temel bilgi",
       "accent": 0,
-      "intro": "Motordaki hareketli parçaların aşınmasını azaltır; motorun soğutulmasına, temizlenmesine, sessiz ve sarsıntısız çalışmasına yardımcı olur.",
-      "bullets": [
-        "Sürtünmeyi azaltarak aşınmayı önler",
-        "Hareketli parçaların rahat çalışmasını sağlar",
-        "Motor içindeki ısıyı taşımaya yardımcı olur",
-        "Parçaları temizleyerek tortu oluşumunu azaltır"
-      ],
+      "intro": "Motordaki aşınmayı önler; hareketli parçaların rahat çalışmasını sağlar; motorun soğutulmasına, temizlenmesine, sarsıntısız ve sessiz çalışmasına yardımcı olur.",
+      "bullets": [],
       "subsections": [],
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6WrMBPLs7QAN6jp-Tr6eNoRIuzzQyluB57vaupJLvi0guf8x0EQ5CfKDfn7itjJcHuVH6B3pXkuhQ_kYIX235mMqD12F0w6qQZd1cqzLxtxy0VD6W8rY84bNM_n8z6Kt5FOcz8089wKjn6NaC9koUU_Cl4126krSfDBNBV4ThnCkzwKUKERloKJ6WKzVt/s16000/u%CC%88nite-1---yag%CC%86lama-sistemi.jpg"
       ]
     },
     {
-      "title": "Motor Yağının Görevleri",
-      "badge": "Yağ Görevi",
+      "title": "Motor yağının görevi",
+      "badge": "Yağ",
       "accent": 1,
-      "intro": "Motor yağı, motor ömrü ve güvenli çalışma için kritik bir parçadır.",
+      "intro": "Motor yağı kalitesi motor ömrünü etkileyen en önemli faktörlerden biridir.",
       "bullets": [
         "Motorun soğutulmasına yardımcı olur",
-        "Sürtünmeye bağlı aşınmayı azaltarak motor ömrünü uzatır",
-        "Çalışan parçaların temizliğini sağlar ve hareketi kolaylaştırır",
-        "Yağ eksilirse veya özelliğini kaybederse kuru sürtünme oluşur",
-        "Kuru sürtünmede parçalar ısınarak birbirine kaynar ve sıkışabilir",
-        "Motor yağı kalitesi motor ömrünü doğrudan etkiler"
+        "Sürtünmeye bağlı aşınmayı önleyerek motor ömrünü uzatır",
+        "Motorda çalışan parçaların temizliğini sağlar ve hareketini kolaylaştırır",
+        "Yağ eksilmesi veya özelliğini kaybetmesi durumunda kuru sürtünme oluşur; ısı etkisiyle parçalar birbirine kaynar ve sıkışır"
       ],
       "subsections": [],
       "imageUrls": []
     },
     {
-      "title": "Yağlama Sistemi Elemanları",
+      "title": "Yağlama elemanları",
       "badge": "Parçalar",
       "accent": 2,
-      "intro": "Yağlama sisteminin temel elemanları ve görevleri:",
+      "intro": "Karter, yağ pompası, yağ filtresi, yağ göstergesi ve yağ çubuğu yağlama sisteminin temel bileşenleridir.",
       "bullets": [],
       "subsections": [
         {
           "title": "Karter",
           "bullets": [
             "Motor yağına depoluk eder",
-            "Motorun alt kısmını kapatarak çalışan parçaları dış etkenlerden korur"
+            "Motorun alt tarafını kapatarak çalışan parçaları dış etkenlerden korur"
           ]
         },
         {
-          "title": "Yağ Pompası",
+          "title": "Yağ pompası",
           "bullets": [
-            "Karterdeki yağı basınçlı şekilde motorun çalışan parçalarına gönderir"
+            "Karterdeki yağı basınçlı olarak motorun çalışan parçalarına gönderir"
           ]
         },
         {
-          "title": "Yağ Filtresi",
+          "title": "Yağ filtresi",
           "bullets": [
-            "Pompalanan yağı süzer ve yabancı maddeleri temizler"
+            "Yağ pompasının pompaladığı yağı süzerek yabancı maddeleri temizler"
           ]
         },
         {
-          "title": "Yağ Göstergesi",
+          "title": "Yağ göstergesi",
           "bullets": [
-            "Yağ basıncının düştüğünü ve karterde yağ kalmadığını bildirir"
+            "Motor yağ basıncının çok düşük olduğunu ve karterde yağ kalmadığını bildirir",
+            "Kontak çevrilip araç çalıştırıldığında yağ göstergesi sönmüyorsa veya sürüşte anormallik varsa motor durdurulmalı ve yağ seviyesi kontrol edilmelidir",
+            "Yağ seviyesi normalin çok altındaysa motor aşırı ısınır ve büyük masrafa yol açar",
+            "Yağ seviyesinin tavsiye edilenden fazla olması da motor parçalarına zarar verebilir",
+            "Karter contasının yırtılması yağ kaybına yol açar"
           ]
         },
         {
-          "title": "Yağ Çubuğu",
+          "title": "Yağ çubuğu",
           "bullets": [
             "Motor çalışmazken yağ seviyesini ölçmek için kullanılır",
-            "Doğru ölçüm için motor stop edilmeli, 4-5 dakika beklenmeli ve araç düz zeminde olmalıdır",
-            "Yağ seviyesi yağ çubuğundaki iki çizgi arasında olmalıdır"
+            "Kontak kapatılmalı; motora dağılmış yağın kartere dönmesi için 4–5 dakika beklenmeli; araç düz zeminde olmalıdır",
+            "Yağ seviyesi yağ çubuğundaki iki çizgi arasında olmalıdır",
+            "Motora yağ, külbitör (subap) kapağından konur"
+          ]
+        },
+        {
+          "title": "Bilgilendirme",
+          "bullets": [
+            "Kontak anahtarı motoru çalıştırmayacak şekilde açıldığında yağ göstergesi yanmıyorsa arıza çoğunlukla yağ lambası ampulündedir"
           ]
         }
       ],
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2CxRfSjsPiloFYXrQYXBKmpi5c1tx1AmO8GBBKT2bB0SjmR-uZ0LU3iLK4LhXHcGQNz5JMFzMkdqV0xFrOJVYvEuTbDXKi_XWdaQBZw8N2UB-L_9AGxRkqmhiGh9fygccfgtfn9_P3ZPn4qUR8-wVYxRBQa0WhQsrKHW9gW4E0Y246f-A3_JNYqTOvMV/s1600/01-yaglama_sistemi_02.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4g4nAfr0s6Ug80UvTv8NH6rMTkYh4LxEHNsoZYi6_sOXeLvkOcJOed38AXD4-yLXevNwzUlIN_I-gec_w1ON2Xg1RhV_uG57DVKUSyIsfrp4p_m-BQSvq2Kea7SlbOePLD5UEUHKyBB2cwpGTMu_cjUjazxP6iRse-ixGqm38MDpSADQjnAiMj7kWdcEI/s320/01-yaglama_sistemi_03.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEireBmADOHzEwhH8mfWXkpV4NB9X0xDKfjcARWZOCA8_g9kcIBBghsFuF7yeEybpc_FTbV0NNHWEzEFRd-rcn9T6fBR3VuXK8RTGYzEu770X1QRQYBLBUlFQKrk1HE4qW9qa9xvP6RJfn60zCUYoNDZtNZ5cpwzRNx1uLKxO0OvxXP6HcwCf_yvbPu1YxyI/s320/01-yaglama_sistemi_04.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4g4nAfr0s6Ug80UvTv8NH6rMTkYh4LxEHNsoZYi6_sOXeLvkOcJOed38AXD4-yLXevNwzUlIN_I-gec_w1ON2Xg1RhV_uG57DVKUSyIsfrp4p_m-BQSvq2Kea7SlbOePLD5UEUHKyBB2cwpGTMu_cjUjazxP6iRse-ixGqm38MDpSADQjnAiMj7kWdcEI/s1600/01-yaglama_sistemi_03.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEireBmADOHzEwhH8mfWXkpV4NB9X0xDKfjcARWZOCA8_g9kcIBBghsFuF7yeEybpc_FTbV0NNHWEzEFRd-rcn9T6fBR3VuXK8RTGYzEu770X1QRQYBLBUlFQKrk1HE4qW9qa9xvP6RJfn60zCUYoNDZtNZ5cpwzRNx1uLKxO0OvxXP6HcwCf_yvbPu1YxyI/s1600/01-yaglama_sistemi_04.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRZzu-4tFZUE-6Tn9CPAvXJBlo6japU2GmdfRnv4Ny4qcKII86mwF9XHOJFK1dDAhE2lobwUUlhGRQLn06hRWsn6mV9hfvxttK3FE3bBAUoPo88Dkfbix6DbB_fv1v6yNhZ9VlwvqQrGnoHjT7Ze-sqVp4W0yOH4wSnl7iqAkePgDIyXeXYmbf12CIdtru/s1600/01-yaglama_sistemi_05.png"
       ]
     },
     {
-      "title": "Yağ Göstergesi ve Uyarılar",
-      "badge": "Uyarı",
+      "title": "Soğutma sistemi",
+      "badge": "Soğutma",
       "accent": 3,
-      "intro": "Yağ seviyesi ve yağ lambası ile ilgili kritik uyarılar:",
+      "intro": "Motorun çalışması sonucu ısınan parçaların ısıdan zarar görmesini önlemek amacıyla motoru uygun sıcaklıkta tutar.",
       "bullets": [
-        "Yağ seviyesi normalin çok altına düşerse motor aşırı ısınır ve ciddi hasar oluşur",
-        "Yağ seviyesinin tavsiye edilenden fazla olması da motor parçalarına zarar verebilir",
-        "Araç çalıştırıldığında yağ göstergesi sönmüyorsa ya da sürüşte anormallik varsa motor stop edilip yağ seviyesi kontrol edilmelidir",
-        "Karter contasının yırtılması yağ kaybına yol açar",
-        "Kontak motoru çalıştırmayacak konumdayken yağ lambası yanmıyorsa arıza ampulde olabilir"
+        "Çalışma sıcaklığını gördüğünüz her soruda aklınıza soğutma sistemi gelmeli",
+        "Motor çalışma sıcaklığına ulaşmadan sert şekilde gaz verilmesi uygun değildir"
       ],
-      "subsections": [],
-      "imageUrls": []
-    },
-    {
-      "title": "Soğutma Sistemi",
-      "badge": "Temel Bilgi",
-      "accent": 4,
-      "intro": "Motorun çalışmasıyla ısınan parçaların zarar görmesini önlemek için motoru uygun sıcaklıkta tutar.",
-      "bullets": [
-        "Çalışma sıcaklığı ile ilgili sorularda soğutma sistemi düşünülmelidir",
-        "Motor çalışma sıcaklığına ulaşmadan yüksek gaz verilmesi uygun değildir"
+      "subsections": [
+        {
+          "title": "Kısaca: radyatör, fan, antifriz, termostat",
+          "bullets": [
+            "Radyatör: soğutma suyuna depoluk eder",
+            "Radyatör fanı: radyatördeki suyu soğutur",
+            "Antifriz: donmayı önler; soğutma sıvısının geçtiği yerlerde korozyon, pas ve kireç oluşumunu engelleyerek parçaların ömrünü artırır",
+            "Termostat: soğutma suyunun çıkış veya girişine yerleştirilen; soğutma suyu sıcaklığını ölçüp belirli seviyede tutulmasını sağlayan parçadır"
+          ]
+        }
       ],
-      "subsections": [],
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQdYBlWfXQV8nNJCWPyLhasUDre0ni90DLx6LWyhVTvQfDKrJn72680f1NxvGgGUONICARggDvAjz-aScshs_Cbqx9ZkqCYmX8v37Sjfx3so8MZkEab4bdIsl07mcr1TAJLBlQdkpN297P4hjZF84rcAbniQUfuNIOUrA4hir-o1JuUOqCj6Jid69NJUo/s16000/u%CC%88nite-1---sog%CC%86utma-sistemi.jpg"
       ]
     },
     {
-      "title": "Soğutma Sistemi Elemanları",
-      "badge": "Parçalar",
-      "accent": 5,
-      "intro": "Soğutma sistemindeki ana parçalar ve görevleri:",
-      "bullets": [
-        "Radyatör: Soğutma suyuna depoluk eder",
-        "Radyatör fanı / soğutma fanı / vantilatör: Radyatördeki suyu soğutur",
-        "Antifriz: Donmayı önler; korozyon, pas ve kireç oluşumunu azaltır",
-        "Termostat: Soğutma suyu sıcaklığını ölçer ve belirli seviyede tutar",
-        "Su pompası (devirdaim): Radyatördeki suyu su kanallarına gönderir",
-        "Vantilatör kayışı: Su pompasına ve alternatöre hareket verir"
-      ],
+      "title": "Radyatör ve su seviyesi",
+      "badge": "Radyatör",
+      "accent": 0,
+      "intro": "Radyatör soğutma suyuna depoluk eder. Radyatördeki su peteklerin üzerinde olmalıdır. Su azalınca takviye su kabındaki max işaretine kadar su eklenir.",
+      "bullets": [],
       "subsections": [],
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4bsp5_l2qze4pMXat9P57kdwMJxyMtoQ6wMxHBc8vEAWK81PJpFgEbGd6jxS0r2te3xt01Tju06Q0OBBxLT4kSmreZhKBP5Y0kbYbpWBgmy99w7NfhCFOPBP767mconUu34AQO1nZNuuNfZ4MJBLb523rlQJ9Xu6CNGJU_SFMbeqYjnRtUwMv_qXY1vMN/s1600/04-sogutma_sistemi_02.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSbMcpxf9w6fyDB0SHclcanAsUmN25szwRCGOsuOAJOIM6Kar6lKfewAQ7iSayZfc9V7JZVu2fHcwgDLHzTTqsNqozbj_Gpo5bPIDVwInibb_aYYCkEj4o3sYMxdc07YiOoEDuMtEFkmkuTZ4xEAe1FvSFZ3n9AOWkwniKyIP5bp-Xfb4AmYd8WKRN-pr/s1600/04-sogutma_sistemi_03.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFh9mOWrRZVP9G8QWzwaIxP5IRCoKOh8IbC4gYVXCyIEDhVrv-m7sPvlEOJg6HKZUPMhOK4R7AVxgscdBD38ovP6zBLRgAoyWNfz5hjOAzkOHakwQM4guytWteSIAttP1sgopw81XTS9MFsZISigoDQKdJR9fLXTJb08RnJouoWc8HhQExGS1hkNbhLw6W/s320/image_3d9c451b_c.jpg"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGSbMcpxf9w6fyDB0SHclcanAsUmN25szwRCGOsuOAJOIM6Kar6lKfewAQ7iSayZfc9V7JZVu2fHcwgDLHzTTqsNqozbj_Gpo5bPIDVwInibb_aYYCkEj4o3sYMxdc07YiOoEDuMtEFkmkuTZ4xEAe1FvSFZ3n9AOWkwniKyIP5bp-Xfb4AmYd8WKRN-pr/s1600/04-sogutma_sistemi_03.png"
       ]
     },
     {
-      "title": "Hararet Göstergesi ve Hararet Nedenleri",
-      "badge": "Hararet",
-      "accent": 6,
-      "intro": "Hararet göstergesi motorun soğutma suyu sıcaklığını gösterir.",
+      "title": "Antifriz",
+      "badge": "Antifriz",
+      "accent": 1,
+      "intro": "Kışın soğuk havalarda suyun donmasını önlemek için radyatöre konulur. Her türlü iklimde soğutma suyuna eklenmesi gerekir; korozyon, pas ve kireçlenmeyi azaltır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFh9mOWrRZVP9G8QWzwaIxP5IRCoKOh8IbC4gYVXCyIEDhVrv-m7sPvlEOJg6HKZUPMhOK4R7AVxgscdBD38ovP6zBLRgAoyWNfz5hjOAzkOHakwQM4guytWteSIAttP1sgopw81XTS9MFsZISigoDQKdJR9fLXTJb08RnJouoWc8HhQExGS1hkNbhLw6W/s1600/image_3d9c451b_c.jpg"
+      ]
+    },
+    {
+      "title": "Vantilatör, fan, su pompası, kayış",
+      "badge": "Tahrik",
+      "accent": 2,
+      "intro": "Hareketli soğutma ve devirdaim parçaları motor sıcaklığını dengelemeye yardımcı olur.",
       "bullets": [
-        "Seyir halinde hararet lambasının yanması, sıcaklığın aşırı yükseldiğini ve derhal durulması gerektiğini bildirir",
-        "Motor hararet yaparsa parçalar aşırı ısınır ve ciddi masraf oluşur",
-        "Motor suyunun eksilmesi hararetin en önemli nedenlerindendir",
-        "Radyatör sızıntısı, kapak arızası, hortum ve bağlantı kaçakları su eksiltir",
-        "Araç uygun devir-vites kullanılmazsa veya fan motoru arızalıysa hararet görülebilir",
-        "Vantilatör kayışı koparsa/gevşerse su pompası görevini yapamaz ve motor ısısı hızla yükselir",
-        "Vantilatör kayışı aynı zamanda alternatöre hareket verdiği için kopma ilk olarak şarj göstergesinden de anlaşılabilir"
+        "Vantilatör ve radyatör (soğutma) fanı: radyatördeki suyu soğutur",
+        "Su pompası (devirdaim): radyatördeki suyu su kanallarına gönderir",
+        "Vantilatör kayışı: su pompasına hareket verir; kopma veya gevşeme durumunda su pompası çalışmaz, motor ısısı hızla yükselir ve hararete yol açar",
+        "Vantilatör kayışı aynı zamanda alternatöre hareket verir; koptuğunda genelde ilk sinyal şarj göstergesindedir"
+      ],
+      "subsections": [],
+      "imageUrls": []
+    },
+    {
+      "title": "Hararet göstergesi ve nedenler",
+      "badge": "Hararet",
+      "accent": 3,
+      "intro": "Hararet göstergesi soğutma suyu sıcaklığını gösterir. Seyir halinde hararet lambasının yanması, sıcaklığın aşırı yükseldiğini ve derhal durulması gerektiğini bildirir.",
+      "bullets": [
+        "Motor suyunun eksilmesi hararetin en önemli nedenlerindendir; seviye sık kontrol edilmelidir",
+        "Radyatör sızıntısı, kapak arızası, hortum ve bağlantı kaçakları suyu eksiltebilir",
+        "Uygun devir ve viteste kullanılmamak, fan arızası hararete yol açabilir"
       ],
       "subsections": [],
       "imageUrls": [
@@ -153,24 +165,19 @@
       ]
     },
     {
-      "title": "Motor Hararet Yaptığında Yapılacaklar",
-      "badge": "Acil Adımlar",
-      "accent": 7,
-      "intro": "Motor hararet yaptığında güvenlik ve doğru müdahale için izlenecek adımlar:",
+      "title": "Hararet yaptığında yapılacaklar",
+      "badge": "Acil",
+      "accent": 0,
+      "intro": "Trafik kurallarına uymak şartıyla derhal durulur; vites boşa alındıktan sonra motor çalışır durumda bırakılabilir. Klima kapatılır, kalorifer sıcağa alınır, kaput açılır.",
       "bullets": [
-        "Trafik kurallarına uyarak derhal güvenli bir yere durulur",
-        "Vites boşa alınır ve motor bir süre çalışır durumda bırakılır",
-        "Klima kapatılır, kalorifer sıcak konumda çalıştırılır",
-        "Kaput açılır",
-        "Takviye su kabı kapağı kalın bezle yarım tur gevşetilerek basınç düşürülür, sonra tamamen açılır",
-        "Kaptaki işaretli seviyeye (max) kadar ılık ve temiz su eklenir",
-        "Aracın soğuması beklenir",
-        "Motor çok sıcakken radyatöre soğuk su eklenmez; silindir kapağı çatlayabilir",
-        "Kontroller sonrası hararet devam ediyorsa motor stop edilir ve servis çağrılır"
+        "Takviye su kabı kapağı kalın bezle bastırılıp yarım tur gevşetilerek basınç alınır, sonra açılır",
+        "Max çizgisine kadar ılık, temiz (içilebilir kalitede) su eklenir; soğuma beklenir",
+        "Motor çok sıcakken radyatöre soğuk su konulmaz; silindir kapağı çatlayabilir",
+        "Her şey normalse ama hararet sürerse motor stop edilir, servis çağrılır"
       ],
       "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio0-nzzfAEfFmkQURjxfJ0kYir_RgbAUzRCVYwxHUVHLgyW6iqLLzng8nGyoasKdQSOqXHJaxWpwtTDVNm8igr956Plli1ZgIX88E-RkZftNqGDVnH_PvLXjvv9d_36Bwdw5425rWH0wPft1UYnzQZZFtR6UVUcCBB-DdjLxq-c2igapRlTX67wfFpsQ4B/s320/04-sogutma_sistemi_07.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio0-nzzfAEfFmkQURjxfJ0kYir_RgbAUzRCVYwxHUVHLgyW6iqLLzng8nGyoasKdQSOqXHJaxWpwtTDVNm8igr956Plli1ZgIX88E-RkZftNqGDVnH_PvLXjvv9d_36Bwdw5425rWH0wPft1UYnzQZZFtR6UVUcCBB-DdjLxq-c2igapRlTX67wfFpsQ4B/s1600/04-sogutma_sistemi_07.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBC2mU7tIqTqDIAqzNMIbdqgUYC_3RuBbOrlWLINgkg1urIq6XG74nam5SiBDVbxI9yJTrUg_El4uliFKTe7-cp9sDw3dLVmE0zetuCefw6qqEK7qzks0-8vpSJC_5MDivljS6XMR7EKKv4u1sxFFEiO7UIo1j34JjMhsG7RcMognATjcZvFO2C95E0ySn/s1600/04-sogutma_sistemi_08.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzsPPqPVta7eVwD8cUoSkBEc6wgvr4ktXlu592H8FKlJJXSqwN6Muut-vVXB61hqj_SQLm8khC4N8QQk9Ugr866HgcFnQKEqs76itgl5YGJHvDCmgptt73m6Ul6n8cpvogM5r-QkSFBj7WsVgt49YyNWpPcNDMHnmV3F8YdT2yy7CRnyVte3Kd1hXAwA5_/s1600/04-sogutma_sistemi_09.png"
       ]
