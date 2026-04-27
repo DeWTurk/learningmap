@@ -29,33 +29,51 @@
       ]
     },
     {
-      "title": "Farlar",
+      "title": "Kısa far göstergesi",
       "badge": "Far",
       "accent": 2,
-      "intro": "Bakım, arıza veya far değişiminde far ayarı yapılır. Biri sönük yanıyorsa kablo bağlantıları gevşek olabilir. Kısa veya uzun fardan biri yanmıyorsa sigorta atmış olabilir.",
+      "intro": "Kısa farların yandığını bildirir. Yaklaşık 25 m aydınlatır; panelde yeşil lamba yanar. Bakım, arıza veya far değişiminde far ayarı yapılır; biri sönük yanıyorsa kablo gevşek veya sigorta atmış olabilir.",
       "bullets": [
-        "Kısa far göstergesi: Kısa farların yandığını bildirir. Yaklaşık 25 m aydınlatır; panelde yeşil lamba yanar",
-        "Uzun far göstergesi: Uzun farların yandığını bildirir. Yaklaşık 100 m aydınlatır; panelde mavi lamba yanar"
+        "Kısa/uzun ayrı ayrı kontrol: Biri yanmıyorsa ilgili sigorta veya ampul arızası"
       ],
       "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvBkPbeKhHIMuvTnWtp-x7cM-GtkPinZNZcmh4-kcaA07hjFDKhUTWpm2CORKk0N4ihKGnnxABOmvvy0_RxCN_AIszU8YKxkeicmxgDVN9M9JwR2DCp74ZA-sOUatyc-tL5vXJlIb3P7-jG-xLx35dq8i3aUBE7wmT-q6SP5oV0Nezw_yiJGtpvoalBiei/s16000/02-aydinlatma_ikaz_sistemi_03.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvBkPbeKhHIMuvTnWtp-x7cM-GtkPinZNZcmh4-kcaA07hjFDKhUTWpm2CORKk0N4ihKGnnxABOmvvy0_RxCN_AIszU8YKxkeicmxgDVN9M9JwR2DCp74ZA-sOUatyc-tL5vXJlIb3P7-jG-xLx35dq8i3aUBE7wmT-q6SP5oV0Nezw_yiJGtpvoalBiei/s16000/02-aydinlatma_ikaz_sistemi_03.png"
+      ]
+    },
+    {
+      "title": "Uzun far göstergesi",
+      "badge": "Far",
+      "accent": 2,
+      "intro": "Uzun farların yandığını bildirir. Yaklaşık 100 m aydınlatır; panelde mavi lamba yanar.",
+      "bullets": [
+        "Karşı trafiği veya öndeki aracı rahatsız edecekse uzun far kapatılmalıdır"
+      ],
+      "subsections": [],
+      "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmCoGof_Wh--SJA4SzBE59kkqrummsBBNX1chdW4MtDkut6Uvchs1nkSIZkULaN_UYFhtSO8KZW4Li5tqw2LedzuCSv8Dofk899zdiIqV1cE8TPVAF7BFTvv9mhoQ-n3s3bKNuaamqVaHqbFqdrTI2sZpGl3NOEQjcGbp8rvWmDb2JHncmIfwga1jNvm1PJ/s16000/02-aydinlatma_ikaz_sistemi_04.png"
       ]
     },
     {
-      "title": "Fren ve geri vites lambaları",
+      "title": "Fren lambası (arka)",
       "badge": "Arka",
       "accent": 3,
-      "intro": "Arka taraftaki uyarı ışıkları.",
-      "bullets": [
-        "Fren lambası: Kırmızı; frenleme yapıldığını bildirir. Pedala basınca biri yanmıyorsa genelde ampul arızasıdır",
-        "Geri vites lambası: Beyaz; geri vitesin takıldığını bildirir. Biri parlak biri sönükse bağlantıda paslanma olabilir"
-      ],
+      "intro": "Kırmızı; frenleme yapıldığını arkadan bildirir. Pedala basınca biri yanmıyorsa genelde ampul arızasıdır.",
+      "bullets": [],
       "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyEclK9JC2xcwbA3bsJ5z7O9yCGUBAkiiMU-M6XA0-gLTHgHzAqVhLf3wWvUc7GZ_V-DtPQz5XJc86A0mBIfvZr6Okvx1MVfC6uz-643w1OwhDTnlcdB-qTAFemmmrfBQyT56ItDDEzR_LhE-ATpxe0SMOlnpsfA3KWHCJouWUJjF8JjcTRyFgBlDE3bL/s16000/02-aydinlatma_ikaz_sistemi_05.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXzUOBBeESEFKOOf4ZAWivHoFEK3P-FSTmBfxoLfokf0ZriYMmL1qDzDUh_T48gZgaBMoM8XHAl94MGUkdFeD7YBwiD0tKyTRukSCPS00jyWtrwhuRqSycejk37YAU8S3CRWsEZT2idpWDxYwHP7ZyUAhByIVzuhaRc1io0ECxwlsQjYvWjVYB3B5JSHH8/s16000/02-aydinlatma_ikaz_sistemi_06.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyEclK9JC2xcwbA3bsJ5z7O9yCGUBAkiiMU-M6XA0-gLTHgHzAqVhLf3wWvUc7GZ_V-DtPQz5XJc86A0mBIfvZr6Okvx1MVfC6uz-643w1OwhDTnlcdB-qTAFemmmrfBQyT56ItDDEzR_LhE-ATpxe0SMOlnpsfA3KWHCJouWUJjF8JjcTRyFgBlDE3bL/s16000/02-aydinlatma_ikaz_sistemi_05.png"
+      ]
+    },
+    {
+      "title": "Geri vites lambası (arka)",
+      "badge": "Arka",
+      "accent": 3,
+      "intro": "Beyaz; geri vitesin takıldığını bildirir. Biri parlak biri sönükse bağlantıda paslanma olabilir.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXzUOBBeESEFKOOf4ZAWivHoFEK3P-FSTmBfxoLfok0ZriYMmL1qDzDUh_T48gZgaBMoM8XHAl94MGUkdFeD7YBwiD0tKyTRukSCPS00jyWtrwhuRqSycejk37YAU8S3CRWsEZT2idpWDxYwHP7ZyUAhByIVzuhaRc1io0ECxwlsQjYvWjVYB3B5JSHH8/s16000/02-aydinlatma_ikaz_sistemi_06.png"
       ]
     },
     {
@@ -69,6 +87,7 @@
         "Park: Park lambaları açık; biri yanıp biri yanmıyorsa yanmayan tarafta flaman kopmuş olabilir"
       ],
       "subsections": [],
+      "imageLayout": "grid2",
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisUy6MuFjw6dXCVzXwqotaNDpZhJ3ATmkExeO-hm0kQNXErRKohSusAXDql6vq82nNSXTxrkKw6Wy3fSPsdy2Pb-DoSczEBdc_oTc5fc7ZHCzx_Cr8f2bI3kSPZNKgjA5j3E-SiEvZCnbk-5ewvRXBBcL3NgB89bP85gGwUOU-qq1R4tQ8ZuT9q1rNGXkq/s16000/02-aydinlatma_ikaz_sistemi_07.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKYgsLJLn28zVeAMAgvMZ_S_pq7hqs1J0nrna4NiR83-YCQt1IINbHxAmqUWHt4MOqWwtP3TcMoqCL3W5EhXLlc3q4oJIItARbY5lBZzjsKeqJpyp2IBRUkGrY3Ys_0dXYBYoggWQAkcnxtw2b6xnD_HrJ8Q5WnsHM_f9g3QHNqejA_ilmkYdkHLMWOYUr/s16000/02-aydinlatma_ikaz_sistemi_08.png",
@@ -89,63 +108,128 @@
       ]
     },
     {
-      "title": "Yakıt, hız ve devir",
+      "title": "Yakıt göstergesi",
       "badge": "İbre",
       "accent": 2,
-      "intro": "Depo, hız ve motor devrini izleyen göstergeler.",
+      "intro": "Depodaki yakıt miktarını (genelde E–F / boş–dolu) gösteren ibre veya ekran.",
       "bullets": [
-        "Yakıt: Depodaki miktarı gösterir",
-        "Kilometre (hız): Aracın hızını bildirir",
-        "Devir saati: Motor devrini gösterir"
+        "Rezerv uyarı lamba veya \"boş yakan\" ibre: Yakıt ikmal etmeden yola devam edilmez"
       ],
-      "subsections": [
-        {
-          "title": "Devir (bilgi)",
-          "bullets": [
-            "Devir göstergesindeki ibre daima 20 ile 30 arasında olmalıdır; bu uygun viteste olduğunuzu gösterir",
-            "İbre 30′un üzerine çıkarsa vites büyütülmeli, 20′nin altına düşerse vites küçültülmelidir"
-          ]
-        }
-      ],
+      "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqioifUlIs5AYH_nC3Lb19SaxpnTD97HAyvAK4SBAmqlGGqd0EZIXuWY--DqpcfD78cu2YWiH2jV1IA1v5uSUc85kk38ju3QIIf32lNZvKsmBM4669m_lm4W-5s0ClSceLT9H9_FCIE6o2QeiCjezLlOA5jmHBrAa3ausISzl6BItaXVWdUdq9U61jPe5a/s16000/02-aydinlatma_ikaz_sistemi_13.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0DAL3IX3NaAs318UAptdt02rFXxJJqlLMq9DabOXBlpEt1vUtL-xMCzfdA0FDDVpFRSOO3rhosJYJKsrDY76ADJIqFKDapvt17vRRK1YV_NIQZn-IdE9kuBb3K9dPMSw7xnOw9J22PT0IHK98cVLx8kSHI8rEyoPi-R7CneD-kUb7BLLnyJLQE1jex-Ob/s16000/02-aydinlatma_ikaz_sistemi_14.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqioifUlIs5AYH_nC3Lb19SaxpnTD97HAyvAK4SBAmqlGGqd0EZIXuWY--DqpcfD78cu2YWiH2jV1IA1v5uSUc85kk38ju3QIIf32lNZvKsmBM4669m_lm4W-5s0ClSceLT9H9_FCIE6o2QeiCjezLlOA5jmHBrAa3ausISzl6BItaXVWdUdq9U61jPe5a/s16000/02-aydinlatma_ikaz_sistemi_13.png"
+      ]
+    },
+    {
+      "title": "Hız (kilometre) göstergesi",
+      "badge": "İbre",
+      "accent": 2,
+      "intro": "Aracın o anki hızını km/saat (ve bazen mil/saat) cinsinden gösteren gösterge; genelde toplam kilometre (odo) aynı kadranda veya yanındadır.",
+      "bullets": [
+        "Gösterge, trafikte mecburi sınırı değil; yola ve şartlara göre hız sınırı ayrıca uyarı/levha ile belirlenir"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0DAL3IX3NaAs318UAptdt02rFXxJJqlLMq9DabOXBlpEt1vUtL-xMCzfdA0FDDVpFRSOO3rhosJYJKsrDY76ADJIqFKDapvt17vRRK1YV_NIQZn-IdE9kuBb3K9dPMSw7xnOw9J22PT0IHK98cVLx8kSHI8rEyoPi-R7CneD-kUb7BLLnyJLQE1jex-Ob/s16000/02-aydinlatma_ikaz_sistemi_14.png"
+      ]
+    },
+    {
+      "title": "Devir saati (takometre)",
+      "badge": "İbre",
+      "accent": 2,
+      "intro": "Motorun devrini (yüzler/ bin dev/dk) gösterir; vites ve motor yükü için referanstır.",
+      "bullets": [
+        "Devir göstergesindeki ibre, müfredat ve soru cümlelerine göre genelde 20–30 (×100) aralığını (uygun viteste olma) ifade eder; ibre 30’un üzerine çıkarsa vites büyütülmeli, 20’nin altına düşerse vites küçültülmelidir"
+      ],
+      "subsections": [],
+      "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KW0IY7HdpHIrHh1pQrlwtMhP9tjkyqbrISX2F8lTHzNQr-NSEioLy1xScmxi_umyO7DSqBR-KqjGLW_qnQuYHpvtEiDD-cQ2mj2rxOnGKgBNkVcc98poHXgNCwrDSwycLAIYeWT76sd6gzkI6o0gAYGxp3y76N7L6sHF_MtMOOIv758yidIzkySYQX9n/s16000/02-aydinlatma_ikaz_sistemi_15.png"
       ]
     },
     {
-      "title": "Kızdırma, yağ, hararet, şarj",
+      "title": "Kızdırma (glow) ikazı",
       "badge": "İkaz",
       "accent": 3,
-      "intro": "Dizel ön ısıtma, yağ basıncı, soğutma suyu sıcaklığı ve şarj durumu.",
+      "intro": "Dizel motorlarda: soğuk motor ön ısıtma (glow) devresi. Marş öncesi lambanın sönmesi en azından ısınmaya dair beklentidir; tam prosedür kılavuza ve soru ifadesine göre alınır.",
       "bullets": [
-        "Kızdırma (ısıtma) bujisi: Sadece dizelde; soğukta ısıtır. Marştan önce lambanın sönmesi beklenir",
-        "Yağ: Düşük yağ basıncı / karterde yağ yok. Motor çalışınca sönmeli; sönmezse veya sürerken yanarsa güvenle durulur. Kontak açıkken (motor stop) hiç yanmıyorsa genelde ampul arızasıdır",
-        "Hararet: Soğutma suyu ısısı. Seyirde yanarsa aşırı ısınma; kurallara uyarak hemen durulur",
-        "Şarj: Akü şarj olmuyor (alternatör). Motor çalışınca sönmeli; yanarsa hemen durulur — devam edilirse akü boşalır. Şarj yandıktan sonra hararet de yanıyorsa vantilatör kayışı gevşek veya kopuk olabilir; kopmada genelde önce şarj uyarısı görülür"
+        "Benzinli araçlarda bu ikaz olmaz"
       ],
       "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjITX6wM_b1SThOhhp-sl4T55UutzYCcA3_Ov1DVpqiApHJrNR3sJfZPurmDRpcpWm8_9VW2c6MPTIdxGnAkQL6Kpx7Sp9SGmrIY607ZU1lRn_2ktGZY5-ln1Dla2O0ztF47BqITfaYBfKMKGrfaUej5nb-uw_6MELLA80-FdXaL83YqlKqUyoDqjsWdcUE/s16000/02-aydinlatma_ikaz_sistemi_16.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSf-3al6vpJdUot-TYiZC28I2CseH6BKrfJtqDSWm3RwGyxQX_S8xm2WJimC5ZJc4GwwblerXcKca-ePIiOJZvbGGiJRyRM4dKOh--DG4KhU_VF6nlEzVF2Qb2wmpKBTIJtc94eJIWuHhOZAfaOphzjpLv0XBYDivnAOzmBkk8bnRsDjei_1pPKo8aWWXEY/s16000/02-aydinlatma_ikaz_sistemi_17.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj68da5yg8_Y7j2D3EQ58QiKpUlhQm1Z1A45dmaO2FHm3Dt6l7M1uyAqE5U14MGE2uiYXoJsufeY04ie5uGeoadEwH3Of8Cn_YdK_TWb1DY8EFw-AYbxscxfGIrzDcDOoF-MNWPMDgaNO4cL3PLcYTCH4SPlpBwinL9ozh08msbAHeECd1CYqH5m08vXrld/s16000/02-aydinlatma_ikaz_sistemi_18.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjITX6wM_b1SThOhhp-sl4T55UutzYCcA3_Ov1DVpqiApHJrNR3sJfZPurmDRpcpWm8_9VW2c6MPTIdxGnAkQL6Kpx7Sp9SGmrIY607ZU1lRn_2ktGZY5-ln1Dla2O0ztF47BqITfaYBfKMKGrfaUej5nb-uw_6MELLA80-FdXaL83YqlKqUyoDqjsWdcUE/s16000/02-aydinlatma_ikaz_sistemi_16.png"
+      ]
+    },
+    {
+      "title": "Yağ basıncı (yağ) ikazı",
+      "badge": "İkaz",
+      "accent": 3,
+      "intro": "Düşük yağ basıncı / yağsız dolaşım: yağlama açısından ciddi risk. Motor çalışınca sönmeli; sürerken sürerse veya sönmezse güvenle durulur, kontrol edilir.",
+      "bullets": [
+        "Kontak açık, motor stop iken hiç yanmıyorsa (bazı işaretler) ampul arızası da sorulabilir; mantık soru cümlesine bakılır"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSf-3al6vpJdUot-TYiZC28I2CseH6BKrfJtqDSWm3RwGyxQX_S8xm2WJimC5ZJc4GwwblerXcKca-ePIiOJZvbGGiJRyRM4dKOh--DG4KhU_VF6nlEzVF2Qb2wmpKBTIJtc94eJIWuHhOZAfaOphzjpLv0XBYDivnAOzmBkk8bnRsDjei_1pPKo8aWWXEY/s16000/02-aydinlatma_ikaz_sistemi_17.png"
+      ]
+    },
+    {
+      "title": "Hararet (soğutma) ikazı",
+      "badge": "İkaz",
+      "accent": 3,
+      "intro": "Soğutma suyu sıcaklığı; seyirde yanıyorsa aşırı ısınma. Kurallara uyarak güvenli biçimde durulur, motor soğutulur, sebep kontrol edilir.",
+      "bullets": [
+        "Soğutma suyu/ hortum / termostat/ fan kayışı gibi nedenler müfredat sorularında ayrı ayrı geçer"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj68da5yg8_Y7j2D3EQ58QiKpUlhQm1Z1A45dmaO2FHm3Dt6l7M1uyAqE5U14MGE2uiYXoJsufeY04ie5uGeoadEwH3Of8Cn_YdK_TWb1DY8EFw-AYbxscxfGIrzDcDOoF-MNWPMDgaNO4cL3PLcYTCH4SPlpBwinL9ozh08msbAHeECd1CYqH5m08vXrld/s16000/02-aydinlatma_ikaz_sistemi_18.png"
+      ]
+    },
+    {
+      "title": "Şarj (batarya) ikazı",
+      "badge": "İkaz",
+      "accent": 3,
+      "intro": "Akü şarj olmıyor (alternatör / şarj devresi). Motor çalışınca sönmeli; sürerken yanıyorsa mümkün olan en kısa sürede durulur; aksi hâlde akü boşalır.",
+      "bullets": [
+        "Önce şarj, hemen ardından hararet ikazı: vantilatör kayışı kopmuş/gevşek senaryolarında sık vurgulanır"
+      ],
+      "subsections": [],
+      "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhACWTAja_-J64-go53spmJ7c1DT7eSQAqAqhCJvAD7OEB0NRAZ3moAg2KRoTu1sjUo-TJA4oLm5-9UvRSHLqZcn0jVk84Or2BJXwCy1sR9rPsK-bd8QNdGQ6zjOab_88J8yrrSGoZPG_DBych_c6bkedmNvYLoczOs1X9QfIVrZ-9rrqPRqI63NUbkAs70/s16000/02-aydinlatma_ikaz_sistemi_19.png"
       ]
     },
     {
-      "title": "Diğer göstergeler",
+      "title": "Arka cam rezistansı ikazı",
       "badge": "Ek",
       "accent": 0,
-      "intro": "Arka cam, el freni ve lastik hava basıncı.",
+      "intro": "Rezistans açıkken (arka cam ısıtma) etkinse panelde bu ikaz görülebilir; arka cama bakan buğu ve buzlanmayı azaltmayı hedefler.",
       "bullets": [
-        "Arka cam rezistansı: Çalışıyorsa ikaz; donma ve buğuyu azaltır",
-        "El freni / hidrolik: El freni çekili veya hidrolik seviyede düşüş uyarısı",
-        "Lastik basıncı (TPMS): Lastiklerden birinde basınç düşüğü"
+        "Sistem çalışıyorken ikaz; işlev ve işaret birlikte değerlendirilir"
       ],
       "subsections": [],
       "imageUrls": [
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbtAT1zuS_HMr0A1OWjSpnLyfF6qnxmZSEwIJ-Wtjh2gQ8wo1cBT6sZcHvkkIKDiWqfkA_7cW_qWwlSWuy8VJ8A7sju7rTKcW5o3jozSNqG_z3GhQBkzNkm_UM1WymUMoWs_1ItDTQ0hN4pafyReEmGSAAUFcrcQ1d8kUi52cktV8MW2cVtVIrut-SzBNr/s16000/02-aydinlatma_ikaz_sistemi_20.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBNiOFH9y3p-Zcm1rGQxIyR2rPmBhGeHOB51iqPJ7UP0k_yZ_PtbWasemrwgb1BPpMsCud-W4nfCT7igTD377EE7TDH43lfd4X8p6rH9lVZfqFkw4sLsn8X7g9_sW1l3hP2dHOEApcbmXa8r78FjdPxip6HmZOjJceaYmv5uE8Iuz4NW7rKVhWE6ExWG3H/s16000/02-aydinlatma_ikaz_sistemi_21.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbtAT1zuS_HMr0A1OWjSpnLyfF6qnxmZSEwIJ-Wtjh2gQ8wo1cBT6sZcHvkkIKDiWqfkA_7cW_qWwlSWuy8VJ8A7sju7rTKcW5o3jozSNqG_z3GhQBkzNkm_UM1WymUMoWs_1ItDTQ0hN4pafyReEmGSAAUFcrcQ1d8kUi52cktV8MW2cVtVIrut-SzBNr/s16000/02-aydinlatma_ikaz_sistemi_20.png"
+      ]
+    },
+    {
+      "title": "El freni / hidrolik seviye ikazı",
+      "badge": "Ek",
+      "accent": 0,
+      "intro": "El freni çekiliyken veya el freni / hidrolik seviyede düşüş (modeline göre) durumda uyarı simgesi.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBNiOFH9y3p-Zcm1rGQxIyR2rPmBhGeHOB51iqPJ7UP0k_yZ_PtbWasemrwgb1BPpMsCud-W4nfCT7igTD377EE7TDH43lfd4X8p6rH9lVZfqFkw4sLsn8X7g9_sW1l3hP2dHOEApcbmXa8r78FjdPxip6HmZOjJceaYmv5uE8Iuz4NW7rKVhWE6ExWG3H/s16000/02-aydinlatma_ikaz_sistemi_21.png"
+      ]
+    },
+    {
+      "title": "Lastik basıncı (TPMS) ikazı",
+      "badge": "Ek",
+      "accent": 0,
+      "intro": "En az bir lastikte basınç düşüğü; takip ve tamir, müfredat sorularına göre açıklanır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZf2eGJsdr-AOFjhxYGGFzbXYlkAi4Uwdrie7eu2iBL33DWpVLFEc0mq5Tm2-yihBTBbng-DqwAEqaLsUTfvdRbAtMXYvMZa2-IQCNQIMB2j5LhVE68CCh_mTBVIxcqbcxqG4-roNH-25EG36GhBiejZ8-U2sC9884hHr_FccITm5fqyqNB_fP094gNeJ/s16000/indir.png"
       ]
     },
@@ -156,6 +240,7 @@
       "intro": "Far ve ikaz ışıklarının genel tablosu.",
       "bullets": [],
       "subsections": [],
+      "imageLayout": "fitWidth",
       "imageUrls": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhaAaESGJyxLKFnQJCH_2OdXD-Uagq__IiAcQeUiskryxvvzSZ38xYymZurFOvZO7MsBG_rytUqs76GJtYeV0ayugvaFYEC-n0aVRK9npSPuQXfbeH6nmn8elMPM3Q-JIFJC3Tr2wIXUUz7ohUdJjBmE62AN-QFGAjGNBkcDnuZ-VPYI9iDTLCdBS3luvw/s16000/02-aydinlatma_ikaz_sistemi_22.png"
       ]
