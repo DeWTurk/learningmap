@@ -1,0 +1,122 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 28 · Güç aktarma organları — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/28-guc-aktarma-organlar.html",
+  "sections": [
+    {
+      "title": "1. Aktarma hattı ve genel",
+      "badge": "Güç hattı",
+      "accent": 0,
+      "intro": "Motor yakıttan elde ettiği ısı enerjisiyle gücünü kavrama (debriyaj) aracılığıyla vites kutusuna aktarır. Vites kutusu motordan gelen hareketi şafta, şaft diferansiyele, diferansiyel aksa ve aksa bağlı tekerlere iletir. Böylece araç hareket eder; mekanik (hareket) enerjisi elde edilir. Motorun gücünü ileten parçalara aktarma organları denir.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVxZaGzv8mD6dyso5YmUnG7vN8QdNtYRS4INQqQ-hv6WGniQ0YJFOOYyoOi6L2vu9KLA9zrzF_LnsRB6GFOWHOE_Cb4m_Dt-zkoGX1fp9oe2mzqn-bdrRVPURifh3BhceYCjn6T-zrCLpia0PNx_kqnE2ei3R1dwasSStf7WujdPCMA6Kc4u4zrC3166q3/s16000/image_395aa83a_4.jpg"
+    },
+    {
+      "title": "2. Vites kutusu (şanzıman)",
+      "badge": "Şanzıman",
+      "accent": 1,
+      "intro": "Aracın hızını ve torkunu ayarlayan aktarma organıdır. İleri ve geri hareket sağlanır. Bakımda yağına bakılır.",
+      "bullets": [
+        "1. vites: Kalkış, eğim, park; tipik 0–20 km/h",
+        "2. vites: Kalkış sonrası; 20–40 km/h",
+        "3. vites: Hızlanma; 40–60 km/h",
+        "4. vites: Hızlanma; 60–80 km/h",
+        "5 ve 6. vites: 80 km/h üzeri hızlarda hızlanma",
+        "Geri vites: Geri manevra, iniş eğimde park"
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhapM5H2jqgPK1iIvMAZJkSwNAegNJPRGwA49w_hqIuza4JPfmuPhHCZA979jS1K4_uCiFmfwzWmIlnSRZ7jtnjAcBaEvu7rtjz4w81Gpz0dWIfjjzzaB3qTuh23eqClLETyIUvcn_ZKwtb24CpKkg-6PhRz6kGvWPnrmDn9Quu1Fd8C5YB6eHtq00AZV7o/s16000/05-guc_aktarma_organlari_02.png"
+    },
+    {
+      "title": "3. Kavrama (debriyaj)",
+      "badge": "Debriyaj",
+      "accent": 2,
+      "intro": "Vites değiştirmeyi mümkün kılan aktarma organı. Motor hareketini vites kutusuna iletir veya keser; motor ile vites kutusu arasındadır.",
+      "bullets": [
+        "Balata aşınmasında: hareket halde sürekli yarım veya tam debriyaj",
+        "Hareket halde yarım debriyaj: bilya hasarı riski",
+        "Ani/sert kalkış: balatanın sıyrılması ve aşınması"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "4. Diferansiyel",
+      "badge": "Dif",
+      "accent": 3,
+      "intro": "Şaft’tan aldığı hareketi aksa iletir. Virajda çekici tekerlerin farklı hızlarda dönmesini sağlar.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "5. Araç lastikleri (temel)",
+      "badge": "Lastik",
+      "accent": 0,
+      "intro": "Frenleme performansı ve yol tutuşunda kritik. Üzerindeki işaretler ebat ve özellikleri belirtir. Her seferinde basınç, diş derinliği ve hasar kontrol edilmelidir.",
+      "bullets": [
+        "Yanlış basınç: yakıt tüketimi, yönlendirme, aşınma paternini bozar",
+        "Eski/aşınmış lastik: yağışta risk artar"
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYjO8sVxt1nSWDofkYtUV6XqJ3hDTj8xijIXU1f_Tlg7nW5JpRMv2tCt2lDTDkRwwSHo7c-P0s723U9_vWA33nJ0PwIa1I_wSGXCsE7D6PBJ9AI0yxtlAcyJFaaZ-DdUhPieLiOPHhcGk07GB75SIpOlyzUAWA82mZ5q6awD-X7dJ-HeRr8pMDV7Gapezp/s16000/05-guc_aktarma_organlari_03.png"
+    },
+    {
+      "title": "6. Basınç ve eşlilik",
+      "badge": "Ebat / basınç",
+      "accent": 1,
+      "intro": "Hava yüksekliği aşınmaya, yakıt tüketimine ve sürüş konforuna doğrudan etki eder.",
+      "bullets": [
+        "Düşük basınç: kenar aşınması, artan yakıt, ağır direksiyon",
+        "Aşırı basınç: orta bölge aşınması, titreme, konfor kaybı",
+        "Önde biri yeni biri eski veya basınç farkı: frenlemede tarafa çekme",
+        "Kar/buz: çekici aksın iki lastiğine zincir",
+        "Kriko ile kaldırmada: el freni + takoz"
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcSpdC4hDBUdo6rGQ5k9g2UBJC2zmNxphLnN8jbUPdJFhDrZ7gibcQAQGi6tUpZ1JAP4YfUOdRZQkygeqdpW2X2dYs4Ah7wocXCtdRfWJQWnJo5o6ZuCzmpJvB891GMovV6rBm5BdtY7QQFyy-LskZKJCvfo__Moh6SBKa-oLvUCwbaU3JPsqN_qpmnDjz/s16000/05-guc_aktarma_organlari_04.png"
+    },
+    {
+      "title": "7. Lastik basıncı ikazı (TPMS)",
+      "badge": "Gösterge",
+      "accent": 2,
+      "intro": "Lastiklerden birinde veya birden fazlasında havanın belirlenen değerin altında olduğunu bildiren ikazdır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5f6XT6YUVvogjH8F0Rzqoqob3-d_gdJAKAH1YMaFxV6KDVZuokQOpRCPATMchmGKM8WQNLIkThCrgwH1-_jA2v2_5zwUZY-oCM29Q3RlnvgZGxRdpWsfackTr2Xtuy4imNHQcBqlM6YdMhZi1ckpS-zx7HnMSSeD2PzcmD0R0LTrQ1h894M6mz5kGs2O/s1600/indir.png"
+    },
+    {
+      "title": "8. Lastik değiştirme sırası",
+      "badge": "Sıra",
+      "accent": 3,
+      "intro": "",
+      "bullets": [
+        "I — Güvenlik: aracın hareket etmemesi için gerekli önlemler",
+        "II — Jant kapağını sök",
+        "III — Bijon somunlarını gevşet",
+        "IV — Kriko ile kaldır",
+        "V — Bijon somunlarını sök"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "9. Genel sürüş notları",
+      "badge": "Kullanım",
+      "accent": 0,
+      "intro": "Kalkış, vites ve pedal kullanımında temel kurallar:",
+      "bullets": [
+        "İlk çalıştırmada vites boşta",
+        "Çalıştırmada kısa gaz sonrası debriyaja basmak faydalı olabilir",
+        "Harekete 1. vites; debriyajı yavaş bırakırken hafif gaz",
+        "Hareket yok, motor zorlanıyorsa: el freni açık unutulmuş olabilir",
+        "Vites değişiminde debriyaj sona kadar",
+        "Vites sesi: debriyaj tam değil",
+        "Geri girmiyorsa: ayağı kaldırıp debriyajı tekrar bas",
+        "Durdurmada debriyaj + fren birlikte",
+        "Hız azaltmada sadece fren; fren anında debriyajla hız kesmek uygun değil",
+        "Durgun/dumanlı motor: gaz pedalı sonuna kadar (üreticinin önerisine uyun)"
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI0u3DkzTgd8rkz0maVPHuHevDvjHHa4UAHwXUelP1uo3RhgtR-Z9VWESVbyN4BFBlIqSf3G5J0FbUrFVRdefaV7QkCE_OI-rvU9Nw5gJhpdW21RBFGKQ0FRzRJGQUEg_H779if4U9wdhFwRn_eNUfYmC5HSGI632WI2dBovKONHNBQ6y_jZT68svHcSWa/s16000/05-guc_aktarma_organlari_05.png"
+    }
+  ]
+}
