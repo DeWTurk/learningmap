@@ -1,0 +1,71 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 31 · Ön düzen ve süspansiyon sistemi — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/31-on-duzen-ve-suspansiyon.html",
+  "sections": [
+    {
+      "title": "Ön düzen sistemi",
+      "badge": "Ön düzen",
+      "accent": 0,
+      "intro": "Aracın ön aksına ve yönlendirmeye ilişkin düzen; rot, balans ve direksiyon bu başlık altında ele alınır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip705KjWAYFAvvBCvF4Cr-ELrstCAoPyVY8A2owcHJhWBKPdZ7J5ZCxcU6eVMoZQK0S16YWNPz2vLHopjxT_aXwC62Hq-70_VDnExBzOh38sa_ymOKfI7uzdY3vINFXwLzZOUqVROpTPYR_S4F3-P-Iq70DQfjx1wiLl_5fcb6impMgExGKoAP9__4-hhF/s16000/a_CarSteeringSystem_d6e8a6f3_3.jpeg"
+      ]
+    },
+    {
+      "title": "Rot ayarı",
+      "badge": "Rot",
+      "accent": 1,
+      "intro": "Düzensiz lastik aşıntılarını önlemek ve düzgün istikamet takibi için yapılır.",
+      "bullets": [
+        "Rot ayarı bozuk olan aracın ön lastikleri içten ve dıştan aşınır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Balans ayarı",
+      "badge": "Balans",
+      "accent": 2,
+      "intro": "Lastik ve jantların dengeli dönmesi için tekerleklere yapılan ayardır.",
+      "bullets": [
+        "Direksiyon ve araçta titreşim, balansı bozuk tekerleklerin etkisindendir",
+        "Balansı bozuk tekerlekler, tekerlek yataklarının kısa sürede aşınmasına yol açar"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Direksiyon simidi",
+      "badge": "Direksiyon",
+      "accent": 3,
+      "intro": "Aracı istenilen yöne sevk etmek için kullanılır.",
+      "bullets": [
+        "Hidrolik direksiyon, direksiyonu döndürme kuvvetini azaltır; aracı yönlendirmeyi kolaylaştırır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Süspansiyon sistemi",
+      "badge": "Süspansiyon",
+      "accent": 0,
+      "intro": "Yol yapısından gelen titreşimleri üstlenerek rahat ve emniyetli sürüş sağlar; gövde ile tekerlekler arasındadır.",
+      "bullets": [
+        "Titreşimleri sönümlemek üzere gövde ile tekerlekler arasına yerleştirilir",
+        "Yol yüzeyinden gelen titreşim, salınım ve ani şokları sönümleyerek konforu artırır",
+        "Temel elemanlar: helezon yaylar ve amortisörler"
+      ],
+      "subsections": [
+        {
+          "title": "Amortisörler",
+          "bullets": [
+            "Yoldan kaynaklanan titreşim ve darbeleri üstlenir; yay salınım süresini kısaltır"
+          ]
+        }
+      ],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRNZNHsnshvTZBnu7WGfo4sf-2DJGwHjJ-d9ueIbmB7IRNVUOmyVSqilXQl_t6B5nW87YT4xvvCw-_yp__4mfTtIOX8ZR4ydCd31RtDOkF1oBj1bqNZxJtJXr_vXGqObLfPasud6R-TeUfQPYJNiv03PxlBx3cda_Brx6o7S2Nfruo6qa1C9dOPKyxpm5V/s16000/06-on_duzen_suspasiyon_01.png"
+      ]
+    }
+  ]
+}
