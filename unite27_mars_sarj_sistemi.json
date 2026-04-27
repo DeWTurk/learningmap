@@ -1,0 +1,109 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 27 · Marş ve şarj sistemi — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/27-mars-ve-sarj-sistemi.html",
+  "sections": [
+    {
+      "title": "1. Marş sistemi",
+      "badge": "Giriş",
+      "accent": 0,
+      "intro": "Marş sisteminin görevi; motora ilk hareketi vermektir.\n\nUyarı: Marş sistemi ile ilgili sorularda akla ilk olarak akü ve marş motoru gelmelidir.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGwBcjpJlwtVRazyeGeIvJ8YswJKxEjJZfb7gEr7F-bsYkpT4e9XU3qGLhWeGqu-6UQxYTMNHsZ5-40QG9kcaOZnk_8Xo4H5Vkr7Lo1aXq6YrJxRHWAOJj_djD_R_f09F0d34zTWAsv-3cZuoTfF3nIat1q29CsJq831ocwlI2_T3MeePaGCxHVVNeqrXT/s16000/image_603afa32_9.jpg"
+    },
+    {
+      "title": "2. Marş motoru",
+      "badge": "Marş",
+      "accent": 1,
+      "intro": "",
+      "bullets": [
+        "Motora ilk hareketi verir.",
+        "Kontak anahtarı açıldıktan sonra marşa basma süresi 10–15 sn’dir. Uzunca ve sıkça marş yapılırsa akü boşalır."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "3. Akümülatör (Akü)",
+      "badge": "Akü",
+      "accent": 2,
+      "intro": "Marş motoruna ilk hareket için elektrik verir. Motorlu taşıtlarda elektrikle çalışan sistemlerin ihtiyacını karşılamak, motor çalışmazken aydınlatma ve alıcıları beslemek için kullanılır.",
+      "bullets": [
+        "Akünün araç üzerinden sökülmesinde önce (–) kutba bağlı kablo sökülür.",
+        "Akünün (+) kutup başı (–) kutup başına göre daha kalındır.",
+        "Akü üzerindeki kontrol gözünde rengin yeşil olması şarjın iyi durumda olduğunu gösterir.",
+        "Kutup başları araca ters bağlanırsa alternatör diyotları yanar.",
+        "Yangın veya yanık kokusu gibi acil durumlarda kontak kapatılır ve akü kutup başları sökülür.",
+        "Kışın donmaması için akü tam şarj tutulur.",
+        "Kutup başlarına aynı anda iki madeni para değerse kısa devre ve patlama riski doğar."
+      ],
+      "subsections": [],
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKVa2bgZjBczmZ24J8nqgAEL3QVGjvQRbSyqlDpnMpdlbSmEc-VFsi1GeDLK5Ec4zdUvgSGCD44ksITLPRYeuOlaT36ye-q7ILFWvJFjIbxO4auRtgMKFFEgnxdbxpgSy36u18JgxrwjrQHSflUkFTJ0G0njiWxAgUcIOJ13eaGGLZyCBOQstcAGgyg8FN/s1600/indir.jpeg"
+    },
+    {
+      "title": "4. Akü takviyesi",
+      "badge": "Takviye",
+      "accent": 3,
+      "intro": "Aküsü boş bir araca, başka bir aracın aküsüyle kablolarla marş alınmasına takviye denir.",
+      "bullets": [
+        "Artı–artı, eksi–eksi olacak şekilde bağlanır.",
+        "Dijital göstergeli araçlara akü takviyesi yapılmaz."
+      ],
+      "subsections": [],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_vipRtl6Jz-no1JiIVYtb1lpo1mNDq0cvt_7bhsMtLGIOvMl5Ng&s"
+    },
+    {
+      "title": "5. Akünün bakımı",
+      "badge": "Bakım",
+      "accent": 0,
+      "intro": "Akü bakımında dikkat edilmesi gerekenler:",
+      "bullets": [
+        "Eleman kapak deliklerinin açık olup olmadığına bakılır.",
+        "Kutup başlarının oksitleri temizlenir.",
+        "Elektrolit seviyesine bakılır; azalmışsa plakaların yaklaşık 1 cm üstüne kadar saf su ilave edilir."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "6. Şarj sistemi",
+      "badge": "Şarj",
+      "accent": 1,
+      "intro": "Şarj sisteminin görevi: motor çalıştığı sürece aracın elektrik ihtiyacını karşılamaktır.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "7. Alternatör (şarj dinamosu)",
+      "badge": "Alternatör",
+      "accent": 2,
+      "intro": "",
+      "bullets": [
+        "Araç için gerekli elektriği üretir.",
+        "Akümülatörü şarj eder."
+      ],
+      "subsections": []
+    },
+    {
+      "title": "8. Şarj göstergesi",
+      "badge": "Gösterge",
+      "accent": 3,
+      "intro": "Kontak açıldığında şarj göstergesi yanar. Marşla motor çalışınca göstergenin sönmesi gerekir; sönmüyorsa trafik kurallarına uygun şekilde derhal durulmalıdır.\n\nŞarj göstergesi yandığı hâlde sürüşe devam edilirse akü boşalır.",
+      "bullets": [],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0HC_0Isa5Fkeq4u2BC6iBPgc_Isvk03ieqs2WexA18uzqB6cnhdXf6AGVOtOcRI8e4yseddhwYQVhaoxAMVQW6KxXPG7BTg3HsoVTzy6bu9z33hzFIdkcUQPIdsokNFOntp7ZwbkWzOubyZ_uC2PKA8XYIqj1GySvPtTQ-7P4yfTFUREjx-PnxR-rQmX/s1600/08-sarj_sistemi_01.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXpy9pKNI2t4UAZmkHDMv8OOsA8Sn9OADJZvOS4jcAnJPfwD1rGUkQrH3lwqHRrUFovmDX1RL6DUahEB1bjHLAHGO7d4liDa0LACnNoTpkhgzZWls1T-j5mpVGkUuXbix_l3748Zvfa3ZPqjfDO8llK7_0vr9k2mYHku11PzGuNIytRTsvmEK74RBf_g17/s1600/08-sarj_sistemi_02.png"
+      ]
+    },
+    {
+      "title": "9. Vantilatör kayışı",
+      "badge": "Kayış",
+      "accent": 0,
+      "intro": "Vantilatör kayışı su pompası ile birlikte alternatöre hareket iletir. Kayış gevşer veya koparsa alternatör yeterli elektriği üretemez; şarj göstergesi yanar.\n\nUyarı: Kayış koptuğunda ilk sinyal genelde şarj göstergesidir; ardından hararet göstergesi devreye girebilir. Kayış çok sıkı olursa alternatör yatakları zedelenir.",
+      "bullets": [
+        "Önce şarj göstergesi, sonra hararet göstergesi ile anlaşılabilir."
+      ],
+      "subsections": []
+    }
+  ]
+}
