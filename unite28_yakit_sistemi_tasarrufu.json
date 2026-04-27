@@ -1,0 +1,72 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 28 · Yakıt sistemi ve yakıt tasarrufu — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/28-yakt-sistemi-ve-yakt-tasarufu.html",
+  "sections": [
+    {
+      "title": "Benzinli motorlarda yakıt sistemi",
+      "badge": "Benzin",
+      "accent": 0,
+      "intro": "Benzinli motorlarda yakıt sisteminin görevi silindire yakıt–hava karışımı göndermektir. Buji ile ateşlemelidirler.",
+      "bullets": [
+        "Yakıt deposu: Yakıtın (benzinin) depolandığı yer",
+        "Yakıt filtresi: Yakıtı temizler. Yakıt kirli (tıkalı) ise motor düzensiz ve tekleyerek çalışır",
+        "Hava filtresi: Silindire giren havayı temizler. Kirliyse (tıkalı) yeterli hava girmez; normal yanma olmaz, motor gücü azalır, yakıt sarfiyatı artar (zengin karışımla çalışır). Tasarruf için temizlenir. Temizliğinde basınçlı hava kullanılır",
+        "Karbüratör: Benzin ile havanın karışıp sıkıştığı parça",
+        "Jikle devresi: Kışın soğukta silindire yakıtın fazla, havanın az girmesini sağlayarak kolay çalıştırır. Jikle çekili unutulup gidilirse araç fazla yakıt tüketir"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0C2JozqyymbMwOg-1gLSjY3l58ZHwtKaY7RlflVTCna_81icUhsdZLAZDIVpPcTE_S-jSW2bo7F_grYopQ-YsuenoqsSagaUCME_lug90TzipdE-aM8qq0maROkHY5Dqb2ng3F05p_ZOjD1ev3BC3_7co1rFEYY-HZ-CrJdN-E4G8F_VBi8KNvfWJ7kTt/s16000/unnamed%20(3).png"
+      ]
+    },
+    {
+      "title": "LPG'li motorlarda yakıt sistemi",
+      "badge": "LPG",
+      "accent": 1,
+      "intro": "LPG, buji ile ateşlemeli motorlarda kullanılır. Diğer motorlara göre çevreyi kirletme oranı daha düşüktür. Dezavantajı: motor performansı bir miktar düşer. LPG'li araçların kapalı alanlara park etmesi yasaktır.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Dizel motorlarda yakıt sistemi",
+      "badge": "Dizel",
+      "accent": 2,
+      "intro": "Dizelde yakıt olarak motorin (mazot) kullanılır. Dört zamanlı dizelde emme zamanında sadece hava emilir; sıkıştırma zamanında hava pistonla sıkıştırılır. Enjektörler, silindirdeki sıkıştırılmış havanın üzerine motorin püskürtür; sıkışan havanın sıcaklığı ile yanma sağlanır.",
+      "bullets": [
+        "Kızdırma (ısıtma) bujisi: Soğukta silindir içi havayı ısıtarak kolay çalıştırır. Sadece dizelde bulunan bir göstergedir; marştan önce panelde kızdırma lambasının sönmesi beklenir",
+        "Yakıt göstergesi: Depodaki yakıt miktarını gösterir"
+      ],
+      "subsections": [],
+      "imageUrls": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp0gZSmhqncKjx1uFNGyody1K9Iz5wjJtH7_6J3b8dhP1sB4dUzHTJ-Pjj8pTofGpYeywrpWxpPL3dnFoqswRa5Z-oxuUNskcu5-KrnIaieYwfAGBYXNdht_i1wxrNSoZ2bo3yXCAGCtV9tQ9zCsTYz7TXtVWGw2BMdr2GuTqfAzInKvvHrPfQb_sdar3f/s16000/unnamed%20(2).png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCe-INFiVq--3OatsWf3bQfh30UF389M9RmhzjEjnMPWo4bekJ6Yd-uGZlpJPIJGldqT2mkruzhoG0kIhMaQvfuS7IVd4Un7jMP59Gck3AcrLlmbdzK5tUNH6zE-U53r2tN3iJz_20loGaQROvHOMVSVFvXOaHmMI5w7GdoJAdmZIcU4ppUX8g2L8jAUbH/s1600/02-aydinlatma_ikaz_sistemi_16.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLC-qAhepxnRWRH8uuwmo39lnyuZpIQCOBhnFS2URYDmWefAa-8NeVwtzVkolZylfGz9Wo4-hh4zZisLbnOk0v51GLTddEiI6Ltn0gJA9K_njzwcGNN_3LA94fAHovVRq0SF3zLeZZkHdMrs7MfxI9JEeWaTYEw53olK3oBVALN_5DSK401qUp_gGW_pH/s1600/02-aydinlatma_ikaz_sistemi_13.png"
+      ]
+    },
+    {
+      "title": "Bilgilendirme ve rölanti",
+      "badge": "Ayar",
+      "accent": 3,
+      "intro": "Yakıt sisteminde rölanti ayarı yapılır. Rölantisi yüksek araç fazla yakıt yakar. Doğru rölanti için motor normal çalışma sıcaklığında olmalıdır.",
+      "bullets": [],
+      "subsections": []
+    },
+    {
+      "title": "Yakıt tasarrufu",
+      "badge": "Tasarruf",
+      "accent": 0,
+      "intro": "Araçlarda yakıt tasarrufu için dikkat edilecekler:",
+      "bullets": [
+        "1) Hava filtresi temizlenir",
+        "2) Eskimiş bujiler değiştirilir",
+        "3) Aracın hızına uygun viteste gidilir",
+        "4) Ani duruş ve kalkışlardan kaçınılır",
+        "5) Lastiklerin havası normal ayarda tutulur",
+        "6) Tavsiye edilmeyen araç lastiği kullanılmaz",
+        "7) Fazla hız ve sürekli yüksek devirden kaçınılır"
+      ],
+      "subsections": []
+    }
+  ]
+}
