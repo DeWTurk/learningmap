@@ -10,144 +10,136 @@
       "intro": "Temel kavramlar:",
       "bullets": [
         "Araç: Karayolunda kullanılabilen motorlu, motorsuz ve özel amaçlı taşıtlar ile iş makineleri ve lastik tekerlekli traktörlerin genel adı",
-        "Taşıt: Karayolunda insan, hayvan ve yük taşımaya yarayan 'ticari olarak tescil edilmiş' araçlar",
-        "Motorlu taşıt: Makine gücü ile yürütülen taşıtlar",
-        "Motorsuz taşıt: İnsan ve hayvan gücü ile yürütülen taşıtlar",
+        "Taşıt: Karayolunda insan, hayvan ve yük taşımaya yarayan “ticari olarak tescil edilmiş” araçlar; makine gücüyle yürütülenlere motorlu taşıt, insan ve hayvan gücüyle yürütülenlere motorsuz taşıt denir",
         "Araç sahibi: Araç için adına yetkili idarece tescil belgesi verilmiş veya sahiplik/satış belgesi düzenlenmiş kişi",
-        "İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralayan kişi"
+        "İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracı uzun süreli kiralayan kişi"
       ],
       "subsections": []
     },
     {
       "title": "2. Yolcu taşıma araçları",
-      "badge": "Yolcu",
+      "badge": "Yolcu · M",
       "accent": 1,
-      "intro": "Yolcu taşımacılığında kullanılan araç türleri:",
+      "intro": "Yolcu taşımacılığında kullanılan araç türleri (metinle eşleşen şemalar, blog ile aynı kaynak).",
       "bullets": [
-        "Otomobil: Yapısı itibari ile sürücüsü dahil en fazla (8+1) oturma yeri olan, insan taşımak için imal edilmiş motorlu taşıt",
-        "Minübüs-Otobüs: Sürücüsü dahil dokuzdan fazla oturma yeri olan motorlu taşıt (Troleybüsler dahil)",
-        "Minübüs: Sürücüsü dahil oturma yeri on yediyi aşmayan otobüs"
-      ],
-      "imageUrls": [
-        "https://panel.kolayehliyet.com/storage/81/%C3%BCnite-2---otomobil.jpg",
-        "https://panel.kolayehliyet.com/storage/82/%C3%9Cnite-2---Min%C3%BCb%C3%BCs.png"
+        "Otomobil: Sürücüsü dahil en fazla (8+1) oturma yeri olan, insan taşımak için imal edilmiş motorlu taşıt",
+        "Minübüs-otobüs: Sürücüsü dahil dokuzdan fazla oturma yeri olan motorlu taşıt (troleybüsler dahil). Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere minübüs denir"
       ],
       "subsections": [
         {
-          "title": "Uluslararası sınıflandırma - M Sınıfı",
+          "title": "Uluslararası sınıflandırma – M sınıfı (yolcu)",
           "bullets": [
-            "M Sınıfı: En az dört tekerlekli ve yolcu taşımasında kullanılan motorlu araçlar",
-            "M1 Sınıfı: Sürücü dahil en fazla 9 oturma yeri olan motorlu araç",
-            "M2 Sınıfı: Sürücü dahil 9'dan fazla oturma yeri olan ve azami ağırlığı 5 tonu aşmayan motorlu araç",
-            "M3 Sınıfı: Sürücü dahil 9'dan fazla oturma yeri olan ve azami ağırlığı 5 tonu aşan motorlu araç"
+            "M sınıfı: En az dört tekerlekli ve yolcu taşımasında kullanılan motorlu araçlar",
+            "M1: Sürücü dahil en fazla 9 oturma yeri",
+            "M2: Sürücü dahil 9’dan fazla oturma yeri, azami ağırlığı 5 tonu aşmayan",
+            "M3: Sürücü dahil 9’dan fazla oturma yeri, azami ağırlığı 5 tonu aşan"
           ]
         }
+      ],
+      "imageLayout": "grid2",
+      "imageUrls": [
+        "https://panel.kolayehliyet.com/storage/81/%C3%BCnite-2---otomobil.jpg",
+        "https://panel.kolayehliyet.com/storage/82/%C3%9Cnite-2---Min%C3%BCb%C3%BCs.png"
       ]
     },
     {
       "title": "3. Yük taşıma araçları",
-      "badge": "Yük",
+      "badge": "Yük · N",
       "accent": 2,
-      "intro": "Yük taşımacılığında kullanılan araç türleri:",
+      "intro": "Yük taşımacılığında kullanılan araç türleri (görseller ilgili tanımlarla eşleştirildi).",
       "bullets": [
-        "Kamyonet: Azami yüklü ağırlığı 3.500 kg'ı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıt",
-        "Panelvan: Sürücü bölümü gövde ile birleşik kamyonet",
-        "Kamyon: İzin verilebilen azami yüklü ağırlığı 3.500 kg'dan fazla olan ve yük taşımak için imal edilmiş motorlu taşıt",
-        "Çekici: Römork ve yarı römorkları çekmek için imal edilmiş olan ve yük taşımayan motorlu taşıt"
+        "Kamyonet: Azami yüklü ağırlığı 3.500 kg’ı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıt. Sürücü bölümü gövde ile birleşik kamyonetlere panelvan denir",
+        "Kamyon: İzin verilebilen azami yüklü ağırlığı 3.500 kg’dan fazla olan ve yük taşımak için imal edilmiş motorlu taşıt",
+        "Çekici: Römork ve yarı römorkları çekmek için imal edilmiş, yük taşımayan motorlu taşıt"
       ],
+      "subsections": [
+        {
+          "title": "Uluslararası sınıflandırma – N sınıfı (yük)",
+          "bullets": [
+            "N sınıfı: En az dört tekerlekli ve yük taşımasında kullanılan motorlu araçlar",
+            "N1: Azami ağırlığı 3,5 tonu aşmayan",
+            "N2: Azami ağırlığı 3,5 tonu aşan, 12 tonu aşmayan",
+            "N3: Azami ağırlığı 12 tonu aşan"
+          ]
+        }
+      ],
+      "imageLayout": "grid2",
       "imageUrls": [
         "https://panel.kolayehliyet.com/storage/84/%C3%BCnite-2---kamyonet.jpg",
         "https://panel.kolayehliyet.com/storage/85/%C3%BCnite-2---kamyon.jpg",
         "https://panel.kolayehliyet.com/storage/86/%C3%BCnite-2---%C3%A7ekici.jpg"
-      ],
-      "subsections": [
-        {
-          "title": "Uluslararası sınıflandırma - N Sınıfı",
-          "bullets": [
-            "N Sınıfı: En az dört tekerlekli ve yük taşımasında kullanılan motorlu araçlar",
-            "N1 Sınıfı: Azami ağırlığı 3.5 tonu aşmayan motorlu araç",
-            "N2 Sınıfı: Azami ağırlığı 3.5 tonu aşan, ancak 12 tonu aşmayan motorlu araç",
-            "N3 Sınıfı: Azami ağırlığı 12 tonu aşan motorlu araç"
-          ]
-        }
       ]
     },
     {
       "title": "4. Römorklar",
-      "badge": "Römork",
+      "badge": "Römork · O",
       "accent": 3,
-      "intro": "Motorsuz yük taşıma araçları:",
+      "intro": "Motorsuz yük taşıma araçları (görseller ilgili tanımlarla eşleştirildi).",
       "bullets": [
-        "Römork: Motorlu araçla çekilen insan veya yük taşımak için imal edilmiş motorsuz araç",
-        "Yarı römork: Bir kısmı motorlu taşıt üzerine oturan, taşıdığı yükün ve kendi ağırlığının bir kısmı motorlu araç tarafından taşınan römork",
-        "Hafif römork: Azami yüklü ağırlığı 0.75 tonu geçmeyen römork veya yarı römork"
+        "Römork: Motorlu araçla çekilen, insan veya yük taşımak için imal edilmiş motorsuz araç",
+        "Yarı römork: Bir kısmı motorlu taşıt/araç üzerine oturan; yükün ve ağırlığın bir kısmı motorlu taşıt tarafından taşınan römork",
+        "Hafif römork: Azami yüklü ağırlığı 0,75 tonu geçmeyen römork veya yarı römork"
       ],
+      "subsections": [
+        {
+          "title": "Uluslararası sınıflandırma – O sınıfı (römork)",
+          "bullets": [
+            "O sınıfı: Motorlu taşıt tarafından çekilen römork veya yarı römork (motorsuz yük taşıma)",
+            "O1: Azami ağırlığı 0,75 tonu aşmayan",
+            "O2: Azami ağırlığı 0,75 tonu aşan, 3,5 tonu aşmayan",
+            "O3: Azami ağırlığı 3,5 tonu aşan, 10 tonu aşmayan",
+            "O4: Azami ağırlığı 10 tonu aşan"
+          ]
+        }
+      ],
+      "imageLayout": "grid2",
       "imageUrls": [
         "https://panel.kolayehliyet.com/storage/87/%C3%BCnite-2---r%C3%B6mork.jpg",
         "https://panel.kolayehliyet.com/storage/88/%C3%BCnite-2---yar%C4%B1-r%C3%B6mork.jpg",
         "https://panel.kolayehliyet.com/storage/89/%C3%BCnite-2---hafif-r%C3%B6mork.jpg"
-      ],
-      "subsections": [
-        {
-          "title": "Uluslararası sınıflandırma - O Sınıfı",
-          "bullets": [
-            "O Sınıfı: Bir motorlu araç tarafından çekilen römork veya yarı römork motorsuz yük taşıma araçları",
-            "O1 Sınıfı: Azami ağırlığı 0.75 tonu aşmayan motorsuz yük taşıma aracı",
-            "O2 Sınıfı: Azami ağırlığı 0.75 tonu aşan, ancak 3.5 tonu aşmayan motorsuz yük taşıma aracı",
-            "O3 Sınıfı: Azami ağırlığı 3.5 tonu aşan, ancak 10 tonu aşmayan motorsuz yük taşıma aracı",
-            "O4 Sınıfı: Azami ağırlığı 10 tonu aşan motorsuz yük taşıma aracı"
-          ]
-        }
       ]
     },
     {
       "title": "5. Motorlu araçların tescil işlemleri",
       "badge": "Tescil",
       "accent": 0,
-      "intro": "Bütün motorlu araçlar ile tescili zorunlu kılınan motorsuz araçların sahipleri, araçlarını yetkili tescil kuruluşuna tescil ettirmek ve tescil belgesi almak mecburiyetindedir.",
-      "bullets": [],
+      "intro": "Bütün motorlu araçlar ile tescili zorunlu kılınan motorsuz araçların sahipleri, araçlarını yetkili tescil kuruluşuna tescil ettirmek ve tescil belgesi almak zorundadır. Ancak aşağıdakiler bu hükmün dışındadır:",
+      "bullets": [
+        "Tescil edildiği ülkenin tescil belgesi ve plakası bulunanlar; geçici olarak ülkemize girmesine izin verilen araçlar; ikili/çok taraflı anlaşmalara göre ülkemizde tescil mecburiyeti getirilmeyen araçlar",
+        "Motorlu araçları imal, tadil, ihraç edenlerin ve satıcılığını yapanların; ithal, ihraç, depolama, sergileme ve satış amaçlı bu işlere ait yerlerde maliki olarak bulundurdukları araçlar",
+        "Belediyelerce tescili mecburi kılınanlar dışındaki bütün motorsuz taşıtlar"
+      ],
       "subsections": [
-        {
-          "title": "Tescil zorunluluğu olmayan araçlar",
-          "bullets": [
-            "Tescil edildiği ülkenin tescil belgesi ve plakası bulunan, geçici olarak ülkemize girmesine izin verilen araçlar",
-            "İkili veya çok taraflı anlaşmalara göre ülkemizde tescil mecburiyeti getirilmeyen araçlar",
-            "İmal, tadil, ihraç edenlerin ve satıcılığını yapanların ithal, ihraç, depolama, sergileme ve satış amacı ile bulundurdukları araçlar",
-            "Belediyelerce tescili mecburi kılınanlar dışındaki bütün motorsuz taşıtlar"
-          ]
-        },
         {
           "title": "Tescile yetkili kuruluşlar",
           "bullets": [
-            "Askeri araçlar ve iş makineleri dışındaki motorlu araçlar: Trafik tescil kuruluşları",
-            "Askeri araçlar: Türk Silahlı Kuvvetleri",
-            "Raylı sistemde çalışan araçlar: Ait olduğu kuruluşlar",
-            "Kamu kuruluşlarına ait iş makineleri: İlgili kuruluşlar",
-            "Tarım kesiminde kullanılan iş makineleri: Ziraat odaları",
-            "Sanayi, bayındırlık ve diğer kesimlerde kullanılan iş makineleri: Ticaret, sanayi veya ticaret ve sanayi odaları",
-            "Gerekli görülen motorsuz taşıtlar: Belediyeler (il trafik komisyonu kararı ile)"
+            "Askeri araç, iş makinesi ve raylı sistem dışındaki motorlu araçlar ile tescile tabi römork/yarı römork (yüklü ağırlığı 750 kg üstü, takılarak kullanılacak): trafik tescil kuruluşları",
+            "Askeri araçlar ve anlaşmalara göre askeri amaçla bulunan kuruluşlara ait araçlar: TSK",
+            "Raylı sistemde çalışan araçlar: ait oldukları kuruluş",
+            "İş makineleri: kamuya ait olanlar ilgili kuruluş; tarımda kullanılanlar ziraat odaları; sanayi, bayındırlık ve diğer kesimde kullanılanlar ilgili ticaret/sanayi (veya ticaret ve sanayi) odaları",
+            "Tarımda kullanılanlar hariç, il trafik komisyonu kararı ile motorsuz taşıtlardan gerekli görülenler: belediyeler"
           ]
         }
       ]
     },
     {
-      "title": "6. Zorunlu mali sorumluluk sigortası",
+      "title": "6. Hukuki sorumluluklar ve araç sigortaları",
       "badge": "Sigorta",
       "accent": 1,
-      "intro": "Motorlu bir aracın karayollarında yürütülmesi sırasında, bir kimsenin zarara uğramasına neden olunması durumunda, o aracı yürütenin üçüncü kişilere karşı olan sorumluluğunu belli sınırlar içinde karşılamayı amaçlayan ve yasaca yapılması zorunlu kılınan sorumluluk sigortası türüdür.",
+      "intro": "Zorunlu mali sorumluluk: Karayolunda yürürlük sırasında üçüncü kişi zararını, yasal sınırlar içinde karşılayan, yaptırımı zorunlu sorumluluk sigortasıdır.",
       "bullets": [
         "Süresi 12 aydır, yenilemek zorunludur",
-        "Araç sahibinin değiştiği andan itibaren geçersiz sayılır",
-        "Aracın sigortalatılacağı sigorta şirketi araç sahibinin tercihine bırakılmıştır",
-        "Sigortalatılmayan araç trafikten men edilir",
-        "Otobüsler için 'zorunlu koltuk ferdi kaza sigortası' yaptırılması gerekmektedir"
+        "Araç sahibi değişince geçersiz sayılır",
+        "Sigorta şirketi tercihe bırakılmıştır",
+        "Yaptırılmayan araç trafikten men edilir",
+        "Otobüslerde ayrıca zorunlu koltuk ferdi kaza sigortası gerekir"
       ],
       "subsections": [
         {
-          "title": "Kasko sigortası",
+          "title": "Kasko",
           "bullets": [
-            "İsteğe bağlı yapılmaktadır",
-            "İçerik ve kapsamları tercihlere göre değişmektedir"
+            "İsteğe bağlıdır",
+            "Kapsam ve içerik tercihe göre değişir"
           ]
         }
       ]
@@ -156,11 +148,11 @@
       "title": "7. Araç muayenesi",
       "badge": "Muayene",
       "accent": 2,
-      "intro": "Araçların periyodik muayene süreleri:",
+      "intro": "Periyodik muayene süreleri (özet):",
       "bullets": [
-        "Otomobiller, iki ve üç tekerlekli araçlar ve her türlü römorklar: İlk tescil tarihinden sonra 3 yaşında, daha sonraki her 2 yılda bir kez",
-        "Traktörler: İlk tescil tarihinden sonra 3 yaşında, daha sonraki her 3 yılda bir kez",
-        "Diğer motorlu araçlar ve her türlü römorklar (Taksi, kamyon, otobüs vb. ticari araçlar): İlk tescil tarihinden itibaren her yıl"
+        "Otomobiller, iki ve üç tekerlekli araçlar ve tüm römorklar: İlk tescilden sonra 3. yaşta, sonrasında her 2 yılda bir",
+        "Traktörler: İlk tescilden sonra 3. yaşta, sonrasında her 3 yılda bir",
+        "Diğer motorlu araçlar ve tüm römorklar (taksi, kamyon, otobüs vb.): İlk tescilden itibaren her yıl"
       ],
       "subsections": []
     }
