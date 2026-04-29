@@ -1,0 +1,93 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 36 · Trafikte hak ihlalleri — süper notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/36-trafikte-hak-ihlalleri.html",
+  "sections": [
+    {
+      "title": "Hak ve hak ihlali kavramı",
+      "badge": "Temel",
+      "accent": 0,
+      "intro": "Hak, insanların yaşamını sürdürmesi ve toplumsal düzen için faydalandığı değerlerdir. Hak ihlali ise bu hakların engellenmesi veya kısıtlanmasıdır.",
+      "bullets": [
+        "Hak, bireysel ve toplumsal düzenin temel unsurudur",
+        "Hak ihlali; erişimin engellenmesi, kısıtlanması veya yok sayılmasıdır",
+        "Trafikte hak ihlali hem hukuki hem ahlaki sonuç doğurur"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Diğer insanlara karşı hak ihlalleri",
+      "badge": "Birey",
+      "accent": 1,
+      "intro": "Trafik kuralları; yayaların, sürücülerin ve bisikletlilerin hak-yükümlülük dengesini korumak için vardır.",
+      "bullets": [
+        "Kurallara uymamak, diğer yol kullanıcılarının hakkını ihlal eder",
+        "Geçiş üstünlüğü olan araca yol vermemek cezai yaptırım gerektirir",
+        "Geçiş üstünlüğü aracının arkasına takılarak ilerlemek trafik adabına aykırı bir hak ihlalidir",
+        "Engelliler için ayrılmış sarı bantları işgal etmek engelli bireylerin hakkını ihlal eder"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Topluma karşı hak ihlalleri",
+      "badge": "Toplum",
+      "accent": 2,
+      "intro": "Trafik kaynaklı hak ihlalleri yalnız bireyi değil, aileleri ve toplumsal yapıyı da etkiler.",
+      "bullets": [
+        "Hak ihlali sonucu kazalar can-mal kaybı ve yaralanmalara yol açar",
+        "Ölümlü kazalar aile yapısını ve sosyal dengeleri bozabilir",
+        "Psikolojik etkiler, toplumun yaşam kalitesini ve dinamiklerini düşürebilir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Diğer canlılara karşı hak ihlalleri",
+      "badge": "Canlılar",
+      "accent": 3,
+      "intro": "Diğer canlıların yaşam haklarına saygı, sürdürülebilir ve yaşanabilir bir ekosistem için zorunludur.",
+      "bullets": [
+        "Canlıların yaşam hakkı gözetilmelidir",
+        "Sürücü davranışları sadece insanı değil tüm canlıları etkiler",
+        "Canlılara saygılı trafik kültürü ekolojik dengeyi destekler"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Doğa ve çevreye karşı hak ihlalleri",
+      "badge": "Çevre",
+      "accent": 0,
+      "intro": "Trafikte bilinçsiz davranış, enerji tüketimi ve çevresel kirlilik üzerinden doğaya doğrudan zarar verir.",
+      "bullets": [
+        "Özel araç kullanımındaki artış enerji tüketimini yükseltir",
+        "Hava kirliliği ve gürültü kirliliği toplumsal sağlık riskidir",
+        "Çevreye zarar veren sürüş alışkanlıkları dolaylı hak ihlaline dönüşür"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Birey haklarına verilen zararlar",
+      "badge": "Yaşam",
+      "accent": 1,
+      "intro": "Trafikte en temel hak yaşam hakkıdır; bu hak tehlikeye atıldığında diğer haklar anlamını yitirir.",
+      "bullets": [
+        "Sürücü, hem kendi hem başkasının yaşam hakkını korumakla yükümlüdür",
+        "Yaşam hakkı tüm diğer hakların ön koşuludur",
+        "Trafikte birey haklarına en ağır zarar yaşam hakkının ihlalidir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Trafiğin çevre kirliliğindeki rolü",
+      "badge": "Etki",
+      "accent": 2,
+      "intro": "Motorlu kara taşıtları, çevre kirliliğinin önemli kaynaklarından biridir.",
+      "bullets": [
+        "Araç gürültüsü çevresel rahatsızlık oluşturur",
+        "Egzoz dumanı hava kalitesini bozar",
+        "Yağ ve yakıt sızıntıları çevreyi kirletir",
+        "Çevre dostu sürüş alışkanlığı toplumsal sorumluluktur"
+      ],
+      "subsections": []
+    }
+  ]
+}

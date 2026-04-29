@@ -1,0 +1,65 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 38 · Tescil, sigorta ve muayene islemleri — super notlar",
+  "sourceUrl": "https://imdbfilmizle1.blogspot.com/2026/04/38-tescil-sigorta-ve-muayene-islemleri.html",
+  "sections": [
+    {
+      "title": "Motorlu araclarin tescil islemleri",
+      "badge": "Tescil",
+      "accent": 0,
+      "intro": "Butun motorlu araclar ile tescili zorunlu kilinan motorsuz araclarin sahipleri, araclarini yetkili tescil kurulusuna tescil ettirmek ve tescil belgesi almak mecburiyetindedir.",
+      "bullets": [
+        "Tescil edildigi ulkenin tescil belgesi ve plakasi bulunanlardan, gecici olarak ulkemize girmesine izin verilen araclar bu hukmun disindadir",
+        "Ikili veya cok tarafli anlasmalara gore ulkemizde tescil mecburiyeti getirilmeyen araclar bu hukmun disindadir",
+        "Motorlu araclari imal, tadil, ihrac edenlerin ve saticiligini yapanlarin; ithal, ihrac, depolama, sergileme ve satis amaci ile bu islere ait yerlerde maliki olarak bulundurduklari araclar bu hukmun disindadir",
+        "Belediyelerce tescili mecburi kilinanlar disindaki butun motorsuz tasitlar bu hukmun disindadir"
+      ],
+      "subsections": [
+        {
+          "title": "Tescile yetkili kuruluslar",
+          "bullets": [
+            "Askeri araclar, is makineleri ve rayli sistemle calisanlar disindaki butun motorlu araclar ile tescile tabi ve yuklu agirligi 750 kg ustundeki romork yari romorklarin tescili trafik tescil kuruluslarinca yapilir",
+            "Askeri araclar ile cesitli anlasmalara gore askeri amacla ulkemizde bulunan kuruluslara ait araclarin tescili Turk Silahli Kuvvetlerince yapilir",
+            "Rayli sistemde calisan araclarin tescili, kullanildigi yerlere gore ait oldugu kuruluslarca yapilir",
+            "Is makinesi turunden kamu araclari ilgili kuruluslarca; tarimda kullanilanlar ziraat odalarinca; sanayi, bayindirlik ve diger kesimlerde kullanilanlar ilgili ticaret ve sanayi odalarinca tescil edilir",
+            "Tarim kesiminde kullanilanlar haric, il trafik komisyonu karariyla gerekli gorulen motorsuz tasitlarin tescili belediyelerce yapilir"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hukuki sorumluluklar ve arac sigortalari",
+      "badge": "Sigorta",
+      "accent": 1,
+      "intro": "Zorunlu mali sorumluluk sigortasi, motorlu bir aracin karayolunda isletilmesi sirasinda ucuncu kisilere verilen zararlari yasal sinirlar icinde karsilamayi amaclayan zorunlu sigorta turudur.",
+      "bullets": [
+        "Suresi 12 aydir ve yenilenmesi zorunludur",
+        "Arac sahibinin degistigi andan itibaren gecersiz sayilir",
+        "Aracin sigortalanacagi sirket arac sahibinin tercihine birakilmistir",
+        "Sigortalatilmayan arac trafikten men edilir",
+        "Otobusler icin zorunlu koltuk ferdi kaza sigortasi da yaptirilmalidir"
+      ],
+      "subsections": [
+        {
+          "title": "Kasko",
+          "bullets": [
+            "Istege bagli yaptirilir",
+            "Icerik ve kapsami tercihlere gore degisir"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arac muayenesi",
+      "badge": "Muayene",
+      "accent": 2,
+      "intro": "Arac cinsine gore ilk tescilden sonraki muayene zamani ve periyodik tekrar araliklari farklilik gosterir.",
+      "bullets": [
+        "Otomobiller, iki ve uc tekerlekli araclar ve her turlu romorklar; ilk tescil tarihinden sonra 3 yasinda, daha sonra her 2 yilda bir muayene edilir",
+        "Traktorler; ilk tescil tarihinden sonra 3 yasinda, daha sonra her 3 yilda bir muayene edilir",
+        "Diger motorlu araclar ve her turlu romorklar; ilk tescilden itibaren her yil muayene edilir (taksi, kamyon, otobus gibi ticari araclar)"
+      ],
+      "subsections": []
+    }
+  ]
+}
