@@ -1,0 +1,139 @@
+{
+  "sheetTitle": "Son Bakış",
+  "sheetSubtitle": "Ünite 33 · Ön hazırlık ve stop etme nedenleri — süper notlar",
+  "sections": [
+    {
+      "title": "Aracı kullanmaya hazırlık (genel sıra)",
+      "badge": "Temel",
+      "accent": 0,
+      "intro": "Sürüşe başlamadan önce araç çevresi ve sürücü hazırlığı tamamlanır; sonra motor çalıştırılıp göstergeler kontrol edilir.",
+      "bullets": [
+        "Aracın etrafında tur atılarak dış kontrol yapılır",
+        "Sürücü koltuğuna oturunca koltuk ve aynalar ayarlanır",
+        "Emniyet kemeri takılır, baş desteği uygun konuma getirilir",
+        "Motor çalıştırılır, göstergeler kontrol edilir",
+        "Sorun yoksa aracı güvenli şekilde harekete geçirme yapılır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Sürücü pozisyonu ve kabin ayarları",
+      "badge": "Ayar",
+      "accent": 1,
+      "intro": "Doğru sürüş pozisyonu; araca hakimiyet, görüş ve güvenlik için zorunludur.",
+      "bullets": [
+        "Koltuk: ileri-geri ayarı",
+        "Koltuk: yükseklik ayarı",
+        "Koltuk: sırtlık eğim ayarı",
+        "Aynalar: kör noktayı azaltacak biçimde ayarlanır",
+        "Baş desteği: baş-boyun hizasına uygun olmalıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Günlük motor kontrolleri",
+      "badge": "Bakım",
+      "accent": 2,
+      "intro": "Aracı kullanmadan önce temel sıvı ve yakıt seviyeleri günlük olarak kontrol edilir.",
+      "bullets": [
+        "Motor yağ seviyesi",
+        "Motor su seviyesi",
+        "Hidrolik yağ seviyesi",
+        "Yakıt seviyesi",
+        "Rölanti ayarı günlük bakım kontrolü değildir"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Kışa hazırlık kontrolleri",
+      "badge": "Mevsim",
+      "accent": 3,
+      "intro": "Soğuk havada güvenli sürüş ve arıza önleme için kış öncesi kritik kontroller yapılır.",
+      "bullets": [
+        "Akü kontrolü",
+        "Lastik kontrolü",
+        "Antifriz kontrolü"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Sürüş öncesi araçta iyi durumda olması gerekenler",
+      "badge": "Kontrol",
+      "accent": 0,
+      "intro": "Yola çıkmadan önce görüş, güvenlik ve teknik uygunluk sağlayan parçalar kontrol edilmelidir.",
+      "bullets": [
+        "Farlar",
+        "Motor yağ seviyesi",
+        "Motor suyu seviyesi",
+        "Silecek lastikleri",
+        "Lastik havaları"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Periyodik bakımda değişen parçalar",
+      "badge": "Servis",
+      "accent": 1,
+      "intro": "Kullanma kılavuzundaki kilometre aralıklarına göre bazı parçalar yenilenmelidir.",
+      "bullets": [
+        "Buji",
+        "Motor yağı",
+        "Filtreler (hava, yağ, yakıt)",
+        "Kayışlar (triger, vantilatör)",
+        "Araç lastikleri"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Yeni araçta rodaj (alıştırma) dönemi",
+      "badge": "Rodaj",
+      "accent": 2,
+      "intro": "Yeni motorun ilk kullanım döneminde zorlayıcı sürüşten kaçınılır; ilk bakım zamanında yaptırılır.",
+      "bullets": [
+        "Ani duruş ve ani kalkıştan kaçınılır",
+        "Tam gaz ve ani hızlanma yapılmaz",
+        "Aynı vitesle uzun süre gidilmez",
+        "Ağır yük ve aşırı yokuştan kaçınılır",
+        "1000-2000 km arasında ilk bakım yapılır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Bakımı erkene çeken sürüş koşulları",
+      "badge": "Not",
+      "accent": 3,
+      "intro": "Bazı kullanım şartları araç üzerinde ekstra yük oluşturur ve periyodik bakımın daha erken yapılmasını gerektirebilir.",
+      "bullets": [
+        "Yol durumu",
+        "Hava koşulları",
+        "Kişisel kullanım farkları"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Römorkta aydınlatma-sinyal kontrolü",
+      "badge": "Römork",
+      "accent": 0,
+      "intro": "Römork bağlıyken trafikte görünürlük için elektrik bağlantısı doğru yapılmalı ve lambalar çalışmalıdır.",
+      "bullets": [
+        "Römorkta park ve sinyal lambaları çalışır durumda olmalıdır",
+        "Bunun için römork elektrik sistemi araç prizine takılmalıdır"
+      ],
+      "subsections": []
+    },
+    {
+      "title": "Stop etme nedenleri (özet)",
+      "badge": "Kritik",
+      "accent": 1,
+      "intro": "Sınav ve günlük kullanımda araç stop etmesi çoğunlukla kalkış, debriyaj-gaz dengesi ve vites/hız uyumsuzluğundan kaynaklanır.",
+      "bullets": [
+        "Debriyajı ani bırakma",
+        "Kalkışta gaza yetersiz basma",
+        "Yanlış vites seçimi",
+        "Düşük hızda yüksek viteste gitme",
+        "Fren-debriyaj koordinasyon hatası"
+      ],
+      "subsections": []
+    }
+  ]
+}
